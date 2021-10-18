@@ -21,4 +21,4 @@ Here are my solutions to their challenges
 | Battle #13 - Clip        |     [See](%2313%20-%20Clip.md)      | [Go to battle](https://cssbattle.dev/battle/13) |
 | Battle #14 - ZIndex      |    [See](%2314%20-%20ZIndex.md)     | [Go to battle](https://cssbattle.dev/battle/14) |
 | Battle #15 - Filter      |    [See](%2315%20-%20Filter.md)     | [Go to battle](https://cssbattle.dev/battle/15) |
-| Battle #16 - Aspect      |    [See](%2316%20-%20Aspect.md)     | [Go to battle](https://cssbattle.dev/battle/15) |
+| Battle #16 - Aspect      |    [See](%2316%20-%20Aspect.md)     | [Go to battle](https://cssbattle.dev/battle/16) |
