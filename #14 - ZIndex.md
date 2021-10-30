@@ -1,8 +1,32 @@
 # Zindex
 
-## [Cube](https://cssbattle.dev/play/19)
+## [Notes](https://cssbattle.dev/play/77)
 
-<img src="https://cssbattle.dev/targets/19.png">
+<img src="https://cssbattle.dev/targets/77.png">
+
+```html
+
+```
+
+## [Ukelele](https://cssbattle.dev/play/78)
+
+<img src="https://cssbattle.dev/targets/78.png">
+
+```html
+
+```
+
+## [Tambourine](https://cssbattle.dev/play/79)
+
+<img src="https://cssbattle.dev/targets/79.png">
+
+```html
+
+```
+
+## [Piano](https://cssbattle.dev/play/80)
+
+<img src="https://cssbattle.dev/targets/80.png">
 
 ```html
 
