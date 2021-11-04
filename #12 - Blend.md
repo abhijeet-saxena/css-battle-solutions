@@ -2,7 +2,7 @@
 
 ## [ImprovMX](https://cssbattle.dev/play/61)
 
-<img src="https://cssbattle.dev/targets/61.png">
+<img width="200px" src="https://cssbattle.dev/targets/61.png">
 
 ```html
 <div></div>
@@ -87,7 +87,7 @@
 
 ## [Sunset](https://cssbattle.dev/play/62)
 
-<img src="https://cssbattle.dev/targets/62.png">
+<img width="200px" src="https://cssbattle.dev/targets/62.png">
 
 ```html
 <div></div>
@@ -122,7 +122,7 @@
 
 ## [Command Key](https://cssbattle.dev/play/63)
 
-<img src="https://cssbattle.dev/targets/63.png">
+<img width="200px" src="https://cssbattle.dev/targets/63.png">
 
 ```html
 <div></div>
@@ -172,7 +172,7 @@
 
 ## [Door Knob](https://cssbattle.dev/play/64)
 
-<img src="https://cssbattle.dev/targets/64.png">
+<img width="200px" src="https://cssbattle.dev/targets/64.png">
 
 ```html
 <div></div>
@@ -202,7 +202,7 @@
 
 ## [Max Volume](https://cssbattle.dev/play/65)
 
-<img src="https://cssbattle.dev/targets/65.png">
+<img width="200px" src="https://cssbattle.dev/targets/65.png">
 
 ```html
 <div></div>
@@ -235,7 +235,7 @@
 
 ## [Batmicky](https://cssbattle.dev/play/66)
 
-<img src="https://cssbattle.dev/targets/66.png">
+<img width="200px" src="https://cssbattle.dev/targets/66.png">
 
 ```html
 <div></div>
@@ -289,7 +289,7 @@
 
 ## [Video Reel](https://cssbattle.dev/play/67)
 
-<img src="https://cssbattle.dev/targets/67.png">
+<img width="200px" src="https://cssbattle.dev/targets/67.png">
 
 ```html
 <div></div>
@@ -316,7 +316,7 @@
 
 ## [Bell](https://cssbattle.dev/play/68)
 
-<img src="https://cssbattle.dev/targets/68.png">
+<img width="200px" src="https://cssbattle.dev/targets/68.png">
 
 ```html
 <div></div>
@@ -338,10 +338,3 @@
   }
 </style>
 ```
-
-<style>
-    img{
-        width: 200px;
-        margin: 1rem 0;
-    }
-</style>
