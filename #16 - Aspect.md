@@ -51,20 +51,61 @@
 </style>
 ```
 
-## [Cube](https://cssbattle.dev/play/91)
+## [Reflection](https://cssbattle.dev/play/91)
 
 <img width="200px" src="https://cssbattle.dev/targets/91.png">
 
 ```html
-
+<style>
+  body {
+    background: linear-gradient(
+        transparent 150px,
+        #6cb3a9 150px,
+        #6cb3a9 165px,
+        transparent 165px,
+        transparent 175px,
+        #6cb3a9 175px,
+        #6cb3a9 190px,
+        transparent 190px,
+        transparent 200px,
+        #6cb3a9 200px,
+        #6cb3a9 215px,
+        transparent 215px,
+        transparent 225px,
+        #6cb3a9 225px,
+        #6cb3a9 240px,
+        transparent 240px,
+        transparent 250px
+      ), radial-gradient(circle, #f6df96 100px, transparent 100px),
+      linear-gradient(#d25b70 50%, #6cb3a9 50%);
+  }
+</style>
 ```
 
-## [Cube](https://cssbattle.dev/play/92)
+## [Squeeze](https://cssbattle.dev/play/92)
 
 <img width="200px" src="https://cssbattle.dev/targets/92.png">
 
 ```html
-
+<style>
+  body {
+    background: radial-gradient(
+        circle at 87px 125px,
+        #6592cf 15px,
+        transparent 15px
+      ), radial-gradient(circle at 87px 175px, #6592cf 15px, transparent 15px),
+      radial-gradient(circle at 312px 125px, #6592cf 15px, transparent 15px),
+      radial-gradient(circle at 312px 175px, #6592cf 15px, transparent 15px),
+      linear-gradient(
+        transparent 130px,
+        #243d83 130px,
+        #243d83 170px,
+        transparent 170px
+      ), radial-gradient(circle, #243d83 100px, transparent 100px),
+      radial-gradient(circle at -25px, #243d83 100px, transparent 100px),
+      radial-gradient(circle at 425px, #243d83 100px, #6592cf 100px);
+  }
+</style>
 ```
 
 ## [Cube](https://cssbattle.dev/play/93)
