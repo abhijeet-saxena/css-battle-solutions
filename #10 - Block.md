@@ -2,7 +2,7 @@
 
 ## [Corona Virus](https://cssbattle.dev/play/47)
 
-<img src="https://cssbattle.dev/targets/47.png">
+<img width="200px" src="https://cssbattle.dev/targets/47.png">
 
 ```html
 <div class="virus">
@@ -66,7 +66,7 @@
 
 ## [Wash Your Hands](https://cssbattle.dev/play/48)
 
-<img src="https://cssbattle.dev/targets/48.png">
+<img width="200px" src="https://cssbattle.dev/targets/48.png">
 
 ```html
 <div class="soap"></div>
@@ -99,7 +99,7 @@
 
 ## [Stay At Home](https://cssbattle.dev/play/49)
 
-<img src="https://cssbattle.dev/targets/49.png">
+<img width="200px" src="https://cssbattle.dev/targets/49.png">
 
 ```html
 <div></div>
@@ -149,7 +149,7 @@
 
 ## [Use Hand Sanitizer](https://cssbattle.dev/play/50)
 
-<img src="https://cssbattle.dev/targets/50.png">
+<img width="200px" src="https://cssbattle.dev/targets/50.png">
 
 ```html
 <div class="bottle"></div>
@@ -211,7 +211,7 @@
 
 ## [Wear a Mask](https://cssbattle.dev/play/51)
 
-<img src="https://cssbattle.dev/targets/51.png">
+<img width="200px" src="https://cssbattle.dev/targets/51.png">
 
 ```html
 <div></div>
@@ -275,7 +275,7 @@
 
 ## [Break the Chain](https://cssbattle.dev/play/52)
 
-<img src="https://cssbattle.dev/targets/52.png">
+<img width="200px" src="https://cssbattle.dev/targets/52.png">
 
 ```html
 <div></div>
@@ -309,10 +309,3 @@
   }
 </style>
 ```
-
-<style>
-    img{
-        width: 200px;
-        margin: 1rem 0;
-    }
-</style>
