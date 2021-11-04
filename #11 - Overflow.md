@@ -2,7 +2,7 @@
 
 ## [Pastel Logo](https://cssbattle.dev/play/53)
 
-<img src="https://cssbattle.dev/targets/53.png">
+<img width="200px" src="https://cssbattle.dev/targets/53.png">
 
 ```html
 <div></div>
@@ -33,7 +33,7 @@
 
 ## [Black Lives Matter](https://cssbattle.dev/play/54)
 
-<img src="https://cssbattle.dev/targets/54.png">
+<img width="200px" src="https://cssbattle.dev/targets/54.png">
 
 ```html
 <div></div>
@@ -96,7 +96,7 @@
 
 ## [Windmill](https://cssbattle.dev/play/55)
 
-<img src="https://cssbattle.dev/targets/55.png">
+<img width="200px" src="https://cssbattle.dev/targets/55.png">
 
 ```html
 <div></div>
@@ -139,7 +139,7 @@
 
 ## [Skull](https://cssbattle.dev/play/56)
 
-<img src="https://cssbattle.dev/targets/56.png">
+<img width="200px" src="https://cssbattle.dev/targets/56.png">
 
 ```html
 <div></div>
@@ -193,7 +193,7 @@
 
 ## [Pillars](https://cssbattle.dev/play/57)
 
-<img src="https://cssbattle.dev/targets/57.png">
+<img width="200px" src="https://cssbattle.dev/targets/57.png">
 
 ```<div><div>
 <style>
@@ -236,7 +236,7 @@
 
 ## [Rose](https://cssbattle.dev/play/58)
 
-<img src="https://cssbattle.dev/targets/58.png">
+<img width="200px" src="https://cssbattle.dev/targets/58.png">
 
 ```html
 <div></div>
@@ -307,7 +307,7 @@
 
 ## [Earth](https://cssbattle.dev/play/59)
 
-<img src="https://cssbattle.dev/targets/59.png">
+<img width="200px" src="https://cssbattle.dev/targets/59.png">
 
 ```html
 <div>
@@ -356,7 +356,7 @@
 
 ## [Evil Triangles](https://cssbattle.dev/play/60)
 
-<img src="https://cssbattle.dev/targets/60.png">
+<img width="200px" src="https://cssbattle.dev/targets/60.png">
 
 ```html
 <div></div>
@@ -394,10 +394,3 @@
   }
 </style>
 ```
-
-<style>
-    img{
-        width: 200px;
-        margin: 1rem 0;
-    }
-</style>
