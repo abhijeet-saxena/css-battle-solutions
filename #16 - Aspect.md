@@ -108,34 +108,158 @@
 </style>
 ```
 
-## [Cube](https://cssbattle.dev/play/93)
+## [Great Wall](https://cssbattle.dev/play/93)
 
 <img width="200px" src="https://cssbattle.dev/targets/93.png">
 
 ```html
-
+<div></div>
+<style>
+  body {
+    background: radial-gradient(
+        circle at 160px 110px,
+        #f9e492 20px,
+        transparent 20px
+      ), radial-gradient(circle, #191919 100px, #4f77ff 100px);
+  }
+  div {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 50px auto;
+    position: relative;
+    overflow: hidden;
+  }
+  div::before,
+  div::after {
+    position: absolute;
+    content: "";
+  }
+  div::before {
+    background: #d6b73f;
+    width: 22px;
+    height: 16px;
+    transform: skew(0, -32deg);
+    top: 116px;
+    left: 99px;
+    box-shadow: 0 26px 0 0 #d6b73f, 0 52px 0 0 #d6b73f;
+  }
+  div::after {
+    background: #f9e492;
+    width: 101px;
+    height: 16px;
+    top: 122px;
+    left: 0px;
+    box-shadow: 0 26px 0 0 #f9e492, 0 52px 0 0 #f9e492, 121px -13px 0 0 #f9e492,
+      121px 13px 0 0 #f9e492, 121px 39px 0 0 #f9e492;
+  }
+</style>
 ```
 
-## [Cube](https://cssbattle.dev/play/94)
+## [Ripples](https://cssbattle.dev/play/94)
 
 <img width="200px" src="https://cssbattle.dev/targets/94.png">
 
 ```html
-
+<style>
+  body {
+    background: radial-gradient(
+      circle,
+      #f3ac3c 20px,
+      #0e2e2c 20px,
+      #0e2e2c 28px,
+      #f3ac3c 28px,
+      #f3ac3c 40px,
+      #0e2e2c 40px,
+      #0e2e2c 50px,
+      #998235 50px,
+      #998235 60px,
+      #0e2e2c 60px,
+      #0e2e2c 72px,
+      #f3ac3c 72px,
+      #f3ac3c 80px,
+      #0e2e2c 80px,
+      #0e2e2c 94px,
+      #f3ac3c 94px,
+      #f3ac3c 100px,
+      #0e2e2c 100px
+    );
+  }
+</style>
 ```
 
-## [Cube](https://cssbattle.dev/play/95)
+## [Pokeball](https://cssbattle.dev/play/95)
 
 <img width="200px" src="https://cssbattle.dev/targets/95.png">
 
 ```html
-
+<div></div>
+<style>
+  body{
+    background: radial-gradient(circle, #781728 90px, #6CB3A9 50px);
+  }
+  div {
+    margin: 50px auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: linear-gradient(#D25B70 90px, #781728 90px, #781728 110px,  #FFFFFF 110px);
+    position: relative:
+  }
+  div::before, div::after{
+    position: absolute;
+    content: "";
+    width: 10px;
+    height: 20px;
+    top: 140px;
+    background: #6CB3A9;
+    box-shadow: 190px 0 0 0 #6CB3A9;
+  }
+  div::after{
+    width: 50px;
+    height: 50px;
+    background: #F6DF96;
+    border-radius: 50%;
+    border: solid 10px #781728;
+    top: 115px;
+    left: 165px;
+  }
+</style>
 ```
 
-## [Cube](https://cssbattle.dev/play/96)
+## [Mandala](https://cssbattle.dev/play/96)
 
 <img width="200px" src="https://cssbattle.dev/targets/96.png">
 
 ```html
-
+<div></div>
+<style>
+  body {
+    background: radial-gradient(circle, #6592cf 100px, #243d83 0px);
+  }
+  body::before,
+  body::after,
+  div::before,
+  div::after {
+    width: 130px;
+    height: 130px;
+    position: absolute;
+    content: "";
+    border-radius: 50%;
+    border: solid 20px #243d83;
+    top: -10px;
+    left: 115px;
+  }
+  body::after {
+    top: 140px;
+  }
+  div::before,
+  div::after {
+    top: 65px;
+    left: 40px;
+  }
+  div::after {
+    left: 190px;
+  }
+</style>
 ```
