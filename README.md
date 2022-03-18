@@ -23,3 +23,4 @@ Here are my solutions to their challenges
 | Battle #15 - Filter      |     [See](%2315%20-%20Filter.md)     | [Go to battle](https://cssbattle.dev/battle/15) |
 | Battle #16 - Aspect      |     [See](%2316%20-%20Aspect.md)     | [Go to battle](https://cssbattle.dev/battle/16) |
 | Battle #17 - Christmas   |   [See](%2317%20-%20Christmas.md)    | [Go to battle](https://cssbattle.dev/battle/17) |
+| Battle #18 - Float       |     [See](%2318%20-%20Float.md)      | [Go to battle](https://cssbattle.dev/battle/18) |
