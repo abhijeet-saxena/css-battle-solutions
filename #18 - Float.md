@@ -271,3 +271,260 @@
   }
 </style>
 ```
+
+## [Ryuk](https://cssbattle.dev/play/105)
+
+<img width="200px" src="https://cssbattle.dev/targets/105.png">
+
+```html
+<p></p>
+<p></p>
+<style>
+  body {
+    background: linear-gradient(45deg, #bac7ce 289px, transparent 289px),
+      linear-gradient(-45deg, #bac7ce 289px, #475862 289px);
+  }
+  body::before,
+  body::after {
+    content: "";
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 0 -15px 0 0 #5a6042;
+    z-index: 1;
+    top: 155px;
+    left: 40px;
+  }
+  body::after {
+    top: 155px;
+    left: 260px;
+  }
+  p {
+    width: 120px;
+    height: 120px;
+    background: radial-gradient(
+      circle at center,
+      #4e2b24 15px,
+      #000000 15px,
+      #000000 20px,
+      #868a64 20px,
+      #868a64 50px,
+      #000000 50px
+    );
+    position: relative;
+    border-radius: 0px 50%;
+    top: 122px;
+    left: 22px;
+    transform: rotate(-15deg);
+  }
+  p:nth-child(2) {
+    top: -14px;
+    left: 242px;
+    transform: rotate(-75deg);
+  }
+</style>
+```
+
+## [Ryuk's Apple](https://cssbattle.dev/play/106)
+
+<img width="200px" src="https://cssbattle.dev/targets/106.png">
+
+```html
+<div></div>
+<style>
+  body {
+    background: #000000;
+  }
+  div {
+    width: 10px;
+    height: 40px;
+    background: #d4392d;
+    margin: 70 auto;
+    position: relative;
+  }
+  div::before,
+  div::after {
+    position: absolute;
+    content: "";
+    width: 87px;
+    height: 115px;
+    background: #d4392d;
+    border-radius: 40px 44px 65px 22px;
+    top: 22.5px;
+  }
+  div::after {
+    left: -75;
+    border-radius: 44px 40px 27px 65px;
+  }
+  body::before,
+  body::after {
+    position: absolute;
+    content: "";
+    width: 50px;
+    height: 45px;
+    background: #000000;
+    top: 101px;
+    left: 101px;
+    z-index: 1;
+    border-radius: 0 23px 13px 0;
+  }
+  body::after {
+    top: 145px;
+    border-radius: 0 16px 19px 0;
+  }
+</style>
+```
+
+## [Sealing Wand](https://cssbattle.dev/play/107)
+
+<img width="200px" src="https://cssbattle.dev/targets/107.png">
+
+```html
+<div>
+  <p></p>
+</div>
+<style>
+  body {
+    background: #161616;
+  }
+  div {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: radial-gradient(
+      circle at center,
+      #161616 10px,
+      #a22015 10px,
+      #a22015 15px,
+      #ffffff 15px,
+      #ffffff 25px,
+      #a22015 25px
+    );
+    margin: 120 auto;
+    position: relative;
+  }
+  div::before,
+  div::after,
+  p,
+  p::before,
+  p::after,
+  body::before {
+    position: absolute;
+    content: "";
+  }
+  div::before {
+    width: 30px;
+    height: 28px;
+    background: #a22015;
+    bottom: -23;
+    left: 15;
+    border-radius: 0 0 10px 10px;
+  }
+  div::after {
+    width: 20px;
+    height: 100px;
+    background: #e96a23;
+    bottom: -120;
+    left: 20;
+    z-index: -1;
+  }
+  p {
+    width: 55px;
+    height: 12px;
+    background: #ffffff;
+    top: -4;
+    left: -40;
+    border-bottom-left-radius: 15px;
+  }
+  p::before {
+    width: 35px;
+    height: 14px;
+    background: #ffffff;
+    top: 10;
+    left: 15;
+    border-bottom-left-radius: 12px;
+  }
+  p::after {
+    width: 25px;
+    height: 12px;
+    background: #ffffff;
+    top: 24;
+    left: 30;
+    border-bottom-left-radius: 15px;
+  }
+  body::before {
+    width: 90px;
+    height: 40px;
+    background: #e96a23;
+    z-index: -1;
+    top: 129px;
+    left: 190px;
+    border-radius: 0 40px 5px 0;
+  }
+</style>
+```
+
+## [Clow Card](https://cssbattle.dev/play/108)
+
+<img width="200px" src="https://cssbattle.dev/targets/108.png">
+
+```html
+<div></div>
+<style>
+  body {
+    background: linear-gradient(
+        to left,
+        #000000 50px,
+        transparent 50px,
+        transparent 350px,
+        #000000 350px
+      ), linear-gradient(
+        to top,
+        #000000 75px,
+        transparent 75px,
+        transparent 225px,
+        #000000 225px
+      ), linear-gradient(-75deg, #e96a23 187px, #ebae11 187px, #ebae11 212px, #e96a23
+          212px, #e96a23 226px, #ebae11 226px, #ebae11 276px, #e96a23 276px);
+  }
+  div {
+    width: 240px;
+    height: 120px;
+    background: radial-gradient(circle at center, #ebae11 25px, #000000 25px);
+    position: relative;
+    top: 82px;
+    left: 72px;
+    border-radius: 13px;
+  }
+  div::before,
+  div::after {
+    position: absolute;
+    content: "";
+    border: solid 5px #ebae11;
+    border-radius: 50%;
+  }
+  div::before {
+    width: 120px;
+    height: 60px;
+    top: 25px;
+    left: 55px;
+  }
+  div::after {
+    width: 200px;
+    height: 80px;
+    top: 15px;
+    left: 15px;
+  }
+  body::before {
+    content: "";
+    position: absolute;
+    width: 270px;
+    height: 90px;
+    background: #000000;
+    top: 105px;
+    left: 65px;
+    border-radius: 13px;
+  }
+</style>
+```
