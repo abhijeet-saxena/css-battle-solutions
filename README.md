@@ -26,3 +26,4 @@ Here are my solutions to their challenges
 | Battle #18 - Float       |     [See](%2318%20-%20Float.md)      | [Go to battle](https://cssbattle.dev/battle/18) |
 | Battle #19 - Spacing     |    [See](%2319%20-%20Spacing.md)     | [Go to battle](https://cssbattle.dev/battle/19) |
 | Battle #20 - Hover       |     [See](%2319%20-%20Hover.md)      | [Go to battle](https://cssbattle.dev/battle/20) |
+| Battle #21 - Rotate      |     [See](%2319%20-%20Rotate.md)     | [Go to battle](https://cssbattle.dev/battle/21) |
