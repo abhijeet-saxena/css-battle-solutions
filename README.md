@@ -25,6 +25,6 @@ Here are my solutions to their challenges
 | Battle #17 - Christmas   |   [See](%2317%20-%20Christmas.md)    | [Go to battle](https://cssbattle.dev/battle/17) |
 | Battle #18 - Float       |     [See](%2318%20-%20Float.md)      | [Go to battle](https://cssbattle.dev/battle/18) |
 | Battle #19 - Spacing     |    [See](%2319%20-%20Spacing.md)     | [Go to battle](https://cssbattle.dev/battle/19) |
-| Battle #20 - Hover       |     [See](%2319%20-%20Hover.md)      | [Go to battle](https://cssbattle.dev/battle/20) |
-| Battle #21 - Rotate      |     [See](%2319%20-%20Rotate.md)     | [Go to battle](https://cssbattle.dev/battle/21) |
-| Battle #22 - Grid        |      [See](%2319%20-%20Grid.md)      | [Go to battle](https://cssbattle.dev/battle/22) |
+| Battle #20 - Hover       |     [See](%2320%20-%20Hover.md)      | [Go to battle](https://cssbattle.dev/battle/20) |
+| Battle #21 - Rotate      |     [See](%2321%20-%20Rotate.md)     | [Go to battle](https://cssbattle.dev/battle/21) |
+| Battle #22 - Grid        |      [See](%2322%20-%20Grid.md)      | [Go to battle](https://cssbattle.dev/battle/22) |
