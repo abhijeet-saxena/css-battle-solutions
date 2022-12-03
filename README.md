@@ -27,3 +27,4 @@ Here are my solutions to their challenges
 | Battle #19 - Spacing     |    [See](%2319%20-%20Spacing.md)     | [Go to battle](https://cssbattle.dev/battle/19) |
 | Battle #20 - Hover       |     [See](%2319%20-%20Hover.md)      | [Go to battle](https://cssbattle.dev/battle/20) |
 | Battle #21 - Rotate      |     [See](%2319%20-%20Rotate.md)     | [Go to battle](https://cssbattle.dev/battle/21) |
+| Battle #22 - Grid        |      [See](%2319%20-%20Grid.md)      | [Go to battle](https://cssbattle.dev/battle/22) |
