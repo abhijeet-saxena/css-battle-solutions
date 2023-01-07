@@ -189,3 +189,56 @@
   }
 </style>
 ```
+
+## [Lamp](https://cssbattle.dev/play/139)
+
+<img width="200px" src="https://cssbattle.dev/targets/139.png">
+
+```html
+<div></div>
+<style>
+  body {
+    background: #e38f66;
+  }
+  div {
+    width: 125px;
+    height: 210px;
+    margin: 90px auto;
+    background: linear-gradient(to bottom, #fffbda 120px, #62306d 0);
+    clip-path: polygon(
+      31px 0px,
+      94px 0px,
+      126px 120px,
+      67.5px 120px,
+      67.5px 210px,
+      57.5px 210px,
+      57.5px 120px,
+      0px 120px
+    );
+  }
+</style>
+```
+
+## [Eclipse](https://cssbattle.dev/play/140)
+
+<img width="200px" src="https://cssbattle.dev/targets/140.png">
+
+```html
+<div></div>
+<style>
+  body {
+    background: radial-gradient(
+        circle at 50% 130px,
+        #4f77ff 40px,
+        transparent 0
+      ), radial-gradient(circle at 50% 90px, #ffffff 40px, #4f77ff 0);
+  }
+  div {
+    width: 250px;
+    height: 250px;
+    background: #1038bf;
+    transform: rotate(45deg);
+    margin: 190 auto 0;
+  }
+</style>
+```
