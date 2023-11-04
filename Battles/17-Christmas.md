@@ -4,6 +4,8 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/97.png">
 
+#### Solution
+
 ```html
 <div></div>
 <style>
@@ -68,9 +70,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Candle](https://cssbattle.dev/play/98)
 
 <img width="200px" src="https://cssbattle.dev/targets/98.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -121,9 +131,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=14313E><p><h1 a><h1><h3><style>p{width:80;height:100;background:#BA3E46;margin:128 152}h1{width:60;height:30;background:#14313E;border-radius:50%;margin:206 162}[a]{width:80;background:#F3695A;margin:-64%152;box-shadow:0 106q#BA3E46}h3{width:30;height:50;background:#F3AC3C;border-radius:50q 0;margin:-72%192
+```
+
 ## [Gift Box](https://cssbattle.dev/play/99)
 
 <img width="200px" src="https://cssbattle.dev/targets/99.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -161,9 +179,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=AC474B><p><p a><h1><style>*{color:FFF}p{width:20;height:20;border:solid 10px;border-radius:50%50%0 50%;margin:13%157}[a]{margin:-90 187;scale:-1 1}h1{width:0;border:solid 32q;margin:110 122;box-shadow:5ch 0,5ch 5ch,0 5ch
+```
+
 ## [CSSBattle](https://cssbattle.dev/play/100)
 
 <img width="200px" src="https://cssbattle.dev/targets/100.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -283,4 +309,10 @@
     left: 259;
   }
 </style>
+```
+
+#### Minified
+
+```html
+TBD
 ```

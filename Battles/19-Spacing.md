@@ -4,6 +4,8 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/109.png">
 
+#### Solution
+
 ```html
 <div></div>
 <style>
@@ -23,9 +25,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=191919><p><style>p{width:275;height:275;background:radial-gradient(circle at 32px 32px,#F6E59C 20px,#191919 0);background-size:60px 60px;clip-path:polygon(0 0,100% 0,0 100%
+```
+
 ## [Sunrays](https://cssbattle.dev/play/110)
 
 <img width="200px" src="https://cssbattle.dev/targets/110.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -81,9 +91,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<p a><p b><p c><p d><p e><p f><body bgcolor=D25B70><style>p{width:100;height:10;background:#F2E09F;border-radius:5q;margin:195 72}[a]{box-shadow:35vw 0#F2E09F}[b]{rotate:30deg;margin:-240 81}[c]{rotate:-30deg;margin:230 202}[d]{rotate:60deg;margin:-69%107}[e]{rotate:-60deg;margin:255 177}[f]{rotate:90deg;margin:-72%142
+```
+
 ## [Rain Drops](https://cssbattle.dev/play/111)
 
 <img width="200px" src="https://cssbattle.dev/targets/111.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -121,9 +139,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=F3AC3C><p><p a><p a b><style>p{width:80;height:80;background:#254241;border-radius:50%50%0;margin:110 72;rotate:-45deg}[a]{margin:-260 152;rotate:45deg}[b]{margin:320 152;scale:-1
+```
+
 ## [Chevron](https://cssbattle.dev/play/112)
 
 <img width="200px" src="https://cssbattle.dev/targets/112.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -197,9 +223,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Black Light](https://cssbattle.dev/play/113)
 
 <img width="200px" src="https://cssbattle.dev/targets/113.png">
+
+#### Solution
 
 ```html
 <style>
@@ -210,9 +244,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<style>*>*{background:linear-gradient(3.5deg,#5776F6 125px,transparent 0),linear-gradient(-3.5deg,#191919 50vw,#5776F6 0
+```
+
 ## [Negative Box](https://cssbattle.dev/play/114)
 
 <img width="200px" src="https://cssbattle.dev/targets/114.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -247,9 +289,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=172D2C><p><p a><style>p{width:180;height:195;background:#E9AF53;margin:85 12;clip-path:polygon(0 0,100%33%,100%100%,0 67%)}p[a]{margin:-345 192;clip-path:polygon(0 0,100%33%,0 67%
+```
+
 ## [Droplet](https://cssbattle.dev/play/115)
 
 <img width="200px" src="https://cssbattle.dev/targets/115.png">
+
+#### Solution
 
 ```html
 <style>
@@ -285,9 +335,18 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<p><p a><style>p{height:150;width:380;background:radial-gradient(1in at 50vw 100%,#C36271 53q,#F2E09F 0);border-radius:0 0 25vw 0;color:C36271;box-shadow:2in 0;margin:-8}
+[a]{background:radial-gradient(1in at 50vw 100%,#F2E09F 53q,#C36271 0);color:F2E09F;margin:8 12;scale:-1
+```
+
 ## [Headphones](https://cssbattle.dev/play/116)
 
 <img width="200px" src="https://cssbattle.dev/targets/116.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -319,4 +378,11 @@
     border-radius: 27px 0px 40px 40px;
   }
 </style>
+```
+
+#### Minified
+
+```html
+<body bgcolor=293D7E><p><h1><h1 a>
+<style>p{width:130;height:100;border:solid 20px#6E91CA;margin:45 107;border-radius:25vw 25vw 0 0;border-bottom:0}h1{width:60;height:80;background:#6E91CA;border-radius:0 27q 40q 40q;margin:-45 107}[a]{scale:-1 1;margin:-80 217
 ```

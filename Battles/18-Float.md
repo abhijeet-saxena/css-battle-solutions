@@ -4,6 +4,8 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/101.png">
 
+#### Solution
+
 ```html
 <div></div>
 <style>
@@ -39,9 +41,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [One Piece](https://cssbattle.dev/play/102)
 
 <img width="200px" src="https://cssbattle.dev/targets/102.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -124,9 +134,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Super Saiyan](https://cssbattle.dev/play/103)
 
 <img width="200px" src="https://cssbattle.dev/targets/103.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -206,9 +224,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Amegakure](https://cssbattle.dev/play/104)
 
 <img width="200px" src="https://cssbattle.dev/targets/104.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -272,9 +298,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=000><p><h1 c><h2 c><h2 b c><style>p{width:240;height:120;margin:90 72;background:#37385A;border-radius:20q}h1{width:200;height:80;background:linear-gradient(-75deg,#9897AE 87q,#C0C3DB 0 140q,#9897AE 0);border-radius:10q;margin:-190 92}h2{width:10;height:10;background:#000;color:000;margin:125 107;box-shadow:0 21q,0 42q,169q 0,169q 21q,169q 42q}[b]{height:50;margin:-135 157;box-shadow:21q 0,42q 0,63q 0}[c]{border-radius:10q
+```
+
 ## [Ryuk](https://cssbattle.dev/play/105)
 
 <img width="200px" src="https://cssbattle.dev/targets/105.png">
+
+#### Solution
 
 ```html
 <p></p>
@@ -326,9 +360,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Ryuk's Apple](https://cssbattle.dev/play/106)
 
 <img width="200px" src="https://cssbattle.dev/targets/106.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -376,9 +418,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Sealing Wand](https://cssbattle.dev/play/107)
 
 <img width="200px" src="https://cssbattle.dev/targets/107.png">
+
+#### Solution
 
 ```html
 <div>
@@ -465,9 +515,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Clow Card](https://cssbattle.dev/play/108)
 
 <img width="200px" src="https://cssbattle.dev/targets/108.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -527,4 +585,10 @@
     border-radius: 13px;
   }
 </style>
+```
+
+#### Minified
+
+```html
+TBD
 ```
