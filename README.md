@@ -4,7 +4,7 @@ CSSBattle is an awesome ✨ online CSS Code Golfing game. Here are my solutions 
 
 <em>PS: These are readable but low-scoring solutions. I'm currently working on preparing minified solutions that have much higher score.</em>
 
-## Regular Battles
+## [Regular Battles](https://cssbattle.dev/battles)
 
 | Challenges               |                   Solutions                    |                   Battle Link                   |
 | ------------------------ | :--------------------------------------------: | :---------------------------------------------: |
@@ -36,3 +36,17 @@ CSSBattle is an awesome ✨ online CSS Code Golfing game. Here are my solutions 
 | Battle #26 - Initial     |    [See](Battles%2F%2326%20-%20Initial.md)     | [Go to battle](https://cssbattle.dev/battle/26) |
 | Battle #27 - Relative    |    [See](Battles%2F%2327%20-%20Relative.md)    | [Go to battle](https://cssbattle.dev/battle/27) |
 | Battle #28 - Revert      |     [See](Battles%2F%2328%20-%20Revert.md)     | [Go to battle](https://cssbattle.dev/battle/28) |
+
+## [Time Attack Battles]
+
+| Challenges            |                      Solutions                      |                            Battle Link                            |
+| --------------------- | :-------------------------------------------------: | :---------------------------------------------------------------: |
+| Time Attack Battle #1 | [See](Time%20Attack%2F%2301%20-%20Time%20Attack.md) | [Go to battle](https://cssbattle.dev/battle/OzwOT17YcT3b8TbNevqv) |
+| Time Attack Battle #2 | [See](Time%20Attack%2F%2302%20-%20Time%20Attack.md) | [Go to battle](https://cssbattle.dev/battle/9crk8153AW0QGM8Ne9Ty) |
+
+## [Daily Targets](https://cssbattle.dev/daily)
+
+| Challenges |                                                                                                  Solutions                                                                                                   |
+| :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    2023    | [Aug](Daily%20Targets%2F2023%2FAug.md)\| [Sep](Daily%20Targets%2F2023%2FSep.md) <br>[Oct](Daily%20Targets%2F2023%2FOct.md)\| [Nov](Daily%20Targets%2F2023%2FNov.md)\| [Dec](Daily%20Targets%2F2023%2FDec.md) |
+|    2024    |                                        [Jan]() \| [Feb]() \|[Mar]() <br> [Apr]() \|[May]()\| [Jun]() <br> [Jul]()\| [Aug]()\| [Sep]() <br>[Oct]() \|[Nov]()\| [Dec]()                                        |
