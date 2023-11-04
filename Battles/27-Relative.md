@@ -4,6 +4,14 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/167.png">
 
+#### Solution
+
+```html
+TBD
+```
+
+#### Minified
+
 ```html
 <p><p a><p b><style>body{background:radial-gradient(30q,#73C6EA 21q,#0D1335 0)}p{position:fixed;border:solid 10px;color:#FBFAE2;width:230;height:90;border-radius:50%;top:79;left:75}[a]{color:#4FA07B;rotate:-60deg}[b]{color:#DC6638;rotate:60deg
 ```
@@ -11,6 +19,14 @@
 ## [Carpet](https://cssbattle.dev/play/168)
 
 <img width="200px" src="https://cssbattle.dev/targets/168.png">
+
+#### Solution
+
+```html
+TBD
+```
+
+#### Minified
 
 ```html
 <body bgcolor=0D1335><p><p a><p b><p c><style>p{width:320;height:300;background:linear-gradient(#DC6638,#DC6638)center/5em 20%,linear-gradient(#0D1335,#0D1335)center/30vw 25vw,linear-gradient(#DC6638,#DC6638)center/40vw
@@ -22,6 +38,14 @@ position:fixed;top:-176;left:-130}p[a]{top:144}p[b]{left:210}p[c]{top:144;left:2
 ## [Abstract Plate](https://cssbattle.dev/play/169)
 
 <img width="200px" src="https://cssbattle.dev/targets/169.png">
+
+#### Solution
+
+```html
+TBD
+```
+
+#### Minified
 
 ```html
 <p></p>
@@ -69,6 +93,14 @@ position:fixed;top:-176;left:-130}p[a]{top:144}p[b]{left:210}p[c]{top:144;left:2
 ## [Party Hat](https://cssbattle.dev/play/170)
 
 <img width="200px" src="https://cssbattle.dev/targets/170.png">
+
+#### Solution
+
+```html
+TBD
+```
+
+#### Minified
 
 ```html
 <body bgcolor=73C6EA><p><p a><p b><style>p{position:fixed;bottom:44;left:75;width:250;height:180;background:#0D1335;clip-path:polygon(50% 0,100%100%,0 100%)}[a]{height:140;background:#DC6638}[b]{height:100;background:#FBFAE2

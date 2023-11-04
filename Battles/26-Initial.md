@@ -4,6 +4,8 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/159.png">
 
+#### Solution
+
 ```html
 <p></p>
 <style>
@@ -21,9 +23,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=F5D6B4><p><style>p{width:50;height:50;background:#D86F45;margin:25 167;box-shadow:0 50vw#D86F45,-25vw 25vw#D86F45,25vw 25vw#D86F45,0 25vw 0 50px#D86F45
+```
+
 ## [Donut](https://cssbattle.dev/play/160)
 
 <img width="200px" src="https://cssbattle.dev/targets/160.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -43,9 +53,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=62306D><p><style>p{margin:13%92;width:120;height:120;border:solid 5ch#F7EC7D;border-radius:50%;border-top-color:E38F66;rotate:-45deg
+```
+
 ## [Converge](https://cssbattle.dev/play/161)
 
 <img width="200px" src="https://cssbattle.dev/targets/161.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -69,9 +87,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=#E3516E><p><style>p{width:184;height:184;background:linear-gradient(45deg,transparent 115px,#E3516E 0,#E3516E 145px,transparent 0),linear-gradient(-45deg,#FADE8B 115px,#E3516E 0,#E3516E 145px,#FADE8B 0);margin:58 auto
+```
+
 ## [Upwards](https://cssbattle.dev/play/162)
 
 <img width="200px" src="https://cssbattle.dev/targets/162.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -90,9 +116,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=998235><p><p a><style>p{width:70;height:140;background:#FCBE5C;margin:80 182;rotate:-45deg}[a]{background:#0B2429;rotate:45deg;margin:-220 132.5
+```
+
 ## [Missing Piece](https://cssbattle.dev/play/163)
 
 <img width="200px" src="https://cssbattle.dev/targets/163.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -120,9 +154,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<p><p a><style>*>*,[a]{background:#D669EC}p{width:100;height:100;background:#FDFBF8;color:FDFBF8;margin:40 82;box-shadow:30vw 0,0 30vw}[a]{rotate:45deg;color:D669EC;margin:-204 142;box-shadow:186q 0,0 186q,186q 186q
+```
+
 ## [Rangoli](https://cssbattle.dev/play/164)
 
 <img width="200px" src="https://cssbattle.dev/targets/164.png">
+
+#### Solution
 
 ```html
 <h1></h1>
@@ -165,9 +207,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=66284A text=F0CD48><p><p a><p b><p c><style>p{width:60;height:60;border:solid 20px;border-radius:50%;border-top-color:#0000;margin:40 142;rotate:225deg}[a]{color:D86F45;rotate:135deg;margin:-80 82}[b]{color:D669EC;rotate:-45deg;margin:-26%202}[c]{color:FDFBF8;scale:-1;margin:60 142
+```
+
 ## [Pyramid](https://cssbattle.dev/play/165)
 
 <img width="200px" src="https://cssbattle.dev/targets/165.png">
+
+#### Solution
 
 ```html
 <p></p>
@@ -206,9 +256,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=F0CD48><p><h1><style>p{width:0;border:solid 50px#66284A;margin:30 142;border-radius:50%;box-shadow:25vw 140px#66284A,-25vw 140px#66284A}h1{width:200;height:140;background:linear-gradient(-55deg,#00000000 148px,#F0CD48 0),linear-gradient(55deg,#00000000 148px,#F0CD48 0),linear-gradient(#66284A 125px,#F0CD48 0);margin:-80 92;clip-path:polygon(50% 0,100% 100%,0 100%
+```
+
 ## [Flow](https://cssbattle.dev/play/166)
 
 <img width="200px" src="https://cssbattle.dev/targets/166.png">
+
+#### Solution
 
 ```html
 <h1></h1>
@@ -251,4 +309,10 @@
     box-shadow: 170px 0 #fdfbf8, 30px 0 #d86f45, 140px 0 #d86f45;
   }
 </style>
+```
+
+#### Minified
+
+```html
+TBD
 ```
