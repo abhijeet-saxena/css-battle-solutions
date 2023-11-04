@@ -1,61 +1,497 @@
-01
+# December 2023
 
-02
+## [01/12/2023](url)
 
-03
+<img width="200px" src="url">
 
-04
+#### Solution:
 
-05
+```html
 
-06
+```
 
-07
+#### Minified:
 
-08
+```html
 
-09
+```
 
-10
+## [02/12/2023](url)
 
-11
+<img width="200px" src="url">
 
-12
+#### Solution:
 
-13
+```html
 
-14
+```
 
-15
+#### Minified:
 
-16
+```html
 
-17
+```
 
-18
+## [03/12/2023](url)
 
-19
+<img width="200px" src="url">
 
-20
+#### Solution:
 
-21
+```html
 
-22
+```
 
-23
+#### Minified:
 
-24
+```html
 
-25
+```
 
-26
+## [04/12/2023](url)
 
-27
+<img width="200px" src="url">
 
-28
+#### Solution:
 
-29
+```html
 
-30
+```
 
-31
+#### Minified:
+
+```html
+
+```
+
+## [05/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [06/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [07/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [08/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [09/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [10/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [11/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [12/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [13/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [14/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [15/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [16/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [17/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [18/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [19/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [20/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [21/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [22/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [23/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [24/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [25/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [26/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [27/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [28/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [29/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [30/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [31/12/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```

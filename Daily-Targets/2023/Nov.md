@@ -1,61 +1,554 @@
-01 https://cssbattle.dev/play/QbKbsSvMnViaoahKjkya
+# November 2023
 
-02 https://cssbattle.dev/play/taLJyz4IamvfctMx4z3Q
+## [01/11/2023](https://cssbattle.dev/play/QbKbsSvMnViaoahKjkya)
 
-03 https://cssbattle.dev/play/Wu3QnyC0Fh2okPAZRzjq
+<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_bJttcLS.png?alt=media">
 
-04 https://cssbattle.dev/play/2S2kJuGL3a15M9HieIQ4
+#### Solution:
 
-05
+```html
+<body bgcolor="813131" text="FFFCDF">
+  <p></p>
+  <style>
+    p {
+      width: 50;
+      height: 50;
+      margin: 125 167;
+      box-shadow: 0 0 0 30px, -80px -80px, 80px -80px, -80px 80px, 80px 80px;
+    }
+  </style>
+</body>
+```
 
-06
+#### Minified:
 
-07
+```html
+<body bgcolor=813131 text=FFFCDF><p style=width:50;height:50;margin:125+167><style>p{box-shadow:0 0 0 32q,-5em -5em,5em -5em,-5em 5em,5em 5em
+```
 
-08
+## [02/11/2023](https://cssbattle.dev/play/taLJyz4IamvfctMx4z3Q)
 
-09
+<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_txreJZW.png?alt=media">
 
-10
+#### Solution:
 
-11
+```html
+<p></p>
+<style>
+  body {
+    background: #cbc35c;
+  }
+  p {
+    width: 0;
+    height: 0;
+    border: solid 88px;
+    border-color: #12703D#1D1714#CF464A#FFFAC2;
+    margin: 62 auto;
+    rotate: 45deg;
+    clip-path: polygon(35px 35px, 100% 0, 141px 141px, 0 100%);
+  }
+</style>
+```
 
-12
+#### Minified:
 
-13
+```html
+<body bgcolor="CBC35C">
+  <p
+    style="width:0;height:0;border:solid+88px;border-color:12703D#1D1714#CF464A#FFFAC2;margin:62+104;rotate:45deg;clip-path:polygon(37q+37q,100%0,141px+141px,0%100%"
+  ></p>
+</body>
+```
 
-14
+## [03/11/2023](https://cssbattle.dev/play/Wu3QnyC0Fh2okPAZRzjq)
 
-15
+<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_uS7ZSb5@2x.png?alt=media">
 
-16
+#### Solution:
 
-17
+```html
+<p></p>
+<p a></p>
+<style>
+  body {
+    background: radial-gradient(circle at 50% 205px, #fcdfeb 25px, #8c80bb 0);
+  }
+  p {
+    width: 100px;
+    height: 100px;
+    background: #fcdfeb;
+    margin: 70 77;
+    border-radius: 100px 0 20px;
+  }
+  [a] {
+    margin: -170 207;
+    scale: -1 1;
+  }
+</style>
+```
 
-18
+#### Minified:
 
-19
+```html
+<p><p a><style>&{background:radial-gradient(circle at 50% 217q,#FCDFEB 25px,#8C80BB 0)}p{width:100;height:100;background:#FCDFEB;margin:70 77;border-radius:105q 0 21q}[a]{margin:-170 207;scale:-1 1
+```
 
-20
+## [04/11/2023](https://cssbattle.dev/play/2S2kJuGL3a15M9HieIQ4)
 
-21
+<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_dpNzu3v@2x.png?alt=media">
 
-22
+#### Solution:
 
-23
+```html
+<div></div>
+<style>
+  body {
+    background: radial-gradient(100px, #fffbcc 100px, #504b72);
+  }
+  div {
+    width: 100;
+    height: 100;
+    background: #504b72;
+    margin: 100 auto;
+    rotate: 45deg;
+  }
+</style>
+```
 
-24
+#### Minified:
 
-25
+```html
+<p><style>&{background:radial-gradient(106q,#FFFBCC 106q,#504B72)}p{width:100;height:100;background:#504B72;margin:26%142;rotate:45deg
+```
 
-26
+## [05/11/2023](url)
 
-27
+<img width="200px" src="url">
 
-28
+#### Solution:
 
-29
+```html
 
-30
+```
 
-31
+#### Minified:
+
+```html
+
+```
+
+## [06/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [07/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [08/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [09/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [10/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [11/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [12/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [13/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [14/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [15/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [16/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [17/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [18/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [19/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [20/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [21/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [22/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [23/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [24/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [25/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [26/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [27/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [28/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [29/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [30/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [31/11/2023](url)
+
+<img width="200px" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
