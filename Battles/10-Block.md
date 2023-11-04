@@ -4,6 +4,8 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/47.png">
 
+#### Solution
+
 ```html
 <div class="virus">
   <div class="spots"></div>
@@ -64,9 +66,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Wash Your Hands](https://cssbattle.dev/play/48)
 
 <img width="200px" src="https://cssbattle.dev/targets/48.png">
+
+#### Solution
 
 ```html
 <div class="soap"></div>
@@ -97,9 +107,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=293462><p><h1><style>p{width:200;height:100;border-radius:20q;background:#FE5F55;margin:90 92;box-shadow:0 20px#A64942}h1{background:#A64942;width:140;height:40;border-radius:4em;margin:-160 122
+```
+
 ## [Stay At Home](https://cssbattle.dev/play/49)
 
 <img width="200px" src="https://cssbattle.dev/targets/49.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -147,9 +165,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=6592CF><p><h1><h2 a><h2><style>p{width:200;height:100;background:#243D83;margin:50 92;clip-path:polygon(50%0,100%100%,0%100%)}h1{width:150;height:100;background:#243D83;margin:-50 117;border-radius:0 0 10q 10q}h2{width:100;height:10;background:#EEB850;border-radius:10q;position:fixed;top:125;left:150}[a]{border-radius:10q 10q 0 0;width:50;height:50;top:180;left:175
+```
+
 ## [Use Hand Sanitizer](https://cssbattle.dev/play/50)
 
 <img width="200px" src="https://cssbattle.dev/targets/50.png">
+
+#### Solution
 
 ```html
 <div class="bottle"></div>
@@ -209,9 +235,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<p><p a><p b><p c><p d><style>&{background:#1A4341}p{background:#F3AC3C;width:150;height:20;border-radius:10q;margin:50 142;color:F3AC3C}[a]{height:30;width:20;border-radius:0;margin:-50 182;border-radius:0 0 10q 10q;box-shadow:95q -11q}[b]{width:50;border-radius:10q 10q 0 0;margin:40 167}[c]{width:100;height:140;background:linear-gradient(#F3AC3C 55q,#998235 0);border-radius:22q;margin:-40 142}[d]{width:20;height:20;border-radius:50%;background:#998235;margin:-39%272;box-shadow:0 32q#998235,-115px 58q 0 15px#998235,-69q 58q 0 16q
+```
+
 ## [Wear a Mask](https://cssbattle.dev/play/51)
 
 <img width="200px" src="https://cssbattle.dev/targets/51.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -273,9 +307,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=293462><p><h1><h2><style>p{width:250;height:40;border:solid 11q#FFF1C1;border-radius:4em;margin:26%57}h1{margin:-39%117;width:150;height:90;background:radial-gradient(circle at 116q 53q,#FE5F55 20px,#FFF1C1 0);border-radius:0 0 52q 52q}h2{width:40;height:10;border-radius:5q;background:#FE5F55;margin:70 137;box-shadow:0 21q#FE5F55
+```
+
 ## [Break the Chain](https://cssbattle.dev/play/52)
 
 <img width="200px" src="https://cssbattle.dev/targets/52.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -308,4 +350,10 @@
     z-index: -1;
   }
 </style>
+```
+
+#### Minified
+
+```html
+<p><h1><style>&{background:radial-gradient(circle at 95px 138q,#EEB850 32q,#6592CF 0);color:243D83}p{background:#243D83;width:20;height:20;border-radius:50%;margin:130 32;box-shadow:48q 0,95q 0,175q 0,70vh 0,270q 0,318q 0,0 0 0 10px#EEB850,95q 0 0 10px#EEB850}h1{width:10;height:45;background:#243D83;box-shadow:45px 0,95q 0,175q 0,70vh 0,270q 0,318q 0;margin:-35% 37Chris
 ```

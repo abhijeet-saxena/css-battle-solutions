@@ -4,6 +4,8 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/61.png">
 
+#### Solution
+
 ```html
 <div></div>
 <p></p>
@@ -85,9 +87,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Sunset](https://cssbattle.dev/play/62)
 
 <img width="200px" src="https://cssbattle.dev/targets/62.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -120,9 +130,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=191919><p><style>p{width:150;height:200;border-radius:25vw 25vw 28q 28q;background:radial-gradient(circle at 50% 120px ,#FFF58F 30px,#F2AD43 0);margin:50 117;position:relative;overflow:hidden}p::after{position:absolute;content:"";width:200;height:200;top:100;left:50;background:#824B20;border-radius:50%;box-shadow:-150px 0#E08027}
+```
+
 ## [Command Key](https://cssbattle.dev/play/63)
 
 <img width="200px" src="https://cssbattle.dev/targets/63.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -170,9 +188,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<h1><p><p a><p b><p c><style>*{width:50;height:50;background:#191919;border:solid 11q#5DBCF9}h1{margin:86 138;outline:solid 50vw#191919}p{position:fixed;top:22;left:106;border-radius:50%50%0}[a]{left:226;scale:-1 1}[b]{top:142;scale:1-1}[c]{top:142;left:226;scale:-1-1
+```
+
 ## [Door Knob](https://cssbattle.dev/play/64)
 
 <img width="200px" src="https://cssbattle.dev/targets/64.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -200,9 +226,18 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<p><style>body{background:radial-gradient(circle at 50vh 50%,#FFF58F 10px,#00000000 0),radial-gradient(circle at 265q 50%,#FFF58F 10px,#00000000 0),radial-gradient(circle,#E08027 53q,#824B20 0 5em,#191919 5em)}p{width:80;height:80;
+border:solid 20px;border-color:#00000000#FFF58F#FFF58F#00000000;border-radius:50%;rotate:45deg;margin:90 132
+```
+
 ## [Max Volume](https://cssbattle.dev/play/65)
 
 <img width="200px" src="https://cssbattle.dev/targets/65.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -233,9 +268,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<p><h1 a><h1 b><style>&{background:#191919}p{width:60;height:50;background:#5DBCF9;margin:125 67;border-radius:10px}h1{width:100;height:200;background:#5DBCF9;margin:-250 92}[a]{clip-path:polygon(0 50%,100%0,100%100%)}[b]{margin:50 217;border-radius:0 25vw 25vw 0;background:radial-gradient(circle at 0 50%,#191919 42q,#5DBCF9 0 53q,#191919 0 69q,#5DBCF9 0 79q,#191919 0 95q,#5DBCF9 0 25vw,#191919 0
+```
+
 ## [Batmicky](https://cssbattle.dev/play/66)
 
 <img width="200px" src="https://cssbattle.dev/targets/66.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -287,9 +330,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Video Reel](https://cssbattle.dev/play/67)
 
 <img width="200px" src="https://cssbattle.dev/targets/67.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -314,9 +365,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=5DBCF9><p><style>p{width:140;height:110;background:#191919;margin:-38-103;color:191919;box-shadow:0 50vh,0 75vw,50vh -53q,50vh 25vw,50vh 265q,75vw 0,75vw 50vh,75vw 75vw,476q -53q,476q 25vw,476q 265q;
+```
+
 ## [Bell](https://cssbattle.dev/play/68)
 
 <img width="200px" src="https://cssbattle.dev/targets/68.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -337,4 +396,10 @@
     border-radius: 60px 60px 8px 8px;
   }
 </style>
+```
+
+#### Minified
+
+```html
+<p><style>&{background:radial-gradient(circle at 50% 30vh,#F2AD43 26q,#00000000 0),radial-gradient(circle at 50% 70vh,#824B20 26q,#191919 0)}p{width:120;height:120;background:#E08027;border-radius:5em 5em 15q 15q;margin:90 132
 ```
