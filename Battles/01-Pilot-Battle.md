@@ -4,6 +4,8 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/1.png">
 
+### Solution
+
 ```html
 <div class="box"></div>
 <style>
@@ -19,9 +21,17 @@
 </style>
 ```
 
+### Minified
+
+```html
+<p><style>*{background:#5d3a3a;margin:0}p{background:#b5e0ba;width:200;height:200
+```
+
 ## [Carrom](https://cssbattle.dev/play/2)
 
 <img width="200px" src="https://cssbattle.dev/targets/2.png">
+
+### Solution
 
 ```html
 <div class="box one"></div>
@@ -45,9 +55,17 @@
 </style>
 ```
 
+### Minified
+
+```html
+<body bgcolor=62374e><p><style>p{width:50;height:50;background:#fdc57b;margin:50 42;box-shadow:250px 0#fdc57b,0 50vh#fdc57b,250px 50vh#fdc57b
+```
+
 ## [Push Button](https://cssbattle.dev/play/3)
 
 <img width="200px" src="https://cssbattle.dev/targets/3.png">
+
+### Solution
 
 ```html
 <div class="rectangle">
@@ -86,9 +104,17 @@
 </style>
 ```
 
+### Minified
+
+```html
+<body bgcolor=#6592CF><p><h1><style>p{width:300;height:150;background:#243D83;margin:75 42}h1{width:50;height:50;background:#EEB850;border-radius:50%;border:solid 53q#243D83;outline:solid 53q#6592CF;margin:-225 117
+```
+
 ## [Ups n Downs](https://cssbattle.dev/play/4)
 
 <img width="200px" src="https://cssbattle.dev/targets/4.png">
+
+### Solution
 
 ```html
 <div class="pie"></div>
@@ -122,9 +148,17 @@
 </style>
 ```
 
+### Minified
+
+```html
+<body bgcolor=62306D><p><p a><style>p{width:100;height:100;margin:50 142;background:#F7EC7D;border-radius:55q 55q 0 0}[a]{box-shadow:50vw 0#F7EC7D;scale:-1;margin:-50 242
+```
+
 ## [Acid Rain](https://cssbattle.dev/play/5)
 
 <img width="200px" src="https://cssbattle.dev/targets/5.png">
+
+### Solution
 
 ```html
 <div class="pie"></div>
@@ -162,9 +196,17 @@
 </style>
 ```
 
+### Minified
+
+```html
+<body bgcolor=#0B2429><p><p a c><p b c><style>p{width:120;height:120;background:#F3AC3C;border-radius:50%50%50%0;margin:30 192}[a]{margin:-90 132;background:#998235}[b]{margin:30 72}[c]{scale:-1
+```
+
 ## [Missing Slice](https://cssbattle.dev/play/6)
 
 <img width="200px" src="https://cssbattle.dev/targets/6.png">
+
+### Solution
 
 ```html
 <div class="box">
@@ -200,9 +242,17 @@
 </style>
 ```
 
+### Minified
+
+```html
+<body bgcolor=E3516E><p><style>p{width:0;border:solid 25vw;border-color:51B5A9#FADE8B#E3516E#F7F3D7;border-radius:50%;rotate:-45deg;margin:13%92
+```
+
 ## [Leafy Trail](https://cssbattle.dev/play/7)
 
 <img width="200px" src="https://cssbattle.dev/targets/7.png">
+
+### Solution
 
 ```html
 <div class="leaf"></div>
@@ -237,9 +287,17 @@
 </style>
 ```
 
+### Minified
+
+```html
+<body bgcolor=0B2429><p><p a><p b><style>p{width:150;height:150;background:#1A4341;margin:75 67;border-radius:25vw 0}p[a]{margin:-225 117;background:#998235}p[b]{margin:75 167;background:#F3AC3C
+```
+
 ## [Forking Crazy](https://cssbattle.dev/play/8)
 
 <img width="200px" src="https://cssbattle.dev/targets/8.png">
+
+### Solution
 
 ```html
 <div class="stem"></div>
@@ -299,9 +357,17 @@
 </style>
 ```
 
+### Minified
+
+```html
+<body bgcolor=#6592CF><p><h1><style>p{width:140;height:100;background:#060F55;margin:39%122;border-radius:0 0 74q 74q}h1{width:20;height:110;background:#6592CF;color:060F55;margin:-91%182;border-radius:10q;box-shadow:-42q 0#6592CF,42q 0#6592CF,0 50vh,-21q 0,21q 0,-63q 0,63q 0
+```
+
 ## [Tesseract](https://cssbattle.dev/play/9)
 
 <img width="200px" src="https://cssbattle.dev/targets/9.png">
+
+### Solution
 
 ```html
 <div class="horizontal"></div>
@@ -346,9 +412,17 @@
 </style>
 ```
 
+### Minified
+
+```html
+<p><p a><style>&{background:#222730}p{height:150;background:#4CAAB3;margin:75-8}p[a]{background:radial-gradient(#393E46 26q,#4CAAB3 0);width:150;rotate:45deg;margin:-275 67;border:solid 53q#222730
+```
+
 ## [Cloaked Spirits](https://cssbattle.dev/play/10)
 
 <img width="200px" src="https://cssbattle.dev/targets/10.png">
+
+### Solution
 
 ```html
 <div class="yel"></div>
@@ -418,9 +492,17 @@
 </style>
 ```
 
+### Minified
+
+```html
+<body bgcolor=#62306D><h1><p><p a><p b><style>h1{width:100;height:250;background:#F7EC7D;color:F7EC7D;margin:51%42;box-shadow:25vw -25vw,50vw 0}p{width:60;height:60;border-radius:50%;color:AA445F;background:#E38F66;border:solid 20px;position:fixed;top:118}[a]{top:18;left:150;color:E38F66;background:#AA445F}[b]{left:250}
+```
+
 ## [Eye of Sauron](https://cssbattle.dev/play/11)
 
 <img width="200px" src="https://cssbattle.dev/targets/11.png">
+
+### Solution
 
 ```html
 <div class="disc"></div>
@@ -473,9 +555,17 @@
 </style>
 ```
 
+### Minified
+
+```html
+<body bgcolor=191210><p><p a><p i><style>p{width:60;aspect-ratio:1;border-radius:50%;color:ECA03D;border:solid 20px;margin:26%42;clip-path:polygon(0 50%,100%50%,100%100%,0 100%)}[a]{width:50;margin:-52%142;clip-path:none;background:#84271C;border:solid 25px#191210;outline:solid 22q}[i]{margin:26%242;scale:-1
+```
+
 ## [Wiggly Moustache](https://cssbattle.dev/play/12)
 
 <img width="200px" src="https://cssbattle.dev/targets/12.png">
+
+### Solution
 
 ```html
 <div class="disc"></div>
@@ -528,4 +618,10 @@
     left: 310px;
   }
 </style>
+```
+
+### Minified
+
+```html
+<body bgcolor=F5D6B4><p><p i><p j><h1><style>p{width:60;height:60;border-radius:50%;clip-path:polygon(0%50%,100%50%,100%100%,0%100%);border:solid 20px#D86F45;margin:26%62}[i]{margin:-200 142;scale:-1}[j]{margin:26%222}h1{width:20;height:20;border-radius:50%;background:#D86F45;margin:-160 62;box-shadow:60vw 0#D86F45
 ```

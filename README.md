@@ -41,14 +41,14 @@ CSSBattle is an awesome ✨ online CSS Code Golfing game. Here are my solutions 
 
 ## [Time Attack Battles]()
 
-| Challenges            |                Solutions                |                            Battle Link                            |
-| --------------------- | :-------------------------------------: | :---------------------------------------------------------------: |
-| Time Attack Battle #1 | [See](/Time%20Attack/01-Time-Attack.md) | [Go to battle](https://cssbattle.dev/battle/OzwOT17YcT3b8TbNevqv) |
-| Time Attack Battle #2 | [See](/Time%20Attack/02-Time-Attack.md) | [Go to battle](https://cssbattle.dev/battle/9crk8153AW0QGM8Ne9Ty) |
+| Challenges            |               Solutions               |                            Battle Link                            |
+| --------------------- | :-----------------------------------: | :---------------------------------------------------------------: |
+| Time Attack Battle #1 | [See](/Time-Attack/01-Time-Attack.md) | [Go to battle](https://cssbattle.dev/battle/OzwOT17YcT3b8TbNevqv) |
+| Time Attack Battle #2 | [See](/Time-Attack/02-Time-Attack.md) | [Go to battle](https://cssbattle.dev/battle/9crk8153AW0QGM8Ne9Ty) |
 
 ## [Daily Targets](https://cssbattle.dev/daily)
 
-| Challenges |                                                                                                  Solutions                                                                                                   |
-| :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    2023    | [Aug](Daily%20Targets%2F2023%2FAug.md)\| [Sep](Daily%20Targets%2F2023%2FSep.md) <br>[Oct](Daily%20Targets%2F2023%2FOct.md)\| [Nov](Daily%20Targets%2F2023%2FNov.md)\| [Dec](Daily%20Targets%2F2023%2FDec.md) |
-|    2024    |                                        [Jan]() \| [Feb]() \|[Mar]() <br> [Apr]() \|[May]()\| [Jun]() <br> [Jul]()\| [Aug]()\| [Sep]() <br>[Oct]() \|[Nov]()\| [Dec]()                                        |
+| Challenges |                                                                                       Solutions                                                                                        |
+| :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    2023    | [Aug](/Daily-Targets/2023/Aug.md) \| [Sep](/Daily-Targets/2023/Sep.md) <br>[Oct](/Daily-Targets/2023/Oct.md) \| [Nov](/Daily-Targets/2023/Nov.md) \| [Dec](/Daily-Targets/2023/Dec.md) |
+|    2024    |                         [Jan]() \| [Feb]() \| [Mar]() <br> [Apr]() \| [May]() \| [Jun]() <br> [Jul]() \| [Aug]() \| [Sep]() <br>[Oct]() \| [Nov]() \| [Dec]()                          |
