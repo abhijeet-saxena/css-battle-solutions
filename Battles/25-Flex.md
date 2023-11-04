@@ -2,7 +2,7 @@
 
 ## [Pawn](https://cssbattle.dev/play/151)
 
-<img width="200px" src="https://cssbattle.dev/targets/151.png">
+<img width="400px" src="https://cssbattle.dev/targets/151.png">
 
 #### Solution:
 
@@ -65,7 +65,7 @@ TBD
 
 ## [Rook](https://cssbattle.dev/play/152)
 
-<img width="200px" src="https://cssbattle.dev/targets/152.png">
+<img width="400px" src="https://cssbattle.dev/targets/152.png">
 
 #### Solution:
 
@@ -163,7 +163,7 @@ TBD
 
 ## [Checkers](https://cssbattle.dev/play/153)
 
-<img width="200px" src="https://cssbattle.dev/targets/153.png">
+<img width="400px" src="https://cssbattle.dev/targets/153.png">
 
 #### Solution:
 
@@ -205,7 +205,7 @@ TBD
 
 ## [Poker Chip](https://cssbattle.dev/play/154)
 
-<img width="200px" src="https://cssbattle.dev/targets/154.png">
+<img width="400px" src="https://cssbattle.dev/targets/154.png">
 
 #### Solution:
 
@@ -269,7 +269,7 @@ TBD
 
 ## [Snakes & Ladders](https://cssbattle.dev/play/155)
 
-<img width="200px" src="https://cssbattle.dev/targets/155.png">
+<img width="400px" src="https://cssbattle.dev/targets/155.png">
 
 #### Solution:
 
@@ -308,7 +308,7 @@ TBD
 
 ## [Chinese Checkers](https://cssbattle.dev/play/156)
 
-<img width="200px" src="https://cssbattle.dev/targets/156.png">
+<img width="400px" src="https://cssbattle.dev/targets/156.png">
 
 #### Solution:
 
@@ -356,7 +356,7 @@ TBD
 
 ## [Monopoly](https://cssbattle.dev/play/157)
 
-<img width="200px" src="https://cssbattle.dev/targets/157.png">
+<img width="400px" src="https://cssbattle.dev/targets/157.png">
 
 #### Solution:
 
@@ -415,7 +415,7 @@ TBD
 
 ## [Clubs](https://cssbattle.dev/play/158)
 
-<img width="200px" src="https://cssbattle.dev/targets/158.png">
+<img width="400px" src="https://cssbattle.dev/targets/158.png">
 
 #### Solution:
 

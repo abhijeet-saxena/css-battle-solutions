@@ -2,7 +2,7 @@
 
 ## [SitePoint Logo](https://cssbattle.dev/play/21)
 
-<img width="200px" src="https://cssbattle.dev/targets/21.png">
+<img width="400px" src="https://cssbattle.dev/targets/21.png">
 
 #### Solution:
 
@@ -67,7 +67,7 @@
 
 ## [Cloud](https://cssbattle.dev/play/22)
 
-<img width="200px" src="https://cssbattle.dev/targets/22.png">
+<img width="400px" src="https://cssbattle.dev/targets/22.png">
 
 #### Solution:
 
@@ -113,7 +113,7 @@
 
 ## [Boxception](https://cssbattle.dev/play/23)
 
-<img width="200px" src="https://cssbattle.dev/targets/23.png">
+<img width="400px" src="https://cssbattle.dev/targets/23.png">
 
 #### Solution:
 
@@ -159,7 +159,7 @@
 
 ## [Switches](https://cssbattle.dev/play/24)
 
-<img width="200px" src="https://cssbattle.dev/targets/24.png">
+<img width="400px" src="https://cssbattle.dev/targets/24.png">
 
 #### Solution:
 
@@ -212,7 +212,7 @@ margin:-39%212;background:radial-gradient(100q at 50%33%,#F7EC7D 50px,#E38F66 0
 
 ## [Blossom](https://cssbattle.dev/play/25)
 
-<img width="200px" src="https://cssbattle.dev/targets/25.png">
+<img width="400px" src="https://cssbattle.dev/targets/25.png">
 
 #### Solution:
 
@@ -260,7 +260,7 @@ margin:-39%212;background:radial-gradient(100q at 50%33%,#F7EC7D 50px,#E38F66 0
 
 ## [Smiley](https://cssbattle.dev/play/26)
 
-<img width="200px" src="https://cssbattle.dev/targets/26.png">
+<img width="400px" src="https://cssbattle.dev/targets/26.png">
 
 #### Solution:
 
@@ -298,7 +298,7 @@ margin:-39%212;background:radial-gradient(100q at 50%33%,#F7EC7D 50px,#E38F66 0
 
 ## [Lock Up](https://cssbattle.dev/play/27)
 
-<img width="200px" src="https://cssbattle.dev/targets/27.png">
+<img width="400px" src="https://cssbattle.dev/targets/27.png">
 
 #### Solution:
 
@@ -349,7 +349,7 @@ margin:-39%212;background:radial-gradient(100q at 50%33%,#F7EC7D 50px,#E38F66 0
 
 ## [Cups & Balls](https://cssbattle.dev/play/28)
 
-<img width="200px" src="https://cssbattle.dev/targets/28.png">
+<img width="400px" src="https://cssbattle.dev/targets/28.png">
 
 #### Solution:
 

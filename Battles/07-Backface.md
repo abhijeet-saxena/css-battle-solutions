@@ -2,7 +2,7 @@
 
 ## [Birdie](https://cssbattle.dev/play/33)
 
-<img width="200px" src="https://cssbattle.dev/targets/33.png">
+<img width="400px" src="https://cssbattle.dev/targets/33.png">
 
 #### Solution:
 
@@ -53,7 +53,7 @@
 
 ## [Christmas Tree](https://cssbattle.dev/play/34)
 
-<img width="200px" src="https://cssbattle.dev/targets/34.png">
+<img width="400px" src="https://cssbattle.dev/targets/34.png">
 
 #### Solution:
 
@@ -107,7 +107,7 @@
 
 ## [Ice Cream](https://cssbattle.dev/play/35)
 
-<img width="200px" src="https://cssbattle.dev/targets/35.png">
+<img width="400px" src="https://cssbattle.dev/targets/35.png">
 
 #### Solution:
 
@@ -156,7 +156,7 @@
 
 ## [Interleaved](https://cssbattle.dev/play/36)
 
-<img width="200px" src="https://cssbattle.dev/targets/36.png">
+<img width="400px" src="https://cssbattle.dev/targets/36.png">
 
 #### Solution:
 
@@ -202,7 +202,7 @@
 
 ## [Tunnel](https://cssbattle.dev/play/37)
 
-<img width="200px" src="https://cssbattle.dev/targets/37.png">
+<img width="400px" src="https://cssbattle.dev/targets/37.png">
 
 #### Solution:
 
@@ -251,7 +251,7 @@
 
 ## [Not Simply Square](https://cssbattle.dev/play/38)
 
-<img width="200px" src="https://cssbattle.dev/targets/38.png">
+<img width="400px" src="https://cssbattle.dev/targets/38.png">
 
 #### Solution:
 
@@ -301,7 +301,7 @@
 
 ## [Sunset](https://cssbattle.dev/play/39)
 
-<img width="200px" src="https://cssbattle.dev/targets/39.png">
+<img width="400px" src="https://cssbattle.dev/targets/39.png">
 
 #### Solution:
 
@@ -349,7 +349,7 @@ TBD
 
 ## [Letter B](https://cssbattle.dev/play/40)
 
-<img width="200px" src="https://cssbattle.dev/targets/40.png">
+<img width="400px" src="https://cssbattle.dev/targets/40.png">
 
 #### Solution:
 
@@ -384,7 +384,7 @@ TBD
 
 ## [Fox Head](https://cssbattle.dev/play/41)
 
-<img width="200px" src="https://cssbattle.dev/targets/41.png">
+<img width="400px" src="https://cssbattle.dev/targets/41.png">
 
 #### Solution:
 

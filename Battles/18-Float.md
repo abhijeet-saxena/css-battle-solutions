@@ -2,7 +2,7 @@
 
 ## [Sharingan](https://cssbattle.dev/play/101)
 
-<img width="200px" src="https://cssbattle.dev/targets/101.png">
+<img width="400px" src="https://cssbattle.dev/targets/101.png">
 
 #### Solution:
 
@@ -49,7 +49,7 @@ TBD
 
 ## [One Piece](https://cssbattle.dev/play/102)
 
-<img width="200px" src="https://cssbattle.dev/targets/102.png">
+<img width="400px" src="https://cssbattle.dev/targets/102.png">
 
 #### Solution:
 
@@ -142,7 +142,7 @@ TBD
 
 ## [Super Saiyan](https://cssbattle.dev/play/103)
 
-<img width="200px" src="https://cssbattle.dev/targets/103.png">
+<img width="400px" src="https://cssbattle.dev/targets/103.png">
 
 #### Solution:
 
@@ -232,7 +232,7 @@ TBD
 
 ## [Amegakure](https://cssbattle.dev/play/104)
 
-<img width="200px" src="https://cssbattle.dev/targets/104.png">
+<img width="400px" src="https://cssbattle.dev/targets/104.png">
 
 #### Solution:
 
@@ -306,7 +306,7 @@ TBD
 
 ## [Ryuk](https://cssbattle.dev/play/105)
 
-<img width="200px" src="https://cssbattle.dev/targets/105.png">
+<img width="400px" src="https://cssbattle.dev/targets/105.png">
 
 #### Solution:
 
@@ -368,7 +368,7 @@ TBD
 
 ## [Ryuk's Apple](https://cssbattle.dev/play/106)
 
-<img width="200px" src="https://cssbattle.dev/targets/106.png">
+<img width="400px" src="https://cssbattle.dev/targets/106.png">
 
 #### Solution:
 
@@ -426,7 +426,7 @@ TBD
 
 ## [Sealing Wand](https://cssbattle.dev/play/107)
 
-<img width="200px" src="https://cssbattle.dev/targets/107.png">
+<img width="400px" src="https://cssbattle.dev/targets/107.png">
 
 #### Solution:
 
@@ -523,7 +523,7 @@ TBD
 
 ## [Clow Card](https://cssbattle.dev/play/108)
 
-<img width="200px" src="https://cssbattle.dev/targets/108.png">
+<img width="400px" src="https://cssbattle.dev/targets/108.png">
 
 #### Solution:
 

@@ -2,7 +2,7 @@
 
 ## [Curtain](https://cssbattle.dev/play/109)
 
-<img width="200px" src="https://cssbattle.dev/targets/109.png">
+<img width="400px" src="https://cssbattle.dev/targets/109.png">
 
 #### Solution:
 
@@ -33,7 +33,7 @@
 
 ## [Sunrays](https://cssbattle.dev/play/110)
 
-<img width="200px" src="https://cssbattle.dev/targets/110.png">
+<img width="400px" src="https://cssbattle.dev/targets/110.png">
 
 #### Solution:
 
@@ -99,7 +99,7 @@
 
 ## [Rain Drops](https://cssbattle.dev/play/111)
 
-<img width="200px" src="https://cssbattle.dev/targets/111.png">
+<img width="400px" src="https://cssbattle.dev/targets/111.png">
 
 #### Solution:
 
@@ -147,7 +147,7 @@
 
 ## [Chevron](https://cssbattle.dev/play/112)
 
-<img width="200px" src="https://cssbattle.dev/targets/112.png">
+<img width="400px" src="https://cssbattle.dev/targets/112.png">
 
 #### Solution:
 
@@ -231,7 +231,7 @@ TBD
 
 ## [Black Light](https://cssbattle.dev/play/113)
 
-<img width="200px" src="https://cssbattle.dev/targets/113.png">
+<img width="400px" src="https://cssbattle.dev/targets/113.png">
 
 #### Solution:
 
@@ -252,7 +252,7 @@ TBD
 
 ## [Negative Box](https://cssbattle.dev/play/114)
 
-<img width="200px" src="https://cssbattle.dev/targets/114.png">
+<img width="400px" src="https://cssbattle.dev/targets/114.png">
 
 #### Solution:
 
@@ -297,7 +297,7 @@ TBD
 
 ## [Droplet](https://cssbattle.dev/play/115)
 
-<img width="200px" src="https://cssbattle.dev/targets/115.png">
+<img width="400px" src="https://cssbattle.dev/targets/115.png">
 
 #### Solution:
 
@@ -344,7 +344,7 @@ TBD
 
 ## [Headphones](https://cssbattle.dev/play/116)
 
-<img width="200px" src="https://cssbattle.dev/targets/116.png">
+<img width="400px" src="https://cssbattle.dev/targets/116.png">
 
 #### Solution:
 

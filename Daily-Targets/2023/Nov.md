@@ -2,7 +2,7 @@
 
 ## [01/11/2023](https://cssbattle.dev/play/QbKbsSvMnViaoahKjkya)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_bJttcLS.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_bJttcLS.png?alt=media">
 
 #### Solution:
 
@@ -28,7 +28,7 @@
 
 ## [02/11/2023](https://cssbattle.dev/play/taLJyz4IamvfctMx4z3Q)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_txreJZW.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_txreJZW.png?alt=media">
 
 #### Solution:
 
@@ -62,7 +62,7 @@
 
 ## [03/11/2023](https://cssbattle.dev/play/Wu3QnyC0Fh2okPAZRzjq)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_uS7ZSb5@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_uS7ZSb5@2x.png?alt=media">
 
 #### Solution:
 
@@ -95,7 +95,7 @@
 
 ## [04/11/2023](https://cssbattle.dev/play/2S2kJuGL3a15M9HieIQ4)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_dpNzu3v@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_dpNzu3v@2x.png?alt=media">
 
 #### Solution:
 
@@ -123,7 +123,7 @@
 
 ## [05/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -139,7 +139,7 @@
 
 ## [06/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -155,7 +155,7 @@
 
 ## [07/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -171,7 +171,7 @@
 
 ## [08/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -187,7 +187,7 @@
 
 ## [09/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -203,7 +203,7 @@
 
 ## [10/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -219,7 +219,7 @@
 
 ## [11/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -235,7 +235,7 @@
 
 ## [12/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -251,7 +251,7 @@
 
 ## [13/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -267,7 +267,7 @@
 
 ## [14/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -283,7 +283,7 @@
 
 ## [15/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -299,7 +299,7 @@
 
 ## [16/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -315,7 +315,7 @@
 
 ## [17/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -331,7 +331,7 @@
 
 ## [18/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -347,7 +347,7 @@
 
 ## [19/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -363,7 +363,7 @@
 
 ## [20/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -379,7 +379,7 @@
 
 ## [21/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -395,7 +395,7 @@
 
 ## [22/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -411,7 +411,7 @@
 
 ## [23/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -427,7 +427,7 @@
 
 ## [24/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -443,7 +443,7 @@
 
 ## [25/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -459,7 +459,7 @@
 
 ## [26/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -475,7 +475,7 @@
 
 ## [27/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -491,7 +491,7 @@
 
 ## [28/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -507,7 +507,7 @@
 
 ## [29/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -523,7 +523,7 @@
 
 ## [30/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 
@@ -539,7 +539,7 @@
 
 ## [31/11/2023](url)
 
-<img width="200px" src="url">
+<img width="400px" src="url">
 
 #### Solution:
 

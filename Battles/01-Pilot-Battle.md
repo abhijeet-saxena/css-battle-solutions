@@ -2,7 +2,7 @@
 
 ## [Simply Square](https://cssbattle.dev/play/1)
 
-<img width="200px" src="https://cssbattle.dev/targets/1.png">
+<img width="400px" src="https://cssbattle.dev/targets/1.png">
 
 #### Solution:
 
@@ -29,7 +29,7 @@
 
 ## [Carrom](https://cssbattle.dev/play/2)
 
-<img width="200px" src="https://cssbattle.dev/targets/2.png">
+<img width="400px" src="https://cssbattle.dev/targets/2.png">
 
 #### Solution:
 
@@ -63,7 +63,7 @@
 
 ## [Push Button](https://cssbattle.dev/play/3)
 
-<img width="200px" src="https://cssbattle.dev/targets/3.png">
+<img width="400px" src="https://cssbattle.dev/targets/3.png">
 
 #### Solution:
 
@@ -112,7 +112,7 @@
 
 ## [Ups n Downs](https://cssbattle.dev/play/4)
 
-<img width="200px" src="https://cssbattle.dev/targets/4.png">
+<img width="400px" src="https://cssbattle.dev/targets/4.png">
 
 #### Solution:
 
@@ -156,7 +156,7 @@
 
 ## [Acid Rain](https://cssbattle.dev/play/5)
 
-<img width="200px" src="https://cssbattle.dev/targets/5.png">
+<img width="400px" src="https://cssbattle.dev/targets/5.png">
 
 #### Solution:
 
@@ -204,7 +204,7 @@
 
 ## [Missing Slice](https://cssbattle.dev/play/6)
 
-<img width="200px" src="https://cssbattle.dev/targets/6.png">
+<img width="400px" src="https://cssbattle.dev/targets/6.png">
 
 #### Solution:
 
@@ -250,7 +250,7 @@
 
 ## [Leafy Trail](https://cssbattle.dev/play/7)
 
-<img width="200px" src="https://cssbattle.dev/targets/7.png">
+<img width="400px" src="https://cssbattle.dev/targets/7.png">
 
 #### Solution:
 
@@ -295,7 +295,7 @@
 
 ## [Forking Crazy](https://cssbattle.dev/play/8)
 
-<img width="200px" src="https://cssbattle.dev/targets/8.png">
+<img width="400px" src="https://cssbattle.dev/targets/8.png">
 
 #### Solution:
 
@@ -365,7 +365,7 @@
 
 ## [Tesseract](https://cssbattle.dev/play/9)
 
-<img width="200px" src="https://cssbattle.dev/targets/9.png">
+<img width="400px" src="https://cssbattle.dev/targets/9.png">
 
 #### Solution:
 
@@ -420,7 +420,7 @@
 
 ## [Cloaked Spirits](https://cssbattle.dev/play/10)
 
-<img width="200px" src="https://cssbattle.dev/targets/10.png">
+<img width="400px" src="https://cssbattle.dev/targets/10.png">
 
 #### Solution:
 
@@ -500,7 +500,7 @@
 
 ## [Eye of Sauron](https://cssbattle.dev/play/11)
 
-<img width="200px" src="https://cssbattle.dev/targets/11.png">
+<img width="400px" src="https://cssbattle.dev/targets/11.png">
 
 #### Solution:
 
@@ -563,7 +563,7 @@
 
 ## [Wiggly Moustache](https://cssbattle.dev/play/12)
 
-<img width="200px" src="https://cssbattle.dev/targets/12.png">
+<img width="400px" src="https://cssbattle.dev/targets/12.png">
 
 #### Solution:
 

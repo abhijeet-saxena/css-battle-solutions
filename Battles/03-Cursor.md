@@ -2,7 +2,7 @@
 
 ## [Cube](https://cssbattle.dev/play/19)
 
-<img width="200px" src="https://cssbattle.dev/targets/19.png">
+<img width="400px" src="https://cssbattle.dev/targets/19.png">
 
 #### Solution:
 
@@ -54,7 +54,7 @@
 
 ## [Ticket](https://cssbattle.dev/play/20)
 
-<img width="200px" src="https://cssbattle.dev/targets/20.png">
+<img width="400px" src="https://cssbattle.dev/targets/20.png">
 
 #### Solution:
 

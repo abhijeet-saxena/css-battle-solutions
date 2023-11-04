@@ -2,7 +2,7 @@
 
 ## [Fence](https://cssbattle.dev/play/JrMi0WGxIzQdHnmsEW4d)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_0QJ7TSu@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_0QJ7TSu@2x.png?alt=media">
 
 #### Solution:
 
@@ -60,7 +60,7 @@
 
 ## [Dune](https://cssbattle.dev/play/3xFrqG0DnrSjSeddTdg9)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_Zcuh7vY@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_Zcuh7vY@2x.png?alt=media">
 
 #### Solution:
 
@@ -120,7 +120,7 @@
 
 ## [Craters](https://cssbattle.dev/play/8SYCNjPdLYf2ZilDpj88)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_GqfVnia@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_GqfVnia@2x.png?alt=media">
 
 #### Solution:
 
@@ -172,7 +172,7 @@
 
 ## [Plus](https://cssbattle.dev/play/FrqPxrIWoABJman0eLuf)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_aRtAcav@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_aRtAcav@2x.png?alt=media">
 
 #### Solution:
 

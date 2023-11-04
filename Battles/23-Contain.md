@@ -2,7 +2,7 @@
 
 ## [Third Eye](https://cssbattle.dev/play/141)
 
-<img width="200px" src="https://cssbattle.dev/targets/141.png">
+<img width="400px" src="https://cssbattle.dev/targets/141.png">
 
 #### Solution:
 
@@ -32,7 +32,7 @@
 
 ## [Curtains](https://cssbattle.dev/play/142)
 
-<img width="200px" src="https://cssbattle.dev/targets/142.png">
+<img width="400px" src="https://cssbattle.dev/targets/142.png">
 
 #### Solution:
 

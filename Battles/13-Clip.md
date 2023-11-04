@@ -2,7 +2,7 @@
 
 ## [PushOwl](https://cssbattle.dev/play/69)
 
-<img width="200px" src="https://cssbattle.dev/targets/69.png">
+<img width="400px" src="https://cssbattle.dev/targets/69.png">
 
 #### Solution:
 
@@ -65,7 +65,7 @@ TBD
 
 ## [Froggy](https://cssbattle.dev/play/70)
 
-<img width="200px" src="https://cssbattle.dev/targets/70.png">
+<img width="400px" src="https://cssbattle.dev/targets/70.png">
 
 #### Solution:
 
@@ -119,7 +119,7 @@ TBD
 
 ## [Elephant](https://cssbattle.dev/play/71)
 
-<img width="200px" src="https://cssbattle.dev/targets/71.png">
+<img width="400px" src="https://cssbattle.dev/targets/71.png">
 
 #### Solution:
 
@@ -208,7 +208,7 @@ TBD
 
 ## [Sheep](https://cssbattle.dev/play/72)
 
-<img width="200px" src="https://cssbattle.dev/targets/72.png">
+<img width="400px" src="https://cssbattle.dev/targets/72.png">
 
 #### Solution:
 
@@ -278,7 +278,7 @@ TBD
 
 ## [Happy Tiger](https://cssbattle.dev/play/73)
 
-<img width="200px" src="https://cssbattle.dev/targets/73.png">
+<img width="400px" src="https://cssbattle.dev/targets/73.png">
 
 #### Solution:
 
@@ -375,7 +375,7 @@ TBD
 
 ## [Danger Noodle](https://cssbattle.dev/play/74)
 
-<img width="200px" src="https://cssbattle.dev/targets/74.png">
+<img width="400px" src="https://cssbattle.dev/targets/74.png">
 
 #### Solution:
 
@@ -477,7 +477,7 @@ TBD
 
 ## [Hippo](https://cssbattle.dev/play/75)
 
-<img width="200px" src="https://cssbattle.dev/targets/75.png">
+<img width="400px" src="https://cssbattle.dev/targets/75.png">
 
 #### Solution:
 
@@ -559,7 +559,7 @@ TBD
 
 ## [Beeee](https://cssbattle.dev/play/76)
 
-<img width="200px" src="https://cssbattle.dev/targets/76.png">
+<img width="400px" src="https://cssbattle.dev/targets/76.png">
 
 #### Solution:
 

@@ -2,7 +2,7 @@
 
 ## [Portal](https://cssbattle.dev/play/159)
 
-<img width="200px" src="https://cssbattle.dev/targets/159.png">
+<img width="400px" src="https://cssbattle.dev/targets/159.png">
 
 #### Solution:
 
@@ -31,7 +31,7 @@
 
 ## [Donut](https://cssbattle.dev/play/160)
 
-<img width="200px" src="https://cssbattle.dev/targets/160.png">
+<img width="400px" src="https://cssbattle.dev/targets/160.png">
 
 #### Solution:
 
@@ -61,7 +61,7 @@
 
 ## [Converge](https://cssbattle.dev/play/161)
 
-<img width="200px" src="https://cssbattle.dev/targets/161.png">
+<img width="400px" src="https://cssbattle.dev/targets/161.png">
 
 #### Solution:
 
@@ -95,7 +95,7 @@
 
 ## [Upwards](https://cssbattle.dev/play/162)
 
-<img width="200px" src="https://cssbattle.dev/targets/162.png">
+<img width="400px" src="https://cssbattle.dev/targets/162.png">
 
 #### Solution:
 
@@ -124,7 +124,7 @@
 
 ## [Missing Piece](https://cssbattle.dev/play/163)
 
-<img width="200px" src="https://cssbattle.dev/targets/163.png">
+<img width="400px" src="https://cssbattle.dev/targets/163.png">
 
 #### Solution:
 
@@ -162,7 +162,7 @@
 
 ## [Rangoli](https://cssbattle.dev/play/164)
 
-<img width="200px" src="https://cssbattle.dev/targets/164.png">
+<img width="400px" src="https://cssbattle.dev/targets/164.png">
 
 #### Solution:
 
@@ -215,7 +215,7 @@
 
 ## [Pyramid](https://cssbattle.dev/play/165)
 
-<img width="200px" src="https://cssbattle.dev/targets/165.png">
+<img width="400px" src="https://cssbattle.dev/targets/165.png">
 
 #### Solution:
 
@@ -264,7 +264,7 @@
 
 ## [Flow](https://cssbattle.dev/play/166)
 
-<img width="200px" src="https://cssbattle.dev/targets/166.png">
+<img width="400px" src="https://cssbattle.dev/targets/166.png">
 
 #### Solution:
 

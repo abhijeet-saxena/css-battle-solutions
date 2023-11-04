@@ -2,7 +2,7 @@
 
 ## [Totally Triangle](https://cssbattle.dev/play/13)
 
-<img width="200px" src="https://cssbattle.dev/targets/13.png">
+<img width="400px" src="https://cssbattle.dev/targets/13.png">
 
 #### Solution:
 
@@ -30,7 +30,7 @@
 
 ## [Web Maker Logo](https://cssbattle.dev/play/14)
 
-<img width="200px" src="https://cssbattle.dev/targets/14.png">
+<img width="400px" src="https://cssbattle.dev/targets/14.png">
 
 #### Solution:
 
@@ -89,7 +89,7 @@
 
 ## [Overlap](https://cssbattle.dev/play/15)
 
-<img width="200px" src="https://cssbattle.dev/targets/15.png">
+<img width="400px" src="https://cssbattle.dev/targets/15.png">
 
 #### Solution:
 
@@ -139,7 +139,7 @@
 
 ## [Eye of the Tiger](https://cssbattle.dev/play/16)
 
-<img width="200px" src="https://cssbattle.dev/targets/16.png">
+<img width="400px" src="https://cssbattle.dev/targets/16.png">
 
 #### Solution:
 
@@ -190,7 +190,7 @@
 
 ## [Fidget Spinner](https://cssbattle.dev/play/17)
 
-<img width="200px" src="https://cssbattle.dev/targets/17.png">
+<img width="400px" src="https://cssbattle.dev/targets/17.png">
 
 #### Solution:
 
@@ -249,7 +249,7 @@
 
 ## [Matrix](https://cssbattle.dev/play/18)
 
-<img width="200px" src="https://cssbattle.dev/targets/18.png">
+<img width="400px" src="https://cssbattle.dev/targets/18.png">
 
 #### Solution:
 

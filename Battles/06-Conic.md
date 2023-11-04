@@ -2,7 +2,7 @@
 
 ## [Equals](https://cssbattle.dev/play/31)
 
-<img width="200px" src="https://cssbattle.dev/targets/31.png">
+<img width="400px" src="https://cssbattle.dev/targets/31.png">
 
 #### Soluton
 
@@ -37,7 +37,7 @@
 
 ## [Band-aid](https://cssbattle.dev/play/32)
 
-<img width="200px" src="https://cssbattle.dev/targets/32.png">
+<img width="400px" src="https://cssbattle.dev/targets/32.png">
 
 #### Soluton
 

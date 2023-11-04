@@ -2,7 +2,7 @@
 
 ## [Suffocate](https://cssbattle.dev/play/29)
 
-<img width="200px" src="https://cssbattle.dev/targets/29.png">
+<img width="400px" src="https://cssbattle.dev/targets/29.png">
 
 #### Solution:
 
@@ -46,7 +46,7 @@
 
 ## [Horizon](https://cssbattle.dev/play/30)
 
-<img width="200px" src="https://cssbattle.dev/targets/30.png">
+<img width="400px" src="https://cssbattle.dev/targets/30.png">
 
 #### Solution:
 

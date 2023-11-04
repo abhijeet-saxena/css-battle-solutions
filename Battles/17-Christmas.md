@@ -2,7 +2,7 @@
 
 ## [Snowman](https://cssbattle.dev/play/97)
 
-<img width="200px" src="https://cssbattle.dev/targets/97.png">
+<img width="400px" src="https://cssbattle.dev/targets/97.png">
 
 #### Solution:
 
@@ -78,7 +78,7 @@ TBD
 
 ## [Candle](https://cssbattle.dev/play/98)
 
-<img width="200px" src="https://cssbattle.dev/targets/98.png">
+<img width="400px" src="https://cssbattle.dev/targets/98.png">
 
 #### Solution:
 
@@ -139,7 +139,7 @@ TBD
 
 ## [Gift Box](https://cssbattle.dev/play/99)
 
-<img width="200px" src="https://cssbattle.dev/targets/99.png">
+<img width="400px" src="https://cssbattle.dev/targets/99.png">
 
 #### Solution:
 
@@ -187,7 +187,7 @@ TBD
 
 ## [CSSBattle](https://cssbattle.dev/play/100)
 
-<img width="200px" src="https://cssbattle.dev/targets/100.png">
+<img width="400px" src="https://cssbattle.dev/targets/100.png">
 
 #### Solution:
 

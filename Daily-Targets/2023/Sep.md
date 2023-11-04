@@ -2,7 +2,7 @@
 
 ## [01/09/2023](https://cssbattle.dev/play/ievuaTR69rtFGRJjeqZn)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_1RfR98U@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_1RfR98U@2x.png?alt=media">
 
 #### Solution:
 
@@ -70,7 +70,7 @@
 
 ## [02/09/2023](https://cssbattle.dev/play/eg4M4tnoJCWcAEhEBP8x)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_GWeSmh8@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_GWeSmh8@2x.png?alt=media">
 
 #### Solution:
 
@@ -120,7 +120,7 @@ TBD
 
 ## [03/09/2023](https://cssbattle.dev/play/hdSQpbCiq57pJgkhBa7c)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_kedIDc9@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_kedIDc9@2x.png?alt=media">
 
 #### Solution:
 
@@ -157,7 +157,7 @@ TBD
 
 ## [04/09/2023](https://cssbattle.dev/play/eOEg01X9rCpMQnXpIIXs)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_vWD0MIT@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_vWD0MIT@2x.png?alt=media">
 
 #### Solution:
 
@@ -195,7 +195,7 @@ TBD
 
 ## [05/09/2023](https://cssbattle.dev/play/AXGhRdSBRbFCfpYCstpM)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_ExOLukS@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_ExOLukS@2x.png?alt=media">
 
 #### Solution:
 
@@ -224,7 +224,7 @@ TBD
 
 ## [06/09/2023](https://cssbattle.dev/play/tjqT6GqcgdL7fWFqYnqK)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_gSAq8Lf@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_gSAq8Lf@2x.png?alt=media">
 
 #### Solution:
 
@@ -251,7 +251,7 @@ TBD
 
 ## [07/09/2023](https://cssbattle.dev/play/VAKgNC1jyPfutbnApSg4)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_7u3Fu32@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_7u3Fu32@2x.png?alt=media">
 
 #### Solution:
 
@@ -286,7 +286,7 @@ TBD
 
 ## [08/09/2023](https://cssbattle.dev/play/fvELCOWUKXuKyHSsnZZk)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_zfOShnR@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_zfOShnR@2x.png?alt=media">
 
 #### Solution:
 
@@ -323,7 +323,7 @@ TBD
 
 ## [09/09/2023](https://cssbattle.dev/play/G4otTDLJBbYCrKVVtr6q)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_UTt1MOq@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_UTt1MOq@2x.png?alt=media">
 
 #### Solution:
 
@@ -367,7 +367,7 @@ TBD
 
 ## [10/09/2023](https://cssbattle.dev/play/Xt3tUGrdPbbhpYBBYQPZ)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Lzjq4JQ@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Lzjq4JQ@2x.png?alt=media">
 
 #### Solution:
 
@@ -403,7 +403,7 @@ border:solid 40px#D4A469}h1{width:40;height:160;background:#B17036;margin:-210 0
 
 ## [11/09/2023](https://cssbattle.dev/play/UidFZ3Ir3BBfqdSdxbLA)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_BNjScZP@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_BNjScZP@2x.png?alt=media">
 
 #### Solution:
 
@@ -460,7 +460,7 @@ border:solid 40px#D4A469}h1{width:40;height:160;background:#B17036;margin:-210 0
 
 ## [12/09/2023](https://cssbattle.dev/play/97lYDZ08hstqexDs9HeT)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_YXDfDHp@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_YXDfDHp@2x.png?alt=media">
 
 #### Solution:
 
@@ -487,7 +487,7 @@ border:solid 40px#D4A469}h1{width:40;height:160;background:#B17036;margin:-210 0
 
 ## [13/09/2023](https://cssbattle.dev/play/gK8G0EfMHBHjUEe8qHfr)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Yt8BYOI@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Yt8BYOI@2x.png?alt=media">
 
 #### Solution:
 
@@ -522,7 +522,7 @@ border:solid 40px#D4A469}h1{width:40;height:160;background:#B17036;margin:-210 0
 
 ## [14/09/2023](https://cssbattle.dev/play/aQ8SxNueIjKJHGHOHhIU)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_igqJQUV@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_igqJQUV@2x.png?alt=media">
 
 #### Solution:
 
@@ -557,7 +557,7 @@ border:solid 40px#D4A469}h1{width:40;height:160;background:#B17036;margin:-210 0
 
 ## [15/09/2023](https://cssbattle.dev/play/o9x5ARQpbrFhiCAzsDK6)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_ICxb8Z1@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_ICxb8Z1@2x.png?alt=media">
 
 #### Solution:
 
@@ -578,7 +578,7 @@ border:solid 40px#D4A469}h1{width:40;height:160;background:#B17036;margin:-210 0
 
 ## [16/09/2023](https://cssbattle.dev/play/x3AMz335HuaGovK9Tg8i)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_T0sOF0o@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_T0sOF0o@2x.png?alt=media">
 
 #### Solution:
 
@@ -613,7 +613,7 @@ border:solid 40px#D4A469}h1{width:40;height:160;background:#B17036;margin:-210 0
 
 ## [17/09/2023](https://cssbattle.dev/play/A8ByjRBQp6gHChFurPm6)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Z73NDXg@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Z73NDXg@2x.png?alt=media">
 
 #### Solution:
 
@@ -629,7 +629,7 @@ TBD
 
 ## [18/09/2023](https://cssbattle.dev/play/x0L7nQMy9Cmd959zZbEW)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_YBb2voq@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_YBb2voq@2x.png?alt=media">
 
 #### Solution:
 
@@ -657,7 +657,7 @@ TBD
 
 ## [19/09/2023](https://cssbattle.dev/play/HEKXB9imd5fM8LjO7MUM)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_9NrlTiS@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_9NrlTiS@2x.png?alt=media">
 
 #### Solution:
 
@@ -700,7 +700,7 @@ TBD
 
 ## [20/09/2023](https://cssbattle.dev/play/ZjYJbaWLcSbiaXJnAjhR)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_qWAQ4Ra@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_qWAQ4Ra@2x.png?alt=media">
 
 #### Solution:
 
@@ -732,7 +732,7 @@ TBD
 
 ## [21/09/2023](https://cssbattle.dev/play/LFmA3gS1Td1dvPTs73lW)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_t9YstOt@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_t9YstOt@2x.png?alt=media">
 
 #### Solution:
 
@@ -761,7 +761,7 @@ TBD
 
 ## [22/09/2023](https://cssbattle.dev/play/W5eZcF2D7LqXLz7qHugI)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_JqCtC5g@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_JqCtC5g@2x.png?alt=media">
 
 #### Solution:
 
@@ -782,7 +782,7 @@ TBD
 
 ## [23/09/2023](https://cssbattle.dev/play/Vq3E4ejRQvMqh7TKMATX)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_hYeusEV@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_hYeusEV@2x.png?alt=media">
 
 #### Solution:
 
@@ -814,7 +814,7 @@ TBD
 
 ## [24/09/2023](https://cssbattle.dev/play/FXuSpWvF5Vc8aNq3kuKd)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_0a93JYr@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_0a93JYr@2x.png?alt=media">
 
 #### Solution:
 
@@ -848,7 +848,7 @@ TBD
 
 ## [25/09/2023](https://cssbattle.dev/play/mO59Pjq7xqVxF53A1Ugu)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_LegjYRk@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_LegjYRk@2x.png?alt=media">
 
 #### Solution:
 
@@ -886,7 +886,7 @@ TBD
 
 ## [26/09/2023](https://cssbattle.dev/play/V3vWfebqJhnFRP9se5yj)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_IQNBkvc@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_IQNBkvc@2x.png?alt=media">
 
 #### Solution:
 
@@ -929,7 +929,7 @@ TBD
 
 ## [27/09/2023](https://cssbattle.dev/play/CAI0seMLOXZmAEOKTj3o)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_nEiqMpK@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_nEiqMpK@2x.png?alt=media">
 
 #### Solution:
 
@@ -962,7 +962,7 @@ TBD
 
 ## [28/09/2023](https://cssbattle.dev/play/UzsDqnxtoQ5nQy2l2aiO)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_T4L4qry@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_T4L4qry@2x.png?alt=media">
 
 #### Solution:
 
@@ -997,7 +997,7 @@ TBD
 
 ## [29/09/2023](https://cssbattle.dev/play/6hmKxYtyQQErMLuSVqHd)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_jELVrVb@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_jELVrVb@2x.png?alt=media">
 
 #### Solution:
 
@@ -1025,7 +1025,7 @@ TBD
 
 ## [30/09/2023](https://cssbattle.dev/play/dNgIipfcsbi0KDJ0XbNT)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_FqPRWOA@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_FqPRWOA@2x.png?alt=media">
 
 #### Solution:
 

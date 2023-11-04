@@ -2,7 +2,7 @@
 
 ## [Pastel Logo](https://cssbattle.dev/play/53)
 
-<img width="200px" src="https://cssbattle.dev/targets/53.png">
+<img width="400px" src="https://cssbattle.dev/targets/53.png">
 
 #### Solution:
 
@@ -41,7 +41,7 @@
 
 ## [Black Lives Matter](https://cssbattle.dev/play/54)
 
-<img width="200px" src="https://cssbattle.dev/targets/54.png">
+<img width="400px" src="https://cssbattle.dev/targets/54.png">
 
 #### Solution:
 
@@ -112,7 +112,7 @@ TBD
 
 ## [Windmill](https://cssbattle.dev/play/55)
 
-<img width="200px" src="https://cssbattle.dev/targets/55.png">
+<img width="400px" src="https://cssbattle.dev/targets/55.png">
 
 #### Solution:
 
@@ -163,7 +163,7 @@ TBD
 
 ## [Skull](https://cssbattle.dev/play/56)
 
-<img width="200px" src="https://cssbattle.dev/targets/56.png">
+<img width="400px" src="https://cssbattle.dev/targets/56.png">
 
 #### Solution:
 
@@ -226,7 +226,7 @@ width:120;height:100;background:#4F77FF;margin:85 132;border-radius:63q 63q 11q 
 
 ## [Pillars](https://cssbattle.dev/play/57)
 
-<img width="200px" src="https://cssbattle.dev/targets/57.png">
+<img width="400px" src="https://cssbattle.dev/targets/57.png">
 
 #### Solution:
 
@@ -274,7 +274,7 @@ TBD
 
 ## [Rose](https://cssbattle.dev/play/58)
 
-<img width="200px" src="https://cssbattle.dev/targets/58.png">
+<img width="400px" src="https://cssbattle.dev/targets/58.png">
 
 #### Solution:
 
@@ -353,7 +353,7 @@ TBD
 
 ## [Earth](https://cssbattle.dev/play/59)
 
-<img width="200px" src="https://cssbattle.dev/targets/59.png">
+<img width="400px" src="https://cssbattle.dev/targets/59.png">
 
 #### Solution:
 
@@ -410,7 +410,7 @@ TBD
 
 ## [Evil Triangles](https://cssbattle.dev/play/60)
 
-<img width="200px" src="https://cssbattle.dev/targets/60.png">
+<img width="400px" src="https://cssbattle.dev/targets/60.png">
 
 #### Solution:
 

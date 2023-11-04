@@ -2,7 +2,7 @@
 
 ## [Simply Circle](https://cssbattle.dev/play/143)
 
-<img width="200px" src="https://cssbattle.dev/targets/143.png">
+<img width="400px" src="https://cssbattle.dev/targets/143.png">
 
 #### Solution:
 
@@ -26,7 +26,7 @@
 
 ## [Long Heart](https://cssbattle.dev/play/144)
 
-<img width="200px" src="https://cssbattle.dev/targets/144.png">
+<img width="400px" src="https://cssbattle.dev/targets/144.png">
 
 #### Solution:
 
@@ -77,7 +77,7 @@
 
 ## [Spotlight](https://cssbattle.dev/play/145)
 
-<img width="200px" src="https://cssbattle.dev/targets/145.png">
+<img width="400px" src="https://cssbattle.dev/targets/145.png">
 
 #### Solution:
 
@@ -116,7 +116,7 @@
 
 ## [Streaks](https://cssbattle.dev/play/146)
 
-<img width="200px" src="https://cssbattle.dev/targets/146.png">
+<img width="400px" src="https://cssbattle.dev/targets/146.png">
 
 #### Solution:
 
@@ -150,7 +150,7 @@
 
 ## [Splash](https://cssbattle.dev/play/147)
 
-<img width="200px" src="https://cssbattle.dev/targets/147.png">
+<img width="400px" src="https://cssbattle.dev/targets/147.png">
 
 #### Solution:
 
@@ -180,7 +180,7 @@
 
 ## [Eight](https://cssbattle.dev/play/148)
 
-<img width="200px" src="https://cssbattle.dev/targets/148.png">
+<img width="400px" src="https://cssbattle.dev/targets/148.png">
 
 #### Solution:
 
@@ -212,7 +212,7 @@
 
 ## [Earthworm](https://cssbattle.dev/play/149)
 
-<img width="200px" src="https://cssbattle.dev/targets/149.png">
+<img width="400px" src="https://cssbattle.dev/targets/149.png">
 
 #### Solution:
 
@@ -278,7 +278,7 @@ box-shadow:5em -5em}h1{width:20;height:20;border-radius:50%;margin:80 32;box-sha
 
 ## [Finger Heart](https://cssbattle.dev/play/150)
 
-<img width="200px" src="https://cssbattle.dev/targets/150.png">
+<img width="400px" src="https://cssbattle.dev/targets/150.png">
 
 #### Solution:
 

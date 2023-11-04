@@ -2,7 +2,7 @@
 
 ## [Baby](https://cssbattle.dev/play/42)
 
-<img width="200px" src="https://cssbattle.dev/targets/42.png">
+<img width="400px" src="https://cssbattle.dev/targets/42.png">
 
 #### Solution:
 
@@ -55,7 +55,7 @@
 
 ## [Wrench](https://cssbattle.dev/play/43)
 
-<img width="200px" src="https://cssbattle.dev/targets/43.png">
+<img width="400px" src="https://cssbattle.dev/targets/43.png">
 
 #### Solution:
 
@@ -108,7 +108,7 @@
 
 ## [Stripes](https://cssbattle.dev/play/44)
 
-<img width="200px" src="https://cssbattle.dev/targets/44.png">
+<img width="400px" src="https://cssbattle.dev/targets/44.png">
 
 #### Solution:
 

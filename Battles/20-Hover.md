@@ -2,7 +2,7 @@
 
 ## [Arineo](https://cssbattle.dev/play/117)
 
-<img width="200px" src="https://cssbattle.dev/targets/117.png">
+<img width="400px" src="https://cssbattle.dev/targets/117.png">
 
 #### Solution:
 
@@ -59,7 +59,7 @@ TBD
 
 ## [Donkey Kong](https://cssbattle.dev/play/118)
 
-<img width="200px" src="https://cssbattle.dev/targets/118.png">
+<img width="400px" src="https://cssbattle.dev/targets/118.png">
 
 #### Solution:
 
@@ -110,7 +110,7 @@ TBD
 
 ## [Pacman](https://cssbattle.dev/play/119)
 
-<img width="200px" src="https://cssbattle.dev/targets/119.png">
+<img width="400px" src="https://cssbattle.dev/targets/119.png">
 
 #### Solution:
 
@@ -157,7 +157,7 @@ TBD
 
 ## [Tank](https://cssbattle.dev/play/120)
 
-<img width="200px" src="https://cssbattle.dev/targets/120.png">
+<img width="400px" src="https://cssbattle.dev/targets/120.png">
 
 #### Solution:
 
@@ -225,7 +225,7 @@ TBD
 
 ## [Duck Hunt](https://cssbattle.dev/play/121)
 
-<img width="200px" src="https://cssbattle.dev/targets/121.png">
+<img width="400px" src="https://cssbattle.dev/targets/121.png">
 
 #### Solution:
 
@@ -263,7 +263,7 @@ TBD
 
 ## [Tetris](https://cssbattle.dev/play/122)
 
-<img width="200px" src="https://cssbattle.dev/targets/122.png">
+<img width="400px" src="https://cssbattle.dev/targets/122.png">
 
 #### Solution:
 
@@ -297,7 +297,7 @@ TBD
 
 ## [Snake](https://cssbattle.dev/play/123)
 
-<img width="200px" src="https://cssbattle.dev/targets/123.png">
+<img width="400px" src="https://cssbattle.dev/targets/123.png">
 
 #### Solution:
 
@@ -331,7 +331,7 @@ TBD
 
 ## [Space Invaders](https://cssbattle.dev/play/124)
 
-<img width="200px" src="https://cssbattle.dev/targets/124.png">
+<img width="400px" src="https://cssbattle.dev/targets/124.png">
 
 #### Solution:
 

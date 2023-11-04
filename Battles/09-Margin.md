@@ -2,7 +2,7 @@
 
 ## [Magical Tree](https://cssbattle.dev/play/45)
 
-<img width="200px" src="https://cssbattle.dev/targets/45.png">
+<img width="400px" src="https://cssbattle.dev/targets/45.png">
 
 #### Solution:
 
@@ -51,7 +51,7 @@
 
 ## [Mountains](https://cssbattle.dev/play/46)
 
-<img width="200px" src="https://cssbattle.dev/targets/46.png">
+<img width="400px" src="https://cssbattle.dev/targets/46.png">
 
 #### Solution:
 

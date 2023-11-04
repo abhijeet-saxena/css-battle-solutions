@@ -2,7 +2,7 @@
 
 ## [06/08/2023](https://cssbattle.dev/play/eIXY9rYxMOSkipgUkJGr)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_WCH5DYE@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_WCH5DYE@2x.png?alt=media">
 
 #### Solution:
 
@@ -31,7 +31,7 @@
 
 ## [07/08/2023](https://cssbattle.dev/play/b0kBOO2ZVexttWB58G8q)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_qpQsb0t@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_qpQsb0t@2x.png?alt=media">
 
 #### Solution:
 
@@ -71,7 +71,7 @@
 
 ## [08/08/2023](https://cssbattle.dev/play/4VfGyqj8stnqc5njY6rn)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_tEVzTVU@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_tEVzTVU@2x.png?alt=media">
 
 #### Solution:
 
@@ -92,7 +92,7 @@
 
 ## [09/08/2023](https://cssbattle.dev/play/5zz7xHYWCTR8YJg85mMp)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_dzhCoiT@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_dzhCoiT@2x.png?alt=media">
 
 #### Solution:
 
@@ -113,7 +113,7 @@
 
 ## [10/08/2023](https://cssbattle.dev/play/Y9ClsHseHODladcRg8HD)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_tV6RA8I@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_tV6RA8I@2x.png?alt=media">
 
 #### Solution:
 
@@ -143,7 +143,7 @@
 
 ## [11/08/2023](https://cssbattle.dev/play/JCBU1qkszqQllyrMqNnO)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_t0ykJgK@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_t0ykJgK@2x.png?alt=media">
 
 #### Solution:
 
@@ -171,7 +171,7 @@
 
 ## [12/08/2023](https://cssbattle.dev/play/ZfMY6fK7bR97CcaverAc)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_r0LEBUS@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_r0LEBUS@2x.png?alt=media">
 
 #### Solution:
 
@@ -209,7 +209,7 @@
 
 ## [13/08/2023](https://cssbattle.dev/play/GTHyAgD8BJ81NChOprEi)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_m7qh1LK@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_m7qh1LK@2x.png?alt=media">
 
 #### Solution:
 
@@ -238,7 +238,7 @@
 
 ## [15/08/2023](https://cssbattle.dev/play/KkYlfIHQN27g0O0zBjQ6)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_QxFNyYY@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_QxFNyYY@2x.png?alt=media">
 
 #### Solution:
 
@@ -276,7 +276,7 @@
 
 ## [16/08/2023](https://cssbattle.dev/play/i8q8xOxP7ZRO9pN7VdL6)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_v3UHBqb@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_v3UHBqb@2x.png?alt=media">
 
 #### Solution:
 
@@ -314,7 +314,7 @@
 
 ## [17/08/2023](https://cssbattle.dev/play/Y0Zo7Ha1dt4aVhbpu92J)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_3RDoTtB@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_3RDoTtB@2x.png?alt=media">
 
 #### Solution:
 
@@ -358,7 +358,7 @@
 
 ## [18/08/2023](https://cssbattle.dev/play/Q3bvkfyJgIHTqYWlLzXQ)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_IhcJgtY@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_IhcJgtY@2x.png?alt=media">
 
 #### Solution:
 
@@ -386,7 +386,7 @@
 
 ## [19/08/2023](https://cssbattle.dev/play/1fzXRMzf7cHAFqUIG2aC)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_12cQzDp@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_12cQzDp@2x.png?alt=media">
 
 #### Solution:
 
@@ -417,7 +417,7 @@
 
 ## [20/08/2023](https://cssbattle.dev/play/TyrqA6LBgesQVJZog5fI)
 
-<img width="200px" src="url">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_xy5DjWK@2x.png?alt=media">
 
 #### Solution:
 
@@ -438,7 +438,7 @@
 
 ## [21/08/2023](https://cssbattle.dev/play/1CBnRp8yysk1kffJXD56)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_1c05Eyh@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_1c05Eyh@2x.png?alt=media">
 
 #### Solution:
 
@@ -467,7 +467,7 @@
 
 ## [22/08/2023](https://cssbattle.dev/play/QciIKAqMigBBHqLnUy6p)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_DEsHu2n@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_DEsHu2n@2x.png?alt=media">
 
 #### Solution:
 
@@ -495,7 +495,7 @@
 
 ## [23/08/2023](https://cssbattle.dev/play/3qe4gWPsOAsmMPhXtlXP)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_GVUGhfj@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_GVUGhfj@2x.png?alt=media">
 
 #### Solution:
 
@@ -529,7 +529,7 @@
 
 ## [24/08/2023](https://cssbattle.dev/play/4ggcUyxNQuX7vghuikSu)
 
-<img width="200px" src="url">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_37rgmpB@2x.png?alt=media">
 
 #### Solution:
 
@@ -564,7 +564,7 @@
 
 ## [25/08/2023](https://cssbattle.dev/play/eyHiEBFn09QItfM8hCXm)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_IRrNrX6@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_IRrNrX6@2x.png?alt=media">
 
 #### Solution:
 
@@ -606,7 +606,7 @@
 
 ## [26/08/2023](https://cssbattle.dev/play/KCiU4kXaC4xknFRUd7N3)
 
-<img width="200px" src="url">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_feQrKY7@2x.png?alt=media">
 
 #### Solution:
 
@@ -643,7 +643,7 @@
 
 ## [27/08/2023](https://cssbattle.dev/play/l7E8quKnJJlnx4vLsdl2)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_mCTCm8e@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_mCTCm8e@2x.png?alt=media">
 
 #### Solution:
 
@@ -685,7 +685,7 @@
 
 ## [28/08/2023](https://cssbattle.dev/play/Fq0UqEVtIk68D4Nb82bc)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_jFopqCW@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_jFopqCW@2x.png?alt=media">
 
 #### Solution:
 
@@ -729,7 +729,7 @@
 
 ## [29/08/2023](https://cssbattle.dev/play/rkf3OoYv0sIG73XnGjNb)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_JklDn6r@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_JklDn6r@2x.png?alt=media">
 
 #### Solution:
 
@@ -770,7 +770,7 @@
 
 ## [30/08/2023](https://cssbattle.dev/play/xuj4VWLvZWrmL40oV5Uu)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_NhEKig6@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_NhEKig6@2x.png?alt=media">
 
 #### Solution:
 
@@ -813,7 +813,7 @@
 
 ## [31/08/2023](https://cssbattle.dev/play/rghvs0HJU07zmlIENJr4)
 
-<img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_gR7YGT6@2x.png?alt=media">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_gR7YGT6@2x.png?alt=media">
 
 #### Solution:
 

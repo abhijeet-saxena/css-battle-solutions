@@ -2,7 +2,7 @@
 
 ## [Root Learn](https://cssbattle.dev/play/125)
 
-<img width="200px" src="https://cssbattle.dev/targets/125.png">
+<img width="400px" src="https://cssbattle.dev/targets/125.png">
 
 #### Solution:
 
@@ -75,7 +75,7 @@ TBD
 
 ## [Letter A](https://cssbattle.dev/play/126)
 
-<img width="200px" src="https://cssbattle.dev/targets/126.png">
+<img width="400px" src="https://cssbattle.dev/targets/126.png">
 
 #### Solution:
 
@@ -121,7 +121,7 @@ TBD
 
 ## [Letter I](https://cssbattle.dev/play/127)
 
-<img width="200px" src="https://cssbattle.dev/targets/127.png">
+<img width="400px" src="https://cssbattle.dev/targets/127.png">
 
 #### Solution:
 
@@ -175,7 +175,7 @@ TBD
 
 ## [Letter N](https://cssbattle.dev/play/128)
 
-<img width="200px" src="https://cssbattle.dev/targets/128.png">
+<img width="400px" src="https://cssbattle.dev/targets/128.png">
 
 #### Solution:
 
@@ -216,7 +216,7 @@ TBD
 
 ## [Letter B](https://cssbattle.dev/play/129)
 
-<img width="200px" src="https://cssbattle.dev/targets/129.png">
+<img width="400px" src="https://cssbattle.dev/targets/129.png">
 
 #### Solution:
 
@@ -246,7 +246,7 @@ TBD
 
 ## [Letter O](https://cssbattle.dev/play/130)
 
-<img width="200px" src="https://cssbattle.dev/targets/130.png">
+<img width="400px" src="https://cssbattle.dev/targets/130.png">
 
 #### Solution:
 
@@ -282,7 +282,7 @@ TBD
 
 ## [Letter W](https://cssbattle.dev/play/131)
 
-<img width="200px" src="https://cssbattle.dev/targets/131.png">
+<img width="400px" src="https://cssbattle.dev/targets/131.png">
 
 #### Solution:
 
@@ -327,7 +327,7 @@ TBD
 
 ## [Letter S](https://cssbattle.dev/play/132)
 
-<img width="200px" src="https://cssbattle.dev/targets/132.png">
+<img width="400px" src="https://cssbattle.dev/targets/132.png">
 
 #### Solution:
 
