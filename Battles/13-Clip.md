@@ -4,6 +4,8 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/69.png">
 
+#### Solution
+
 ```html
 <div></div>
 <style>
@@ -55,9 +57,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Froggy](https://cssbattle.dev/play/70)
 
 <img width="200px" src="https://cssbattle.dev/targets/70.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -101,9 +111,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Elephant](https://cssbattle.dev/play/71)
 
 <img width="200px" src="https://cssbattle.dev/targets/71.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -182,9 +200,17 @@
 </p>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Sheep](https://cssbattle.dev/play/72)
 
 <img width="200px" src="https://cssbattle.dev/targets/72.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -244,9 +270,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Happy Tiger](https://cssbattle.dev/play/73)
 
 <img width="200px" src="https://cssbattle.dev/targets/73.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -333,9 +367,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Danger Noodle](https://cssbattle.dev/play/74)
 
 <img width="200px" src="https://cssbattle.dev/targets/74.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -427,9 +469,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Hippo](https://cssbattle.dev/play/75)
 
 <img width="200px" src="https://cssbattle.dev/targets/75.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -501,9 +551,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Beeee](https://cssbattle.dev/play/76)
 
 <img width="200px" src="https://cssbattle.dev/targets/76.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -539,4 +597,10 @@
     border-radius: 0 0 50px 50px;
   }
 </style>
+```
+
+#### Minified
+
+```html
+<body bgcolor=998235><p><p a><h1><style>p{width:75;height:75;background:#FFF;border-radius:50%50%0 50%;margin:75 117}p[a]{scale:-1 1;margin:-150 192}h1{width:150;height:75;background:radial-gradient(circle at 122.5px 27.5px,#191919 7px,#00000000 0),linear-gradient(90deg,#191919 25px,#EFF33C 0,#EFF33C 35px,#191919 35px,#191919 60px,#EFF33C 0,#EFF33C 70px,#191919 70px,#191919 95px,#EFF33C 0,#EFF33C 105px);margin:39%117;border-radius:50px
 ```

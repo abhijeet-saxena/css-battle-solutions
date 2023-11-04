@@ -4,6 +4,8 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/89.png">
 
+#### Solution
+
 ```html
 <div></div>
 <style>
@@ -28,9 +30,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<p><style>&{background:radial-gradient(circle at 50%50vh,#F9E492 25vw,#191919 0)}p{width:300;height:300;background:radial-gradient(circle at 50%149q,#191919 25vw,#4F77FF 0);margin:9 42;clip-path:polygon(50%50%,100%100%,0 100%
+```
+
 ## [Eclipse](https://cssbattle.dev/play/90)
 
 <img width="200px" src="https://cssbattle.dev/targets/90.png">
+
+#### Solution
 
 ```html
 <style>
@@ -51,9 +61,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<style>&{background:radial-gradient(circle at 50%350px,#998235 50vw,#00000000 0),radial-gradient(1q,#1A4341 25vw,#F3AC3C 0,#F3AC3C 125px,#00000000 0),radial-gradient(circle at 50%-50px,#998235 50vw,#F3AC3C 0
+```
+
 ## [Reflection](https://cssbattle.dev/play/91)
 
 <img width="200px" src="https://cssbattle.dev/targets/91.png">
+
+#### Solution
 
 ```html
 <style>
@@ -82,9 +100,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<style>&{background: linear-gradient(#00000000 50%,#6CB3A9 50%174q,#00000000 165px 185q,#6CB3A9 180q 190px,#00000000 190q 50vw,#6CB3A9 50vw 215px,#00000000 215q 225px,#6CB3A9 225q 60vw,#00000000 60vw 250q),radial-gradient(110q,#F6DF96 96%,#00000000 0),linear-gradient(#D25B70 50%,#6CB3A9 0
+```
+
 ## [Squeeze](https://cssbattle.dev/play/92)
 
 <img width="200px" src="https://cssbattle.dev/targets/92.png">
+
+#### Solution
 
 ```html
 <style>
@@ -108,9 +134,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=6592CF><p><h1><style>p{width:200;height:200;background:#243D83;border-radius:50%;margin:50-134;color:243D83;box-shadow:226px 0,478q 0}h1{width:31;height:70;margin:-60%63.5;border-radius:22q;color:6592CF;box-shadow:0 96q,0 40px#243D83,226px 0,226px 90px,226px 40px#243D83
+```
+
 ## [Great Wall](https://cssbattle.dev/play/93)
 
 <img width="200px" src="https://cssbattle.dev/targets/93.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -156,9 +190,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Ripples](https://cssbattle.dev/play/94)
 
 <img width="200px" src="https://cssbattle.dev/targets/94.png">
+
+#### Solution
 
 ```html
 <style>
@@ -188,9 +230,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<style>*{background:radial-gradient(circle,#F3AC3C 21q,#0E2E2C 0 7vw,#F3AC3C 7vw 5ch,#0E2E2C 0 53q,#998235 0 25%,#0E2E2C 0 9ch,#F3AC3C 0 5em,#0E2E2C 0 99q,#F3AC3C 0 25vw,#0E2E2C 0
+```
+
 ## [Pokeball](https://cssbattle.dev/play/95)
 
 <img width="200px" src="https://cssbattle.dev/targets/95.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -227,9 +277,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=6CB3A9><p><h1><style>p{width:200;height:200;margin:50 92;border-radius:50%;background:radial-gradient(1q,#F6DF96 26q,#781728 0 37q,#00000000 0),linear-gradient(#D25B70 95q,#781728 0 110px,#FFF 0)}h1{width:10;height:20;background:#6CB3A9;margin:-160 92;box-shadow:200q 0#6CB3A9
+```
+
 ## [Mandala](https://cssbattle.dev/play/96)
 
 <img width="200px" src="https://cssbattle.dev/targets/96.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -262,4 +320,36 @@
     left: 190px;
   }
 </style>
+```
+
+#### Minified
+
+```html
+<body bgcolor=243D83><p><p a><p b><p b c><p d><style>
+  p{
+    width:130;
+    aspect-ratio:1;
+    position:fixed;
+    border:solid 20px#243D83;
+    border-radius:50%;
+    top:49;
+    left:40
+  }
+  [a]{
+    left:190
+  }
+  [b]{
+    top:-26;
+    left:115;
+  }
+  [c]{
+    top:124;
+  }
+  [d]{
+    background:#6592CF;
+    top:14;
+    left:80;
+    z-index:-1;
+    width:200;
+  }
 ```
