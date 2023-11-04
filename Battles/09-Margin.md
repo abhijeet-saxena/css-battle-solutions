@@ -4,7 +4,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/45.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -43,7 +43,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=1A4341><p><h1><h1 a><style>p{width:90;height:122;border:solid 30px#998235;outline:solid 30px#1A4341;box-shadow:0 0 0 60px#F3AC3C;margin:-40 117}h1{width:270;height:30;background:#998235;margin:130 57}[a]{width:380;margin:-300 2;background:#F3AC3C;rotate:90deg
@@ -53,7 +53,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/46.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -86,7 +86,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=293462><p><style>p{width:200;height:200;background:#FFF1C1;border-radius:50%;overflow:hidden;position:relative;margin:50 92}p:after{content:"";position:absolute;width:200;height:150;background:#FE5F55;top:108;left:24;rotate:-45deg;box-shadow:-136q -32q#FE5F55

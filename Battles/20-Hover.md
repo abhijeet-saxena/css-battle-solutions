@@ -4,7 +4,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/117.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <style>
@@ -51,7 +51,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 TBD
@@ -61,7 +61,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/118.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <p></p>
@@ -102,7 +102,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=0><p><p a><p><h1><style>p{width:300;height:20;background:#AF067C;margin:90 42 -60;border-radius:10px}p[a]{rotate:-4deg}h1{position:fixed;width:20;height:50;background:#FFF;top:85;left:80;box-shadow:110px 3ch#FFF,55vw -10px#FFF,55vw 40px#FFF;z-index:-1
@@ -112,7 +112,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/119.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -149,7 +149,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=000><p><p a><h2><h3><style>*{aspect-ratio:1}p{width:0;border:solid 32q#E0E246;border-radius:50%;margin:120 52; }[a]{width:10;border:0;background:#FFF;margin:-155 157;box-shadow:32q 0#FFF,64q 0#FFF}h2{width:60;background:#C74E4E;border-radius:32q 32q 0 0;margin:120 272}h3{width:50;background:#000;margin:-175 90;rotate:-45deg;box-shadow:95px 170px,81px 156px,109px 184px
@@ -159,7 +159,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/120.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -217,7 +217,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 TBD
@@ -227,7 +227,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/121.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -255,7 +255,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <p><style>&{background:linear-gradient(#1E92FF 115q,#00000000 0 60%,#69D10A 0 55vw,#6F6100 0),linear-gradient(90deg,#1E92FF 53q,#441A0A 0 74q,#1E92FF 0)}p{width:40;height:40;background:#69D10A;border-radius:50%;margin:60 32;color:69D10A;box-shadow:0 21q,21q 21q,-20px 20px,270px 70px,270px 90px
@@ -265,7 +265,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/122.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -289,7 +289,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=173889><p><style>p{width:45;height:45;background:#F8DA37;margin:102 42;color:EE4F63;box-shadow:0 54q#F8DA37,0 108q,0 162q#F8DA37,54q 0#F8DA37,54q 54q#F8DA37,54q 108q,54q 162q#2CE1EA,108q 54q,108q 108q,108q 162q#2CE1EA,162q -54q,162q 0,162q 108q#2CE1EA,162q 162q#2CE1EA,216q -108q,216q -54q,216q 54q#B069F7,216q 108q#B069F7,216q 162q#B069F7,270q 108q#B069F7,270q 162q#2CE1EA
@@ -299,7 +299,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/123.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -323,7 +323,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <p><style>&{background:radial-gradient(circle at 25vw 25vw,#FFF 10px,#C74E4E 0)}p{width:20;height:20;background:#E0E246;color:E0E246;border-radius:5q;margin:190 82;box-shadow:26q 0,53q 0,79q 0,25vw 0,132q 0,50vh 0,185q 0,50vw 0,50vw -26q,50vw -53q,50vw -79q,50vw -25vw,185q -25vw,50vh -25vw,132q -25vw,25vw -25vw
@@ -333,7 +333,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/124.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <style>
@@ -370,7 +370,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=071945><p><p a><p a b><h1><style>p{width:50;height:10;background:#B069F7;margin:40 32;color:B069F7;box-shadow:95q 0,60vh 0,90vh 0,0 53q#F8DA37,

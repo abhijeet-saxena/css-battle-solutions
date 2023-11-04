@@ -4,7 +4,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/171.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <p b></p>
@@ -51,7 +51,7 @@
 </h1>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=784972><p b><p a><p d><p c><p><h1><style>p{width:100;height:150;background:#F7FFCF;position:fixed;top:74;left:140;border-radius:50%;border:solid 10px#784972;z-index:-1}[a]{left:100}[b]{left:60}[c]{left:180}[d]{left:220}h1{width:22;height:80;background:#F7FFCF;border-radius:1em;margin:50 181
@@ -61,7 +61,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/172.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <p a><p b><p c><style>
@@ -92,7 +92,7 @@
     box-shadow:21px -21px,134px -21px,156px 0,0 113px,156px 113px,134px 134px,21px 134px;
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=EFEB99 text=8647E6><p a><p b><p c><style>p{width:190;height:30;background:#8647E6}[a]{margin:135 97;rotate:45deg}[b]{margin:-165 97;rotate:-45deg}[c]{width:30;border-radius:50%;margin:78 99;box-shadow:23q -22q,142q -22q,165q 0,0 120q,165q 120q,142q 142q,23q 142q
@@ -102,7 +102,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/173.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <body bgcolor="A5B5B4">
@@ -137,7 +137,7 @@
 </body>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=A5B5B4><p><h1><h1 a><style>p{width:150;height:180;background:#FFF;margin:60 117;border-radius:50%}h1{width:30;aspect-ratio:1;border-radius:50%;background:#000;margin:-190 142;box-shadow:74q 0}[a]{width:10;margin:130 172;box-shadow:32q 0,16q 21q,0 85q,0 25vw,0 30vw,32q 85q,32q 25vw,32q 30vw
@@ -147,7 +147,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/174.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <body bgcolor="#F4DCBF">
@@ -196,7 +196,7 @@
 </body>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <p><h1 a><h2><style>*>*{background:#30383F}body{background:#F4DCBF}p{width:85;height:145;margin:13%39%;clip-path:polygon(50%0,100%100%,0 100%)}h1,h1:after{width:150;height:60;border-radius:50%;position:absolute;content:"";border:solid 11q#556D7F;top:-45;left:-10}[a]{margin:-10 127;overflow:hidden;position:relative;border:0}h2{width:30;height:20;background:#FBD038;position:fixed;top:190;left:185;border-radius:5q
@@ -206,13 +206,13 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/175.png">
 
-#### Solution
+#### Solution:
 
 ```html
 
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <p><p b><h1><h2><h2 a><h3><style>&{background:#ED6A9D}p{width:180;height:150;background:#050044;margin:90 102;border-radius:50%}[b]{width:40;height:40;background:#FFC100;margin:-200 137;rotate:-45deg;border-radius:0 20px;box-shadow:53q 53q#FFC100}h1{width:10;height:30;background:#050044;border-radius:50%;margin:165 152;position:relative;box-shadow:70px 0#050044}h2{width:87;height:65;background:#050044;margin:-268.5 113.5;rotate:-3deg;clip-path:polygon(0 0,100%100%,0 100%)}[a]{margin:203 183.5;scale:-1 1;rotate:3deg}h3{width:0;height:0;border:solid 15px#0000;border-top-color:#ED6A9D;margin:-144 177
@@ -222,7 +222,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/176.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <p></p>
@@ -278,7 +278,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=A6D6AE><p b></p><p a b></p><h1 b></h1><h2 b></h2><h3 c></h3><h4 c></h4><style>p{width:80;height:60;margin:60 77;clip-path:polygon(50%0,100%100%,0 100%)}[a]{margin:-120 227}[b]{background:#3A0F09}[c]{background:#BB9213}h1{width:50;height:120;margin:120 92;box-shadow:50vh 0#3A0F09}h2{width:200;height:120;margin:-240 92;clip-path:polygon(50%0,100% 75q,100%100%,0 100%,0 75q)}h3{width:20;height:25;margin:130 107;border-radius:1em 1em 0 0;box-shadow:50vh 0#BB9213}h4{width:60;height:50;margin:-95 162;position:relative;border-radius:2em 2em 0 0
@@ -289,7 +289,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/177.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <p></p>
@@ -354,7 +354,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <p></p>
@@ -423,7 +423,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/178.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <p></p>
@@ -463,7 +463,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 TBD

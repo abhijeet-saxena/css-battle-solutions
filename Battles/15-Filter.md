@@ -4,7 +4,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/81.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -36,7 +36,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=191919><p a><p b><p c><p d><h1><style>p{color:8F8F8F;width:40;height:40;border:solid 20px;border-radius:50%;position:fixed;top:106;left:37}[a]{color:714B67}[b]{left:119}[c]{left:201}p[d]{left:283}h1{width:20;height:60;background:#8F8F8F;border-radius:9q;margin:102 171
@@ -46,7 +46,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/82.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -75,7 +75,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=F3AC3C><p><p a><p b><style>p{width:100;aspect-ratio:1;margin:70 110;border:solid 32q#998235;rotate:45deg}[a]{width:80;margin:-298 120;border-color:F3AC3C}[b]{background:#1A4341;width:30;margin:291 175;border:0
@@ -85,7 +85,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/83.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -109,7 +109,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=243D83><p><h1><style>
@@ -120,7 +120,7 @@ p{width:100;height:100;background:#6592CF;border-radius:50%;margin:57 100;box-sh
 
 <img width="200px" src="https://cssbattle.dev/targets/84.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -150,7 +150,7 @@ p{width:100;height:100;background:#6592CF;border-radius:50%;margin:57 100;box-sh
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=191919><p><p a><style>p{width:200;border:solid 20px;color:A64942;border-radius:4ch;margin:130-68;box-shadow:70vw 0}[a]{rotate:90deg;margin:-310 72;color:FE5F55
@@ -160,7 +160,7 @@ p{width:100;height:100;background:#6592CF;border-radius:50%;margin:57 100;box-sh
 
 <img width="200px" src="https://cssbattle.dev/targets/85.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -188,7 +188,7 @@ p{width:100;height:100;background:#6592CF;border-radius:50%;margin:57 100;box-sh
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=D25B70><p><h1><style>p{position:fixed;width:60;height:60;background:#6CB3A9;top:62;left:114;rotate:37deg;box-shadow:70px -70px 0 10px #F6DF96}h1{width:100;height:100;background:#F7F3DA;margin:150 142
@@ -198,7 +198,7 @@ p{width:100;height:100;background:#6592CF;border-radius:50%;margin:57 100;box-sh
 
 <img width="200px" src="https://cssbattle.dev/targets/86.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -227,7 +227,7 @@ p{width:100;height:100;background:#6592CF;border-radius:50%;margin:57 100;box-sh
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=191919><p><h1><style>p{width:100;height:150;background:#4F77FF;margin:75 142;border-radius:52q 52q 0 0}h1{background:#191919;color:191919;width:100;height:20;margin:-95 162;box-shadow:21q -25q,42q -51q,63q -76q
@@ -237,7 +237,7 @@ p{width:100;height:100;background:#6592CF;border-radius:50%;margin:57 100;box-sh
 
 <img width="200px" src="https://cssbattle.dev/targets/87.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -280,7 +280,7 @@ p{width:100;height:100;background:#6592CF;border-radius:50%;margin:57 100;box-sh
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <h1><p><p a><style>&{background:#F3AC3C;color:1A4341}h1{width:20;height:20;border-radius:50%;margin:30%157;box-shadow:-10q -10q,53q 53q#F3AC3C,60q 60q}p{width:150;height:50;background:#1A4341;position:fixed;border-radius:10q;box-shadow:30vw 30vw;top:33;left:65}[a]{width:100;height:65;top:68;box-shadow:180q 37q
@@ -290,7 +290,7 @@ p{width:100;height:100;background:#6592CF;border-radius:50%;margin:57 100;box-sh
 
 <img width="200px" src="https://cssbattle.dev/targets/88.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -329,7 +329,7 @@ p{width:100;height:100;background:#6592CF;border-radius:50%;margin:57 100;box-sh
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <h1><p><style>&{background:linear-gradient(#F7F3DA 116q,#D25B70 0 201q,#F7F3DA 0);color:F7F3DA}h1{width:20;height:20;border-radius:50%;background:#D25B70;margin:29%172;box-shadow:11q -10q,22q 62q#D25B70,11q 76q}p{width:250;height:70;background:#F7F3DA;border-radius:20q;box-shadow:265q -74q#F7F3DA;position:fixed;top:118;left:-50

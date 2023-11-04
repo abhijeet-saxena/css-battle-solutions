@@ -4,7 +4,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/29.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -38,7 +38,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <p><style>&{background:#1A4341}p{width:300;height:400;background:#F3AC3C;color:F3AC3C;border-radius:25vw;margin:-258-108;box-shadow:0 400px,75vw 0,75vw 400px
@@ -48,7 +48,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/30.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <style>
@@ -65,7 +65,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <style>&{background:linear-gradient(#F7EC7D 53q,#E38F66 0 25vw,#AA445F 0 50vw,#62306D 0

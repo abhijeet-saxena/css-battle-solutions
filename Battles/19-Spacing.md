@@ -4,7 +4,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/109.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -25,7 +25,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=191919><p><style>p{width:275;height:275;background:radial-gradient(circle at 32px 32px,#F6E59C 20px,#191919 0);background-size:60px 60px;clip-path:polygon(0 0,100% 0,0 100%
@@ -35,7 +35,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/110.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -91,7 +91,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <p a><p b><p c><p d><p e><p f><body bgcolor=D25B70><style>p{width:100;height:10;background:#F2E09F;border-radius:5q;margin:195 72}[a]{box-shadow:35vw 0#F2E09F}[b]{rotate:30deg;margin:-240 81}[c]{rotate:-30deg;margin:230 202}[d]{rotate:60deg;margin:-69%107}[e]{rotate:-60deg;margin:255 177}[f]{rotate:90deg;margin:-72%142
@@ -101,7 +101,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/111.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -139,7 +139,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=F3AC3C><p><p a><p a b><style>p{width:80;height:80;background:#254241;border-radius:50%50%0;margin:110 72;rotate:-45deg}[a]{margin:-260 152;rotate:45deg}[b]{margin:320 152;scale:-1
@@ -149,7 +149,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/112.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -223,7 +223,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 TBD
@@ -233,7 +233,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/113.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <style>
@@ -244,7 +244,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <style>*>*{background:linear-gradient(3.5deg,#5776F6 125px,transparent 0),linear-gradient(-3.5deg,#191919 50vw,#5776F6 0
@@ -254,7 +254,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/114.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -289,7 +289,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=172D2C><p><p a><style>p{width:180;height:195;background:#E9AF53;margin:85 12;clip-path:polygon(0 0,100%33%,100%100%,0 67%)}p[a]{margin:-345 192;clip-path:polygon(0 0,100%33%,0 67%
@@ -299,7 +299,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/115.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <style>
@@ -335,7 +335,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <p><p a><style>p{height:150;width:380;background:radial-gradient(1in at 50vw 100%,#C36271 53q,#F2E09F 0);border-radius:0 0 25vw 0;color:C36271;box-shadow:2in 0;margin:-8}
@@ -346,7 +346,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/116.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -380,7 +380,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=293D7E><p><h1><h1 a>

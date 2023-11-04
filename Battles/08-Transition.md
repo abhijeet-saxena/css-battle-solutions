@@ -4,7 +4,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/42.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -47,7 +47,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=293462><p><h1><style>p{width:200;height:200;background:#FE5F55;border-radius:50%50%25%25%;position:relative;overflow:hidden;margin:50 92}p:before,p:after{content:"";position:absolute;width:40;height:10;border-radius:8q;background:#FFF1C1;color:FFF1C1;top:170;left:80}p:after{width:60;height:60;border-radius:50%;top:90;left:20;box-shadow:25vw 0,0-30vw 0 21q,25vw -30vw 0 21q
@@ -57,7 +57,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/43.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -100,7 +100,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=6592CF><p><p a><style>p{width:80;height:182;border: solid 32q#243D83;border-radius:74q;clip-path:polygon(50%0,100%0,100%100%,50%100%);margin:30 67}[a]{margin:-272 177;scale:-1}
@@ -110,7 +110,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/44.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -153,7 +153,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=1A4341><p><p a><p b><style>p{width:300;height:180;background:repeating-linear-gradient(#F3AC3C 0,#F3AC3C 20px,#1A4341 0,#1A4341 40px);margin:60}p[a],p[b]{width:300;height:300;border-radius:50%;background:#1A4341;margin:-300 -158}p[b]{margin-left:242

@@ -4,7 +4,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/19.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div class="square one"></div>
@@ -46,7 +46,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=#0B2429><p><h1><h1 a><style>p{width:100;height:100;background:#F3AC3C;margin:135 142;rotate:45deg}h1{width:70;height:70;background:#998235;margin:-290 122;transform:skewY(-45deg)}[a]{background:#1A4341;margin:219 192;scale:1-1
@@ -56,7 +56,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/20.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div class="yellow"></div>
@@ -125,7 +125,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=62306D><p><h1><style>p{width:200;height:100;background:linear-gradient(90deg,#F7EC7D 35vw,#E38F66 0);margin:26%92}h1{width:20;height:20;background:#62306D;color:62306D;margin:-210 222;border-radius:50%;box-shadow:0 25vw,-35vw 0 0 11q,-35vw 25vw 0 10q,63q 0 0 11q,63q 25vw 0 11q

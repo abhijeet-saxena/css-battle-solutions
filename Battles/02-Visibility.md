@@ -4,7 +4,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/13.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div class="triangle"></div>
@@ -22,7 +22,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <style>body{background:linear-gradient(135deg,#F3AC3C 25vw,#0B2429 0
@@ -32,7 +32,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/14.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div class="elem">
@@ -81,7 +81,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=F2F2B6><p a d><p><p b e><p c d e><style>p{width:150;height:130;background:#FF6D00;clip-path:polygon(0 0,100%0,50%100%);position:fixed;top:69;left:60}[a]{left:80}[b]{left:190}[c]{left:170}[d]{background:#FD4602}[e]{scale:-1
@@ -91,7 +91,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/15.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div class="circle"></div>
@@ -131,7 +131,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=#09042A><p><p a><h1><style>p{width:150;height:150;border-radius:50%;background:#7B3F61;margin:75 67}[a]{background:#E78481;margin:-225 167}h1{width:80;height:80;background:#09042A;border-radius:0%96%0%96%;margin:110 152;rotate:45deg
@@ -141,7 +141,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/16.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div class="box">
@@ -182,7 +182,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=#0B2429><p><h1><style>p{background:#998235;width:200;height:200;border-radius:0 50%0 50%;rotate:-45deg;margin:50 92}h1{width:50;height:50;position:fixed;background:#0B2429;top:58.5;left:130;border-radius:50%;border:solid 48q#F3AC3C;outline:solid 20px#0B2429
@@ -192,7 +192,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/17.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div class="bar"></div>
@@ -241,7 +241,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=09042A><p a><p><p b><p c><p c d><style>p{width:60;height:60;background:#09042A;color:E78481;border-radius:50q;border:solid 11q;position:fixed;top:94;left:100;}[a]{margin:15 60;background:#E78481}[b]{left:220}[c]{top:41;left:160;background:#F5BB9C;color:09042A}[d]{top:147
@@ -251,7 +251,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/18.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div class="slice"></div>
@@ -293,7 +293,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <p><p a><p><p a><p a><p><p a><p><p><p a><p><p a>

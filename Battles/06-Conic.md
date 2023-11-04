@@ -29,7 +29,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=AA445F><p><style>p{width:250;height:200;background:linear-gradient(90deg,#F7EC7D 25vw,#AA445F 0 50vh,#E38F66 0);border-radius:25vw;margin:13%67
@@ -67,7 +67,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <p><p a><style>p{width:200;height:50;background:#A3A368;mix-blend-mode:screen;rotate:-45deg;margin:125 92}[a]{background:#F3AC3C;rotate:45deg;margin:-175 92

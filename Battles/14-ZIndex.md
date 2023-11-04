@@ -4,7 +4,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/77.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -45,7 +45,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=191919><p a><p b><p c><style>p{background:#A64942;color:FE5F55;width:40;height:10;margin:90 227;box-shadow:-148q 0,-74q 0,74q 0}[a]{box-shadow:-148q 0,-25vw 0,74q 0,74q 21q}[b]{width:10;height:90;margin:-90 227}[c]{width:50;height:40;margin:70 187;border-radius:50%
@@ -55,7 +55,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/78.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -112,7 +112,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <p><p a b><p b><p c><p d><style>body{background:radial-gradient(100q at 105px 50%, #998235 64q,#F3AC3C 0)}p{width:175;height:20;background:#1A4341;margin:140;border-radius:50q}[b]{width:10;height:40;margin:130 77 0}[a]{width:40;margin:-175 132;border:solid 5px#F3AC3C;outline:solid 27q#998235}[c]{width:40;height:30;background:#998235;border-radius:10q;margin:-35 307}[d]{width:20;height:4;margin:13 317;box-shadow:0 11q#1A4341
@@ -122,7 +122,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/79.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -172,7 +172,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=6592CF><p><p a><p b><p c><p d><h1><h2><style>p,h1,h2{color:243D83;aspect-ratio:1;border-radius:50%;border:solid 10px}p{position:fixed;background:#243D83;border-color:6592CF;width:10;outline:solid 10px;border-radius:50%;top:89;left:115}p[a]{left:255}p[b]{top:159}p[c]{left:255;top:159}p[d]{left:185;top:49}h1{width:150;margin:75 107}h2{width:100;margin:-120 132;background:#6592CF;clip-path:polygon(15%0,105%0,105%18%,50%46%,15%33px
@@ -182,7 +182,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/80.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -225,7 +225,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=998235><p><p a><p b><style>p{width:180;height:100;border-radius:10q;background:#191919;margin:26%102}[a]{width:20;height:70;background:#FFF;color:FFF;margin:-175 107;border-radius:6q;box-shadow:27q 0,53q 0,80q 0,25vw 0,132q 0,50vh 0}[b]{width:15;height:35;border-radius:0;color:191919;margin:105 122;box-shadow:27q 0,80q 0,25vw 0,132q 0

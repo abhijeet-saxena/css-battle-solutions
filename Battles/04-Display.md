@@ -4,7 +4,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/21.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div class="yellow one">
@@ -59,7 +59,7 @@
 </div>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <p><p a b e><p c e><p b c d><style>&{background:#222;rotate:-45deg}p{width:100;height:30;background:#F2994A;position:fixed;top:68;left:159;border-radius:10q 0 0}[a]{margin:-17 130;top:201;left:11}[b]{background:#2D9CDB}[e]{scale:-1}[c]{width:65;rotate:90deg;border-radius:0 10q 0 5q;top:101;left:141}[d]{top:135;left:193
@@ -69,7 +69,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/22.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -105,7 +105,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=F5D6B4><p><h1><style>p{width:175;height:50;background:#D86F45;border-radius:2em;margin:43%117}h1{width:100;height:100;border-radius:50%;background:#D86F45;margin:-69%92;box-shadow:5ch -32q#D86F45
@@ -115,7 +115,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/23.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -151,7 +151,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=F3AC3C><p><style>p{width:50;height:50;background:#F3AC3C;margin:200 142;box-shadow:-25px -25px 0 25px#998235,25px -75px 0 75px#1A4341
@@ -161,7 +161,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/24.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -203,7 +203,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=62306D><p><p a><style>p{width:100;height:150;background:radial-gradient(100q at 50%25vw,#F7EC7D 50px,#AA445F 0);margin:50 72;border-radius:4em;}[a]{
@@ -214,7 +214,7 @@ margin:-39%212;background:radial-gradient(100q at 50%33%,#F7EC7D 50px,#E38F66 0
 
 <img width="200px" src="https://cssbattle.dev/targets/25.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -252,7 +252,7 @@ margin:-39%212;background:radial-gradient(100q at 50%33%,#F7EC7D 50px,#E38F66 0
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=998235><p><p a><p c><p a c d><style>p{width:80;height:100;background:#1A4341;border-radius:0 52q;margin:60 102}[a]{scale:1-1;margin:-80 202}[c]{height:60;background:#F3AC3C;margin:20 102}[d]{margin:-52%202
@@ -262,7 +262,7 @@ margin:-39%212;background:radial-gradient(100q at 50%33%,#F7EC7D 50px,#E38F66 0
 
 <img width="200px" src="https://cssbattle.dev/targets/26.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <style>
@@ -290,7 +290,7 @@ margin:-39%212;background:radial-gradient(100q at 50%33%,#F7EC7D 50px,#E38F66 0
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=6592CF><p><p a><p b><style>p{border:solid 20px#060F55;width:80;height:40;border-bottom:none;border-radius:5em 5em 0 0;margin:40 32}p[a]{margin:-26%232}p[b]{margin:52%132;scale:-1
@@ -300,7 +300,7 @@ margin:-39%212;background:radial-gradient(100q at 50%33%,#F7EC7D 50px,#E38F66 0
 
 <img width="200px" src="https://cssbattle.dev/targets/27.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -341,7 +341,7 @@ margin:-39%212;background:radial-gradient(100q at 50%33%,#F7EC7D 50px,#E38F66 0
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <p><style>body{background:radial-gradient(circle,#AA445F 25vw,#E38F66 0)}p{width:80;height:80;border-radius:50%;border:solid 30px;border-color:#F7EC7D#AA445F;margin:80 122;rotate:45deg
@@ -351,7 +351,7 @@ margin:-39%212;background:radial-gradient(100q at 50%33%,#F7EC7D 50px,#E38F66 0
 
 <img width="200px" src="https://cssbattle.dev/targets/28.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -388,7 +388,7 @@ margin:-39%212;background:radial-gradient(100q at 50%33%,#F7EC7D 50px,#E38F66 0
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <p><p a><p a b><style>*{background:#1A4341;color:F3AC3C}p{width:50;height:50;border-radius:50%;margin:90 62;background:#998235;box-shadow:74q 74q#998235,148q 74q,222q 0}[a]{border-radius:0 0 50%50%;margin:-70 272;box-shadow:-70vh 0}[b]{margin:-120 202;scale:-1;box-shadow:74q 0

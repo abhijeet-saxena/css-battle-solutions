@@ -4,7 +4,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/141.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -24,7 +24,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <p><style>&{background:radial-gradient(100q at 0 0,#D9D9D9 25vh,#FFFFFF00 0),radial-gradient(100q at 100%100%,#D9D9D9 25vh,#E3516E 0)}p{background:#D9D9D9;margin:26%142;width:100;height:100;border-radius:100%0;rotate:45deg
@@ -34,7 +34,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/142.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -62,7 +62,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=4F77FF><p><p a><style>p{width:60;height:200;background:#1038BF;color:1038BF;margin:50 42;box-shadow:30vw 0,60vw 0}[a]{width:20;background:#FFF;box-shadow:30vw 0#FFF;margin:-65%122

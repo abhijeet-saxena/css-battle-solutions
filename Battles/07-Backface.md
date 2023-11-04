@@ -4,7 +4,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/33.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -45,7 +45,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=1A4341><p><h1><style>p{width:75;height:150;background:radial-gradient(circle at 48q 48q,#0B2429 16q,#998235 0);border-radius:5em 0 0 5em;margin:75 117}h1{width:100;height:100;background:#F3AC3C;margin:-250 192;border-radius:0 100%0 0
@@ -55,7 +55,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/34.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div class="stack">
@@ -98,7 +98,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=007065><p><p a><p b><style>p{width:250;height:100;background:#00A79D;margin:39%67;clip-path:polygon(50%0,100%100%,0%100%)}[a]{background:#F5C181;margin:-78%67}
@@ -109,7 +109,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/35.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div class="icecream"></div>
@@ -147,7 +147,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=293462><p><h1>
@@ -158,7 +158,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/36.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div class="branch"></div>
@@ -194,7 +194,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=1A4341><p><style>p{width:50;height:250;border-radius:4em;background:#F3AC3C;color:F3AC3C;margin:26%17;box-shadow:50vh 0,75vw 0,79q -50vh#998235,75vh -50vh#998235
@@ -204,7 +204,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/37.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div class="tunnel"></div>
@@ -243,7 +243,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <p c><p b><p a><style>p{width:75;aspect-ratio:1;position:fixed;background:#243D83}[a]{top:97;left:163;rotate:30deg}[b]{width:150;rotate:15deg;background:#6592CF;rotate:15deg;top:59;left:125}[c]{width:250;top:9;left:75;box-shadow:0 0 0 25vw#6592CF
@@ -253,7 +253,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/38.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <style>
@@ -293,7 +293,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <h1><p><p a><style>*{background:#293462;margin:0}h1{width:200;height:200;background:#FFF1C1}p{width:200;height:100;background:linear-gradient(90deg,#FE5F55 75%,#A64942 0);position:fixed;top:200}[a]{rotate:90deg;top:50;left:150
@@ -303,7 +303,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/39.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <style>
@@ -341,7 +341,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 TBD
@@ -351,7 +351,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/40.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <style>
@@ -376,7 +376,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <style>*>*{background:radial-gradient(circle,#6592CF 50px,#243D83 0,#243D83 25vw,#6592CF 0)}*>*::after{position:fixed;content:"";background:linear-gradient(90deg,#243D83 50px,#6592CF 0);width:100;height:110;left:100;top:50
@@ -386,7 +386,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/41.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div class="fox left"></div>
@@ -439,7 +439,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <p><p a><style>&{background:radial-gradient(circle at 50%70%,#FE5F55 50q,#293462 0)}p{width:50;height:100;background:radial-gradient(circle at 60%75%,#293462 16q, #FE5F55 0);margin:80 142;border-radius:0 5ch 0 0;box-shadow:0 25vw#293462}[a]{margin:-47%192;scale:-1 1

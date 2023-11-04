@@ -4,7 +4,7 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/69.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -57,7 +57,7 @@
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 TBD
@@ -67,7 +67,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/70.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -111,7 +111,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 TBD
@@ -121,7 +121,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/71.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -200,7 +200,7 @@ TBD
 </p>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 TBD
@@ -210,7 +210,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/72.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -270,7 +270,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 TBD
@@ -280,7 +280,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/73.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -367,7 +367,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 TBD
@@ -377,7 +377,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/74.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -469,7 +469,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 TBD
@@ -479,7 +479,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/75.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -551,7 +551,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 TBD
@@ -561,7 +561,7 @@ TBD
 
 <img width="200px" src="https://cssbattle.dev/targets/76.png">
 
-#### Solution
+#### Solution:
 
 ```html
 <div></div>
@@ -599,7 +599,7 @@ TBD
 </style>
 ```
 
-#### Minified
+#### Minified:
 
 ```html
 <body bgcolor=998235><p><p a><h1><style>p{width:75;height:75;background:#FFF;border-radius:50%50%0 50%;margin:75 117}p[a]{scale:-1 1;margin:-150 192}h1{width:150;height:75;background:radial-gradient(circle at 122.5px 27.5px,#191919 7px,#00000000 0),linear-gradient(90deg,#191919 25px,#EFF33C 0,#EFF33C 35px,#191919 35px,#191919 60px,#EFF33C 0,#EFF33C 70px,#191919 70px,#191919 95px,#EFF33C 0,#EFF33C 105px);margin:39%117;border-radius:50px
