@@ -4,6 +4,8 @@
 
 <img width="200px" src="https://cssbattle.dev/targets/133.png">
 
+#### Solution
+
 ```html
 <div></div>
 <p></p>
@@ -49,9 +51,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+TBD
+```
+
 ## [Wig](https://cssbattle.dev/play/134)
 
 <img width="200px" src="https://cssbattle.dev/targets/134.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -76,9 +86,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=62306D><p><p a><style>p{width:80;height:160;background:#F7EC7D;border-radius:5em 0 5ch;margin:70 112}[a]{scale:-1 1;margin:-230 192
+```
+
 ## [Spikes](https://cssbattle.dev/play/135)
 
 <img width="200px" src="https://cssbattle.dev/targets/135.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -107,9 +125,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=E3516E text=D9D9D9><p><h1><style>p{width:90;height:40;border-radius:3ch;background:#D9D9D9;margin:26%0 0 92;box-shadow:116q 0,0 64q,116q 64q}h1{width:100;height:100;background:#E3516E;rotate:45deg;margin:-40 40;box-shadow:9ch -9ch#E3516E
+```
+
 ## [Alien Eye](https://cssbattle.dev/play/136)
 
 <img width="200px" src="https://cssbattle.dev/targets/136.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -130,9 +156,18 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<p><style>body{background:radial-gradient(circle,#FCBE5C 90px,#998235 0)}
+p{width:60;height:60;border-radius:50%;margin:120 172;background:#998235;box-shadow:-10px 0 0 20px#FCBE5C,0 0 0 40px#0B2429
+```
+
 ## [Elbow](https://cssbattle.dev/play/137)
 
 <img width="200px" src="https://cssbattle.dev/targets/137.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -152,9 +187,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=6592CF><p><style>p{width:250;height:150;border:solid 53q#060F55;border-radius:25vw 0;margin:50 42;border-right:0;border-bottom:0
+```
+
 ## [Lotus](https://cssbattle.dev/play/138)
 
 <img width="200px" src="https://cssbattle.dev/targets/138.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -190,9 +233,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=926927><p><p a><p b><style>p{width:100;height:100;background:#6D480A;border-radius:250px 0;margin: 120 192 0}p[a]{rotate:-90deg;margin:-100 92}p[b]{rotate:135deg;margin:-120 142;background:#fff
+```
+
 ## [Lamp](https://cssbattle.dev/play/139)
 
 <img width="200px" src="https://cssbattle.dev/targets/139.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -219,9 +270,17 @@
 </style>
 ```
 
+#### Minified
+
+```html
+<body bgcolor=E38F66><p><style>p{width:125;height:210;margin:90 129;background:linear-gradient(#FFFBDA 30vw,#62306D 0);cslip-path:polygon(32px 0,94px 0,126px 30vw,67.5px 30vw,67.5px 100%,57.5px 100%,57.5px 30vw,0 30vw
+```
+
 ## [Eclipse](https://cssbattle.dev/play/140)
 
 <img width="200px" src="https://cssbattle.dev/targets/140.png">
+
+#### Solution
 
 ```html
 <div></div>
@@ -241,4 +300,10 @@
     margin: 190 auto 0;
   }
 </style>
+```
+
+#### Minified
+
+```html
+<body bgcolor=4F77FF><p><h1><style>p{width:80;height:80;border-radius:50%;margin:90 152;box-shadow:0 -5ch#fff}h1{height:250;background:#1038BF;rotate:45deg;margin:-70 0
 ```
