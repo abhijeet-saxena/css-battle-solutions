@@ -4,6 +4,8 @@
 
 <img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_0QJ7TSu@2x.png?alt=media">
 
+#### Solution:
+
 ```html
 <div></div>
 <p></p>
@@ -50,9 +52,17 @@
 </style>
 ```
 
+#### Minified:
+
+```html
+<body bgcolor=6592CF><p><h1><h1 a><style>p{width:80;height:40;background:#6592CF;border:solid 20px#060F55;border-radius:60px 60px 0 0;border-bottom:none;margin:70 132}h1{width:20;height:20;background:#060F55;color:060F55;border-radius:50%;margin:-80 132;box-shadow:25vw 0}[a]{height:70;border-radius:12q;margin:100 52;box-shadow:40px 0,80px 0,60vh 0,55vw 0,65vw 0
+```
+
 ## [Dune](https://cssbattle.dev/play/3xFrqG0DnrSjSeddTdg9)
 
 <img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_Zcuh7vY@2x.png?alt=media">
+
+#### Solution:
 
 ```html
 <h1></h1>
@@ -102,9 +112,17 @@
 </style>
 ```
 
+#### Minified:
+
+```html
+<body bgcolor=E38F66><p><p a><p b><p c><p d><style>p{position:fixed;border-radius:50%;aspect-ratio:1;width:245;background:#FFFBDA;top:-1;left:78}[a]{width:250;background:#E38F66;top:-66;left:75}[b]{width:160;left:120}[c]{width:179;background:#E38F66;top:-70;left:110.5}[d]{width:60;top:24;left:170
+```
+
 ## [Craters](https://cssbattle.dev/play/8SYCNjPdLYf2ZilDpj88)
 
 <img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_GqfVnia@2x.png?alt=media">
+
+#### Solution:
 
 ```html
 <div></div>
@@ -146,9 +164,17 @@
 </style>
 ```
 
+#### Minified:
+
+```html
+<body bgcolor=#998235><p><style>p{width:150;height:150;border:solid 15px#998235;outline:solid 15px#EFF33C;border-radius:50%;margin:60 auto;background:radial-gradient(circle at 50%-15px,#998235 40px,#0000 0),radial-gradient(circle at 125px 115px,#998235 50px,#EFF33C 0
+```
+
 ## [Plus](https://cssbattle.dev/play/FrqPxrIWoABJman0eLuf)
 
 <img width="200px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_aRtAcav@2x.png?alt=media">
+
+#### Solution:
 
 ```html
 <div></div>
@@ -186,4 +212,10 @@
     box-shadow: 150px 0 0 0 #1038bf;
   }
 </style>
+```
+
+#### Minified:
+
+```html
+<body bgcolor=4F77FF><p><h1><h1 a><style>p{width:30;height:30;background:#1038BF;border-radius:8px;margin:135 177;rotate:45deg}h1{width:30;height:80;border-radius:20px;background:#1038BF;color:1038BF;margin:-265 177;box-shadow:0 50vh}[a]{rotate:90deg;margin:260 102;box-shadow:0 -50vh
 ```
