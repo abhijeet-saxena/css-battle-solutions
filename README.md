@@ -41,12 +41,14 @@ CSSBattle is an awesome ✨ online CSS Code Golfing game. Here are my solutions 
 
 ![Battle Art](/assets/battles.png)
 
-## [Time Attack Battles]()
+## [Time Attack Battles](https://cssbattle.dev/battle/OzwOT17YcT3b8TbNevqv)
 
 | Challenges            |               Solutions               |                            Battle Link                            |
 | --------------------- | :-----------------------------------: | :---------------------------------------------------------------: |
 | Time Attack Battle #1 | [See](/Time-Attack/01-Time-Attack.md) | [Go to battle](https://cssbattle.dev/battle/OzwOT17YcT3b8TbNevqv) |
 | Time Attack Battle #2 | [See](/Time-Attack/02-Time-Attack.md) | [Go to battle](https://cssbattle.dev/battle/9crk8153AW0QGM8Ne9Ty) |
+
+![Battle Art](/assets/time-battles.png)
 
 ## [Daily Targets](https://cssbattle.dev/daily)
 
