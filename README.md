@@ -8,6 +8,8 @@ CSSBattle is an awesome ✨ online CSS Code Golfing game. Here are my solutions 
 
 ## [Regular Battles](https://cssbattle.dev/battles)
 
+Compete with players around the world in these nail-biting battles
+
 | Challenges               |             Solutions              |                   Battle Link                   |
 | ------------------------ | :--------------------------------: | :---------------------------------------------: |
 | Battle #1 - Pilot Battle | [See](/Battles/01-Pilot-Battle.md) | [Go to battle](https://cssbattle.dev/battle/1)  |
@@ -39,16 +41,18 @@ CSSBattle is an awesome ✨ online CSS Code Golfing game. Here are my solutions 
 | Battle #27 - Relative    |   [See](/Battles/27-Relative.md)   | [Go to battle](https://cssbattle.dev/battle/27) |
 | Battle #28 - Revert      |    [See](/Battles/28-Revert.md)    | [Go to battle](https://cssbattle.dev/battle/28) |
 
-[![Battle Art](/assets/battles.png)](/Battles/index.md)
+[![Battle Art](/assets/battles.png)](/Battles/)
 
-## [Time Attack Battles](/Time-Attack/index.md)
+## [Time Attack Battles](/Time-Attack/)
+
+4 targets & a race against time. Get most 100% matches as quickly as possible.
 
 | Challenges |               Solutions               |                            Battle Link                            |
 | ---------- | :-----------------------------------: | :---------------------------------------------------------------: |
 | Battle #1  | [See](/Time-Attack/01-Time-Attack.md) | [Go to battle](https://cssbattle.dev/battle/OzwOT17YcT3b8TbNevqv) |
 | Battle #2  | [See](/Time-Attack/02-Time-Attack.md) | [Go to battle](https://cssbattle.dev/battle/9crk8153AW0QGM8Ne9Ty) |
 
-[![Battle Art](/assets/time-battles.png)](/Time-Attack/index.md)
+[![Battle Art](/assets/time-battles.png)](/Time-Attack/)
 
 ## [Daily Targets](https://cssbattle.dev/daily)
 
