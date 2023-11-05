@@ -39,20 +39,22 @@ CSSBattle is an awesome ✨ online CSS Code Golfing game. Here are my solutions 
 | Battle #27 - Relative    |   [See](/Battles/27-Relative.md)   | [Go to battle](https://cssbattle.dev/battle/27) |
 | Battle #28 - Revert      |    [See](/Battles/28-Revert.md)    | [Go to battle](https://cssbattle.dev/battle/28) |
 
-![Battle Art](/assets/battles.png)
+[![Battle Art](/assets/battles.png)](/Battles/index.md)
 
-## [Time Attack Battles](https://cssbattle.dev/battle/OzwOT17YcT3b8TbNevqv)
+## [Time Attack Battles](/Time-Attack/index.md)
 
-| Challenges            |               Solutions               |                            Battle Link                            |
-| --------------------- | :-----------------------------------: | :---------------------------------------------------------------: |
-| Time Attack Battle #1 | [See](/Time-Attack/01-Time-Attack.md) | [Go to battle](https://cssbattle.dev/battle/OzwOT17YcT3b8TbNevqv) |
-| Time Attack Battle #2 | [See](/Time-Attack/02-Time-Attack.md) | [Go to battle](https://cssbattle.dev/battle/9crk8153AW0QGM8Ne9Ty) |
+| Challenges |               Solutions               |                            Battle Link                            |
+| ---------- | :-----------------------------------: | :---------------------------------------------------------------: |
+| Battle #1  | [See](/Time-Attack/01-Time-Attack.md) | [Go to battle](https://cssbattle.dev/battle/OzwOT17YcT3b8TbNevqv) |
+| Battle #2  | [See](/Time-Attack/02-Time-Attack.md) | [Go to battle](https://cssbattle.dev/battle/9crk8153AW0QGM8Ne9Ty) |
 
-![Battle Art](/assets/time-battles.png)
+[![Battle Art](/assets/time-battles.png)](/Time-Attack/index.md)
 
 ## [Daily Targets](https://cssbattle.dev/daily)
 
-| Challenges |                                                                                       Solutions                                                                                        |
-| :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    2023    | [Aug](/Daily-Targets/2023/Aug.md) \| [Sep](/Daily-Targets/2023/Sep.md) <br>[Oct](/Daily-Targets/2023/Oct.md) \| [Nov](/Daily-Targets/2023/Nov.md) \| [Dec](/Daily-Targets/2023/Dec.md) |
-|    2024    |                         [Jan]() \| [Feb]() \| [Mar]() <br> [Apr]() \| [May]() \| [Jun]() <br> [Jul]() \| [Aug]() \| [Sep]() <br>[Oct]() \| [Nov]() \| [Dec]()                          |
+A new target everyday for you to unwind. No leaderboards, no competition
+
+|              Challenges              |                                                                                                                                                                                                                           Solutions                                                                                                                                                                                                                           |
+| :----------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [2023](/Daily-Targets/2023/index.md) |                                                                                                                                    [Aug](/Daily-Targets/2023/Aug.md) \| [Sep](/Daily-Targets/2023/Sep.md) <br>[Oct](/Daily-Targets/2023/Oct.md) \| [Nov](/Daily-Targets/2023/Nov.md) \| [Dec](/Daily-Targets/2023/Dec.md)                                                                                                                                     |
+| [2024](/Daily-Targets/2024/index.md) | [Jan](/Daily-Targets/2024/Jan.md) \| [Feb](/Daily-Targets/2024/Feb.md) \| [Mar](/Daily-Targets/2024/Mar.md) <br> [Apr](/Daily-Targets/2024/Apr.md) \| [May](/Daily-Targets/2024/May.md) \| [Jun](/Daily-Targets/2024/Jun.md) <br> [Jul](/Daily-Targets/2024/Jul.md) \| [Aug](/Daily-Targets/2024/Aug.md) \| [Sep](/Daily-Targets/2024/Sep.md) <br>[Oct](/Daily-Targets/2024/Oct.md) \| [Nov](/Daily-Targets/2024/Nov.md) \| [Dec](/Daily-Targets/2024/Dec.md) |
