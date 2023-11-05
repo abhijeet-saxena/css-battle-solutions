@@ -121,20 +121,53 @@
 <p><style>&{background:radial-gradient(106q,#FFFBCC 106q,#504B72)}p{width:100;height:100;background:#504B72;margin:26%142;rotate:45deg
 ```
 
-## [05/11/2023](url)
+## [05/11/2023](https://cssbattle.dev/play/SrdrsNf6mAoVL6bO3Qdj)
 
-<img width="400px" src="url">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Bu9zlkd@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<p></p>
+<h1></h1>
+<h1 a></h1>
+<h2></h2>
+<style>
+  body {
+    background: #9c57a8;
+  }
+  p {
+    width: 140px;
+    height: 140px;
+    outline: solid 30px #651e57;
+    border-radius: 35px;
+    margin: 80 122;
+  }
+  h1 {
+    width: 55;
+    height: 55;
+    border: solid 30px #651e57;
+    border-radius: 0 65px 0;
+    margin: -250 177;
+  }
+  [a] {
+    margin: 220 92;
+  }
+  h2 {
+    width: 30;
+    height: 30;
+    background: #9c57a8;
+    margin: -420 auto;
+    position: relative;
+    box-shadow: 0 170px#9C57A8, -85px 85px#9C57A8, 85px 85px#9C57A8;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p><h1><h1 a><h2><style>*{background:#9C57A8;color:#651E57}p{width:140;height:140;outline:solid 32q;border-radius:37q;margin:80 122}h1{width:55;height:55;border:solid 32q;border-radius:0 68q 0;margin:-250 177}[a]{margin:220 92}h2{width:30;height:30;position:fixed;top:30;left:185;color:9C57A8;box-shadow:0 180q,-90q 90q,90q 90q
 ```
 
 ## [06/11/2023](url)

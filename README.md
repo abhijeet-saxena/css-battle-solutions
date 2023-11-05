@@ -39,6 +39,8 @@ CSSBattle is an awesome ✨ online CSS Code Golfing game. Here are my solutions 
 | Battle #27 - Relative    |   [See](/Battles/27-Relative.md)   | [Go to battle](https://cssbattle.dev/battle/27) |
 | Battle #28 - Revert      |    [See](/Battles/28-Revert.md)    | [Go to battle](https://cssbattle.dev/battle/28) |
 
+![Battle Art](/assets/battles.png)
+
 ## [Time Attack Battles]()
 
 | Challenges            |               Solutions               |                            Battle Link                            |
