@@ -1,3 +1,7 @@
+---
+description: Create 8 targets (with some open ones!) over 4 weeks and level up your CSS!
+---
+
 # Aspect
 
 ## [Summit](https://cssbattle.dev/play/89)

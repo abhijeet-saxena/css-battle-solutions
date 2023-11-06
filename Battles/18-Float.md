@@ -1,3 +1,7 @@
+---
+description: First battle of the year! Let's get into the CSS art mood with some nice Anime targets!
+---
+
 # Float
 
 ## [Sharingan](https://cssbattle.dev/play/101)

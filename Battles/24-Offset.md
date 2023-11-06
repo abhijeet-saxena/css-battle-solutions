@@ -1,3 +1,7 @@
+---
+description: 4 weeks full of CSS art! 8 corner-themed fun targets coming your way!
+---
+
 # Offset
 
 ## [Simply Circle](https://cssbattle.dev/play/143)

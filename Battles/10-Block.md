@@ -1,3 +1,7 @@
+---
+description: 6 targets to battle out over 2 weeks and learn about best practices against Corona Virus 🔥
+---
+
 # Block
 
 ## [Corona Virus](https://cssbattle.dev/play/47)

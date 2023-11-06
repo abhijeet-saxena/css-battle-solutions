@@ -1,3 +1,7 @@
+---
+description: 48 hours, 2 Targets and some intense CSS golfing.
+---
+
 # Conic
 
 ## [Equals](https://cssbattle.dev/play/31)

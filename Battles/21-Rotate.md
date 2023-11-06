@@ -1,3 +1,7 @@
+---
+description: 4 weeks full of crazy letter art! Time to do some CSS art calligraphy.
+---
+
 # Rotate
 
 ## [Root Learn](https://cssbattle.dev/play/125)

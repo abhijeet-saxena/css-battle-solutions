@@ -1,3 +1,7 @@
+---
+description: 3 fun targets for the weekend 😀
+---
+
 # Transition
 
 ## [Baby](https://cssbattle.dev/play/42)

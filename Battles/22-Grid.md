@@ -1,3 +1,7 @@
+---
+description: Let’s celebrate the end of the year with some festive targets and some joyful CSS!
+---
+
 # Grid
 
 ## [Spiral](https://cssbattle.dev/play/133)

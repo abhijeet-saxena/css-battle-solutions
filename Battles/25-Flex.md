@@ -1,3 +1,7 @@
+---
+description: 4 weeks full of CSS art! 8 fun targets coming your way!
+---
+
 # Flex
 
 ## [Pawn](https://cssbattle.dev/play/151)

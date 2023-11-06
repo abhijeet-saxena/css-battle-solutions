@@ -1,3 +1,7 @@
+---
+description: 48 hours, 2 Targets and some intense CSS golfing.
+---
+
 # Inline
 
 ## [Suffocate](https://cssbattle.dev/play/29)

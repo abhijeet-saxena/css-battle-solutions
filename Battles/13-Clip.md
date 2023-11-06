@@ -1,3 +1,7 @@
+---
+description: 8 targets (with some open ones!) to battle out over 4 weeks and win some cool rewards!
+---
+
 # Clip
 
 ## [PushOwl](https://cssbattle.dev/play/69)

@@ -1,3 +1,7 @@
+---
+description: New year, new rules! Join us in this mini battle to kickstart the year!
+---
+
 # Contain
 
 ## [Third Eye](https://cssbattle.dev/play/141)

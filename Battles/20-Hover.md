@@ -1,3 +1,7 @@
+---
+description: 4 weeks full of CSS art! 8 fun targets coming your way in our 20th battle!
+---
+
 # Hover
 
 ## [Arineo](https://cssbattle.dev/play/117)

@@ -1,3 +1,7 @@
+---
+description: Time to flex your CSS art skills! 8 fun targets coming your way!
+---
+
 # Initial
 
 ## [Portal](https://cssbattle.dev/play/159)

@@ -1,3 +1,7 @@
+---
+description: 6 targets unlock across 3 weeks. Recreate them in the smallest possible CSS code and climb the leaderboards.
+---
+
 # Visibility
 
 ## [Totally Triangle](https://cssbattle.dev/play/13)

@@ -1,3 +1,7 @@
+---
+description: First ever mini-battle. 48 hours, 2 Targets. Some intense CSS golfing.
+---
+
 # Cursor
 
 ## [Cube](https://cssbattle.dev/play/19)

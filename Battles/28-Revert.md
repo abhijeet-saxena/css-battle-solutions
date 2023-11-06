@@ -1,3 +1,7 @@
+---
+description: It's Halloween month! Let's celebrate the festival with some spooky CSS art!
+---
+
 # Revert
 
 ## [Pumpkin](https://cssbattle.dev/play/171)

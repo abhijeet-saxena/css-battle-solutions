@@ -1,3 +1,7 @@
+---
+description: This festive season, let's celebrate Christmas with these 4 merry targets and some joyful CSS! 🎄🎅🏼
+---
+
 # Christmas
 
 ## [Snowman](https://cssbattle.dev/play/97)

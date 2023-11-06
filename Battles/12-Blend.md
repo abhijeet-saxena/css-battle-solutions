@@ -1,3 +1,7 @@
+---
+description: 8 targets (2 per week, and a new twist) to battle out over 4 weeks and win some cool rewards!
+---
+
 # Blend
 
 ## [ImprovMX](https://cssbattle.dev/play/61)

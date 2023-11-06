@@ -1,3 +1,7 @@
+---
+description: 8 targets unlock across 3 weeks. Recreate them in the smallest possible CSS code and climb the leaderboard!
+---
+
 # Display
 
 ## [SitePoint Logo](https://cssbattle.dev/play/21)

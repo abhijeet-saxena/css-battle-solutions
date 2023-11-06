@@ -1,3 +1,7 @@
+---
+description: 8 targets (2 per week) to battle out over 4 weeks and win some cool rewards!
+---
+
 # Overflow
 
 ## [Pastel Logo](https://cssbattle.dev/play/53)

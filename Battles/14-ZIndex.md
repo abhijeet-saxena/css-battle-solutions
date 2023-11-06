@@ -1,3 +1,7 @@
+---
+description: 4 days, 1 new target everyday 🎯! Ultimate crash course for CSS golfing!
+---
+
 # Zindex
 
 ## [Notes](https://cssbattle.dev/play/77)

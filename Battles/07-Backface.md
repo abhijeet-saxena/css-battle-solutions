@@ -1,3 +1,7 @@
+---
+description: 9 targets unlock across 3 weeks. Recreate them with smallest possible CSS code and climb the leaderboard!
+---
+
 # Backface
 
 ## [Birdie](https://cssbattle.dev/play/33)

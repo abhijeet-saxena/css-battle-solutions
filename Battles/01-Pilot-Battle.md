@@ -1,3 +1,7 @@
+---
+description: First ever battle of CSSBattle. 12 fun warm-up targets to play and climb the leaderboards.
+---
+
 # Pilot Battle
 
 ## [Simply Square](https://cssbattle.dev/play/1)
