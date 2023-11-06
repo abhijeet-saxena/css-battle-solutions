@@ -170,20 +170,50 @@
 <p><h1><h1 a><h2><style>*{background:#9C57A8;color:#651E57}p{width:140;height:140;outline:solid 32q;border-radius:37q;margin:80 122}h1{width:55;height:55;border:solid 32q;border-radius:0 68q 0;margin:-250 177}[a]{margin:220 92}h2{width:30;height:30;position:fixed;top:30;left:185;color:9C57A8;box-shadow:0 180q,-90q 90q,90q 90q
 ```
 
-## [06/11/2023](url)
+## [06/11/2023](https://cssbattle.dev/play/jzHHqvosSJHK5SInKtWJ)
 
-<img width="400px" src="url">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_IvcRXLX@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<p></p>
+<p a></p>
+<div></div>
+<style>
+  body {
+    background: #302562;
+  }
+  p {
+    width: 180px;
+    height: 60px;
+    border: solid 20px #0098d1;
+    border-radius: 60px;
+    margin: 100 82 -200;
+  }
+  [a] {
+    rotate: 90deg;
+  }
+  div {
+    width: 120px;
+    height: 120px;
+    background: radial-gradient(
+      circle at center,
+      #302562 30px,
+      #0098d1 30px,
+      #0098d1 50px,
+      #302562 0
+    );
+    margin: 90 132;
+    position: relative;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<body bgcolor=302562><p><p a><h1><style>p{width:180;height:60;border:solid 20px#0098D1;border-radius:7ch;margin:100 82-200}[a]{rotate:90deg}h1{width:120;height:120;background:radial-gradient(30q,#302562 32q,#0098D1 0 53q,#302562);margin:90 132;position:relative
 ```
 
 ## [07/11/2023](url)
