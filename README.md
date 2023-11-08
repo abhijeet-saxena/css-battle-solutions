@@ -45,7 +45,7 @@ Compete with players around the world in these nail-biting battles
 
 ![Battle Art](/assets/battles.png)
 
-## [Time Attack Battles](/time-attack/index.md)
+## [Time Attack Battles](/time-attack/README.md)
 
 4 targets & a race against time. Get most 100% matches as quickly as possible.
 
@@ -60,9 +60,9 @@ Compete with players around the world in these nail-biting battles
 
 A new target everyday for you to unwind. No leaderboards, no competition
 
-|              Challenges              |                                                                                       Solutions                                                                                        |
-| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [2023](/daily-targets/2023/index.md) | [Aug](/daily-targets/2023/aug.md) \| [Sep](/daily-targets/2023/sep.md) <br>[Oct](/daily-targets/2023/oct.md) \| [Nov](/daily-targets/2023/nov.md) \| [Dec](/daily-targets/2023/dec.md) |
+|              Challenges               |                                                                                       Solutions                                                                                        |
+| :-----------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [2023](/daily-targets/2023/README.md) | [Aug](/daily-targets/2023/aug.md) \| [Sep](/daily-targets/2023/sep.md) <br>[Oct](/daily-targets/2023/oct.md) \| [Nov](/daily-targets/2023/nov.md) \| [Dec](/daily-targets/2023/dec.md) |
 
 ### Local Setup
 
