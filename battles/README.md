@@ -1,28 +1,28 @@
 # Battles
 
-## Pilot Battle
+## [Pilot Battle](./01-pilot-battle.md)
 
 ![Pilot Battle](../assets/battles-targets/battle-01.png)
 
-## Visibility
+## [Visibility](./02-visibility.md)
 
 ![Visibility](../assets/battles-targets/battle-02.png)
 
-## Cursor
+## [Cursor](./03-cursor.md)
 
 ![Cursor](../assets/battles-targets/battle-03.png)
 
-## Display
+## [Display](./04-display.md)
 
 ![Display](../assets/battles-targets/battle-04.png)
 
-## Inline
+## [Inline](./05-inline.md)
 
 ![Inline](../assets/battles-targets/battle-05.png)
 
 ## Conic
 
-![Conic](../assets/battles-targets/battle-06.png)
+[![Conic](../assets/battles-targets/battle-06.png)](./06-conic.md)
 
 ## Backface
 
