@@ -2,7 +2,7 @@
 
 ## Pilot Battle
 
-[![Pilot Battle](../assets/battles-targets/battle-01.png)](./01-Pilot-Battle.md)
+[![Pilot Battle](../assets/battles-targets/battle-01.png)](./01-Pilot-Battle)
 
 ## Visibility
 

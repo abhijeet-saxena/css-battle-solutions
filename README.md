@@ -43,7 +43,7 @@ Compete with players around the world in these nail-biting battles
 
 [![Battle Art](/assets/battles.png)](/Battles/)
 
-## [Time Attack Battles](/Time-Attack/)
+## [Time Attack Battles](/Time-Attack/index.md)
 
 4 targets & a race against time. Get most 100% matches as quickly as possible.
 

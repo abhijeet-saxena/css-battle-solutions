@@ -216,36 +216,86 @@
 <body bgcolor=302562><p><p a><h1><style>p{width:180;height:60;border:solid 20px#0098D1;border-radius:7ch;margin:100 82-200}[a]{rotate:90deg}h1{width:120;height:120;background:radial-gradient(30q,#302562 32q,#0098D1 0 53q,#302562);margin:90 132;position:relative
 ```
 
-## [07/11/2023](url)
+## [07/11/2023](https://cssbattle.dev/play/MKvv4tRYFMtFMY0yLdgR)
 
-<img width="400px" src="url">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_YXKr6VG@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div a></div>
+<div b></div>
+<div a c></div>
+<style>
+  body {
+    background: #9b3e41;
+  }
+  div {
+    width: 120px;
+    height: 120px;
+    background: #fffef2;
+    rotate: -45deg;
+  }
+  [a] {
+    background: #ffdc57;
+    clip-path: polygon(0 0, 100% 0, 0 100%);
+    margin: 90 47;
+  }
+  [b] {
+    margin: -210 132;
+  }
+  [c] {
+    margin: 90 217;
+    scale: -1;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<body bgcolor=9B3E41><p a><p b><p a c><style>p{width:120;height:120;background:#FFFEF2;rotate:-45deg}[a]{background:#FFDC57;clip-path:polygon(0 0,100%0,0 100%);margin:90 47}[b]{margin:-210 132}[c]{margin:90 217;scale:-1
 ```
 
-## [08/11/2023](url)
+## [08/11/2023](https://cssbattle.dev/play/ln750sGgicmG2b0KVoJN)
 
-<img width="400px" src="url">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Ui0XlsW@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<h1></h1>
+<style>
+  body {
+    background: #3a345e;
+  }
+  div {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    color: #e0def0;
+    background: #e0def0;
+    margin: 130 82;
+    box-shadow: 0 60px, 60px 60px, 0 60px, 60px 0, 120px 0, 180px 0, 180px 60px,
+      60px -60px, 120px -60px;
+  }
+  h1 {
+    width: 40px;
+    height: 200px;
+    background: #e0def0;
+    color: #e0def0;
+    border-radius: 40px;
+    margin: -50 142;
+    box-shadow: 60px -60px;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<body bgcolor=3A345E text=E0DEF0><p><p a><style>p{width:40;height:40;border-radius:40q;background:#E0DEF0;margin:130 82;box-shadow:0 60px,60px 60px,0 60px,60px 0,30vw 0,60vh 0,60vh 60px,60px -60px,30vw -60px}[a]{height:200;margin:-50 142;box-shadow:60px -60px
 ```
 
 ## [09/11/2023](url)
