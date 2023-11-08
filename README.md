@@ -6,7 +6,7 @@ CSSBattle is an awesome ✨ online CSS Code Golfing game. Here are my solutions 
 
 > If you like this collection, please ⭐️ this repo and share it with others
 
-## [Regular Battles](/battles/index.md)
+## [Regular Battles](/battles/README.md)
 
 Compete with players around the world in these nail-biting battles
 
@@ -43,7 +43,7 @@ Compete with players around the world in these nail-biting battles
 | Battle #27 - Relative    |   [See](/battles/27-relative.md)   | [Go to battle](https://cssbattle.dev/battle/27) |
 | Battle #28 - Revert      |    [See](/battles/28-revert.md)    | [Go to battle](https://cssbattle.dev/battle/28) |
 
-[![Battle Art](/assets/battles.png)](/battles/index.md)
+![Battle Art](/assets/battles.png)
 
 ## [Time Attack Battles](/time-attack/index.md)
 
@@ -54,7 +54,7 @@ Compete with players around the world in these nail-biting battles
 | Battle #1  | [See](/time-attack/01-time-attack.md) | [Go to battle](https://cssbattle.dev/battle/OzwOT17YcT3b8TbNevqv) |
 | Battle #2  | [See](/time-attack/02-time-attack.md) | [Go to battle](https://cssbattle.dev/battle/9crk8153AW0QGM8Ne9Ty) |
 
-[![Battle Art](/assets/time-battles.png)](/time-attack/)
+![Battle Art](/assets/time-battles.png)
 
 ## [Daily Targets](https://cssbattle.dev/daily)
 
