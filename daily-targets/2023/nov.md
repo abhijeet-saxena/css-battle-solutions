@@ -298,36 +298,84 @@
 <body bgcolor=3A345E text=E0DEF0><p><p a><style>p{width:40;height:40;border-radius:40q;background:#E0DEF0;margin:130 82;box-shadow:0 60px,60px 60px,0 60px,60px 0,30vw 0,60vh 0,60vh 60px,60px -60px,30vw -60px}[a]{height:200;margin:-50 142;box-shadow:60px -60px
 ```
 
-## [09/11/2023](url)
+## [09/11/2023](https://cssbattle.dev/play/D0kcPBmk5EX1TRnfzaok)
 
-<img width="400px" src="url">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_BPkjfBE@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<p></p>
+<h1></h1>
+<style>
+  body{
+    background:#D0AF50;
+  }
+  p{
+    width:40px;
+    height:40px;
+    border-radius:50%;
+    background:#8C292A;
+    margin:50 112;
+    box-shadow:60px 0#8C292A,120px 0#8C292A;
+}
+  h1{
+    width:160px;
+    height:140px;
+    background:linear-gradient(#8C292A 40px,#D0AF50 0 60px,#8C292A 0);
+    margin:-30 112;
+    border-radius:0 0 5em 5em;
+  }
+<style>
 ```
 
 #### Minified:
 
 ```html
-
+<body bgcolor=D0AF50 text=8C292A><p><h1><style>p{width:40;height:40;border-radius:50%;background:#8C292A;margin:50 112;box-shadow:63q 0,40vh 0}h1{width:160;height:140;background:linear-gradient(#8C292A 40px,#D0AF50 0 60px,#8C292A 0);margin:-30 112;border-radius:0 0 5em 5em
 ```
 
-## [10/11/2023](url)
+## [10/11/2023](https://cssbattle.dev/play/4ZiJnB6NjQA9WhzqE1D3)
 
-<img width="400px" src="url">
+<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_bs99r3R@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<div a></div>
+<div b></div>
+<div c></div>
+<style>
+  body {
+    background: #fbc3e4;
+  }
+  div {
+    width: 80px;
+    height: 80px;
+    border-radius: 0 0 80px 0;
+    box-shadow: 16.5px 16.5px 0 16.5px#8C0052;
+    margin: 50 92;
+  }
+  [a] {
+    margin: -130 212;
+    scale: -1 1;
+  }
+  [b] {
+    margin: 170 92;
+    scale: 1 -1;
+  }
+  [c] {
+    margin: -250 212;
+    scale: -1;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p><p a><p b><p c><style>&{background:#FBC3E4;padding:42 92}p{width:80;height:80;border-radius:0 0 5em;box-shadow:16.5px 16.5px 0 16.5px#8C0052}[a]{margin:-96 120;scale:-1 1}[b]{margin:136 0;scale:1-1}[c]{margin:-216 120;scale:-1
 ```
 
 ## [11/11/2023](url)
