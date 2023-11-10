@@ -1,6 +1,6 @@
-![Logo](./assets/logo.png)
-
 # CSS Battle Challenge Solutions
+
+![Logo](./assets/logo.png)
 
 CSSBattle is an awesome ✨ online CSS Code Golfing game. Here are my solutions to their challenges:
 
