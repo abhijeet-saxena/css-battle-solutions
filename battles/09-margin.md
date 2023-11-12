@@ -6,7 +6,7 @@ description: 2 fun targets to flex your muscles for the next big battle 🔥
 
 ## [Magical Tree](https://cssbattle.dev/play/45)
 
-<img width="400px" src="https://cssbattle.dev/targets/45.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/45.png">
 
 #### Solution:
 
@@ -55,7 +55,7 @@ description: 2 fun targets to flex your muscles for the next big battle 🔥
 
 ## [Mountains](https://cssbattle.dev/play/46)
 
-<img width="400px" src="https://cssbattle.dev/targets/46.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/46.png">
 
 #### Solution:
 

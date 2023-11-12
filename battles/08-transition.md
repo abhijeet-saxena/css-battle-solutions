@@ -6,7 +6,7 @@ description: 3 fun targets for the weekend 😀
 
 ## [Baby](https://cssbattle.dev/play/42)
 
-<img width="400px" src="https://cssbattle.dev/targets/42.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/42.png">
 
 #### Solution:
 
@@ -59,7 +59,7 @@ description: 3 fun targets for the weekend 😀
 
 ## [Wrench](https://cssbattle.dev/play/43)
 
-<img width="400px" src="https://cssbattle.dev/targets/43.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/43.png">
 
 #### Solution:
 
@@ -112,7 +112,7 @@ description: 3 fun targets for the weekend 😀
 
 ## [Stripes](https://cssbattle.dev/play/44)
 
-<img width="400px" src="https://cssbattle.dev/targets/44.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/44.png">
 
 #### Solution:
 

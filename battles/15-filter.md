@@ -6,7 +6,7 @@ description: 8 targets (with some open ones!) to battle out over 4 weeks and lev
 
 ## [Odoo](https://cssbattle.dev/play/81)
 
-<img width="400px" src="https://cssbattle.dev/targets/81.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/81.png">
 
 #### Solution:
 
@@ -48,7 +48,7 @@ description: 8 targets (with some open ones!) to battle out over 4 weeks and lev
 
 ## [Diamond Cut](https://cssbattle.dev/play/82)
 
-<img width="400px" src="https://cssbattle.dev/targets/82.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/82.png">
 
 #### Solution:
 
@@ -87,7 +87,7 @@ description: 8 targets (with some open ones!) to battle out over 4 weeks and lev
 
 ## [Supernova](https://cssbattle.dev/play/83)
 
-<img width="400px" src="https://cssbattle.dev/targets/83.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/83.png">
 
 #### Solution:
 
@@ -122,7 +122,7 @@ p{width:100;height:100;background:#6592CF;border-radius:50%;margin:57 100;box-sh
 
 ## [Junction](https://cssbattle.dev/play/84)
 
-<img width="400px" src="https://cssbattle.dev/targets/84.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/84.png">
 
 #### Solution:
 
@@ -162,7 +162,7 @@ p{width:100;height:100;background:#6592CF;border-radius:50%;margin:57 100;box-sh
 
 ## [Pythagoras](https://cssbattle.dev/play/85)
 
-<img width="400px" src="https://cssbattle.dev/targets/85.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/85.png">
 
 #### Solution:
 
@@ -200,7 +200,7 @@ p{width:100;height:100;background:#6592CF;border-radius:50%;margin:57 100;box-sh
 
 ## [Stairway](https://cssbattle.dev/play/86)
 
-<img width="400px" src="https://cssbattle.dev/targets/86.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/86.png">
 
 #### Solution:
 
@@ -239,7 +239,7 @@ p{width:100;height:100;background:#6592CF;border-radius:50%;margin:57 100;box-sh
 
 ## [Building Blocks](https://cssbattle.dev/play/87)
 
-<img width="400px" src="https://cssbattle.dev/targets/87.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/87.png">
 
 #### Solution:
 
@@ -292,7 +292,7 @@ p{width:100;height:100;background:#6592CF;border-radius:50%;margin:57 100;box-sh
 
 ## [Tight Corner](https://cssbattle.dev/play/88)
 
-<img width="400px" src="https://cssbattle.dev/targets/88.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/88.png">
 
 #### Solution:
 

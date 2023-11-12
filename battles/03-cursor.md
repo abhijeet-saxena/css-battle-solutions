@@ -6,7 +6,7 @@ description: First ever mini-battle. 48 hours, 2 Targets. Some intense CSS golfi
 
 ## [Cube](https://cssbattle.dev/play/19)
 
-<img width="400px" src="https://cssbattle.dev/targets/19.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/19.png">
 
 #### Solution:
 
@@ -58,7 +58,7 @@ description: First ever mini-battle. 48 hours, 2 Targets. Some intense CSS golfi
 
 ## [Ticket](https://cssbattle.dev/play/20)
 
-<img width="400px" src="https://cssbattle.dev/targets/20.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/20.png">
 
 #### Solution:
 

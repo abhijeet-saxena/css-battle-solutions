@@ -6,7 +6,7 @@ description: 48 hours, 2 Targets and some intense CSS golfing.
 
 ## [Suffocate](https://cssbattle.dev/play/29)
 
-<img width="400px" src="https://cssbattle.dev/targets/29.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/29.png">
 
 #### Solution:
 
@@ -50,7 +50,7 @@ description: 48 hours, 2 Targets and some intense CSS golfing.
 
 ## [Horizon](https://cssbattle.dev/play/30)
 
-<img width="400px" src="https://cssbattle.dev/targets/30.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/30.png">
 
 #### Solution:
 

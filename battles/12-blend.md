@@ -6,7 +6,7 @@ description: 8 targets (2 per week, and a new twist) to battle out over 4 weeks 
 
 ## [ImprovMX](https://cssbattle.dev/play/61)
 
-<img width="400px" src="https://cssbattle.dev/targets/61.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/61.png">
 
 #### Solution:
 
@@ -99,7 +99,7 @@ TBD
 
 ## [Sunset](https://cssbattle.dev/play/62)
 
-<img width="400px" src="https://cssbattle.dev/targets/62.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/62.png">
 
 #### Solution:
 
@@ -142,7 +142,7 @@ TBD
 
 ## [Command Key](https://cssbattle.dev/play/63)
 
-<img width="400px" src="https://cssbattle.dev/targets/63.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/63.png">
 
 #### Solution:
 
@@ -200,7 +200,7 @@ TBD
 
 ## [Door Knob](https://cssbattle.dev/play/64)
 
-<img width="400px" src="https://cssbattle.dev/targets/64.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/64.png">
 
 #### Solution:
 
@@ -239,7 +239,7 @@ border:solid 20px;border-color:#00000000#FFF58F#FFF58F#00000000;border-radius:50
 
 ## [Max Volume](https://cssbattle.dev/play/65)
 
-<img width="400px" src="https://cssbattle.dev/targets/65.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/65.png">
 
 #### Solution:
 
@@ -280,7 +280,7 @@ border:solid 20px;border-color:#00000000#FFF58F#FFF58F#00000000;border-radius:50
 
 ## [Batmicky](https://cssbattle.dev/play/66)
 
-<img width="400px" src="https://cssbattle.dev/targets/66.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/66.png">
 
 #### Solution:
 
@@ -342,7 +342,7 @@ TBD
 
 ## [Video Reel](https://cssbattle.dev/play/67)
 
-<img width="400px" src="https://cssbattle.dev/targets/67.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/67.png">
 
 #### Solution:
 
@@ -377,7 +377,7 @@ TBD
 
 ## [Bell](https://cssbattle.dev/play/68)
 
-<img width="400px" src="https://cssbattle.dev/targets/68.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/68.png">
 
 #### Solution:
 

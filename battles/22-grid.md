@@ -6,7 +6,7 @@ description: Let’s celebrate the end of the year with some festive targets and
 
 ## [Spiral](https://cssbattle.dev/play/133)
 
-<img width="400px" src="https://cssbattle.dev/targets/133.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/133.png">
 
 #### Solution:
 
@@ -63,7 +63,7 @@ TBD
 
 ## [Wig](https://cssbattle.dev/play/134)
 
-<img width="400px" src="https://cssbattle.dev/targets/134.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/134.png">
 
 #### Solution:
 
@@ -98,7 +98,7 @@ TBD
 
 ## [Spikes](https://cssbattle.dev/play/135)
 
-<img width="400px" src="https://cssbattle.dev/targets/135.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/135.png">
 
 #### Solution:
 
@@ -137,7 +137,7 @@ TBD
 
 ## [Alien Eye](https://cssbattle.dev/play/136)
 
-<img width="400px" src="https://cssbattle.dev/targets/136.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/136.png">
 
 #### Solution:
 
@@ -169,7 +169,7 @@ p{width:60;height:60;border-radius:50%;margin:120 172;background:#998235;box-sha
 
 ## [Elbow](https://cssbattle.dev/play/137)
 
-<img width="400px" src="https://cssbattle.dev/targets/137.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/137.png">
 
 #### Solution:
 
@@ -199,7 +199,7 @@ p{width:60;height:60;border-radius:50%;margin:120 172;background:#998235;box-sha
 
 ## [Lotus](https://cssbattle.dev/play/138)
 
-<img width="400px" src="https://cssbattle.dev/targets/138.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/138.png">
 
 #### Solution:
 
@@ -245,7 +245,7 @@ p{width:60;height:60;border-radius:50%;margin:120 172;background:#998235;box-sha
 
 ## [Lamp](https://cssbattle.dev/play/139)
 
-<img width="400px" src="https://cssbattle.dev/targets/139.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/139.png">
 
 #### Solution:
 
@@ -282,7 +282,7 @@ p{width:60;height:60;border-radius:50%;margin:120 172;background:#998235;box-sha
 
 ## [Eclipse](https://cssbattle.dev/play/140)
 
-<img width="400px" src="https://cssbattle.dev/targets/140.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/140.png">
 
 #### Solution:
 

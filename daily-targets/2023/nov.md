@@ -2,7 +2,7 @@
 
 ## [01/11/2023](https://cssbattle.dev/play/QbKbsSvMnViaoahKjkya)
 
-<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_bJttcLS.png?alt=media">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_bJttcLS.png?alt=media">
 
 #### Solution:
 
@@ -28,7 +28,7 @@
 
 ## [02/11/2023](https://cssbattle.dev/play/taLJyz4IamvfctMx4z3Q)
 
-<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_txreJZW.png?alt=media">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_txreJZW.png?alt=media">
 
 #### Solution:
 
@@ -62,7 +62,7 @@
 
 ## [03/11/2023](https://cssbattle.dev/play/Wu3QnyC0Fh2okPAZRzjq)
 
-<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_uS7ZSb5@2x.png?alt=media">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_uS7ZSb5@2x.png?alt=media">
 
 #### Solution:
 
@@ -95,7 +95,7 @@
 
 ## [04/11/2023](https://cssbattle.dev/play/2S2kJuGL3a15M9HieIQ4)
 
-<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_dpNzu3v@2x.png?alt=media">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_dpNzu3v@2x.png?alt=media">
 
 #### Solution:
 
@@ -123,7 +123,7 @@
 
 ## [05/11/2023](https://cssbattle.dev/play/SrdrsNf6mAoVL6bO3Qdj)
 
-<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Bu9zlkd@2x.png?alt=media">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Bu9zlkd@2x.png?alt=media">
 
 #### Solution:
 
@@ -172,7 +172,7 @@
 
 ## [06/11/2023](https://cssbattle.dev/play/jzHHqvosSJHK5SInKtWJ)
 
-<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_IvcRXLX@2x.png?alt=media">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_IvcRXLX@2x.png?alt=media">
 
 #### Solution:
 
@@ -218,7 +218,7 @@
 
 ## [07/11/2023](https://cssbattle.dev/play/MKvv4tRYFMtFMY0yLdgR)
 
-<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_YXKr6VG@2x.png?alt=media">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_YXKr6VG@2x.png?alt=media">
 
 #### Solution:
 
@@ -259,7 +259,7 @@
 
 ## [08/11/2023](https://cssbattle.dev/play/ln750sGgicmG2b0KVoJN)
 
-<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Ui0XlsW@2x.png?alt=media">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Ui0XlsW@2x.png?alt=media">
 
 #### Solution:
 
@@ -300,7 +300,7 @@
 
 ## [09/11/2023](https://cssbattle.dev/play/D0kcPBmk5EX1TRnfzaok)
 
-<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_BPkjfBE@2x.png?alt=media">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_BPkjfBE@2x.png?alt=media">
 
 #### Solution:
 
@@ -337,7 +337,7 @@
 
 ## [10/11/2023](https://cssbattle.dev/play/4ZiJnB6NjQA9WhzqE1D3)
 
-<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_bs99r3R@2x.png?alt=media">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_bs99r3R@2x.png?alt=media">
 
 #### Solution:
 
@@ -378,41 +378,80 @@
 <p><p a><p b><p c><style>&{background:#FBC3E4;padding:42 92}p{width:80;height:80;border-radius:0 0 5em;box-shadow:16.5px 16.5px 0 16.5px#8C0052}[a]{margin:-96 120;scale:-1 1}[b]{margin:136 0;scale:1-1}[c]{margin:-216 120;scale:-1
 ```
 
-## [11/11/2023](url)
+## [11/11/2023](https://cssbattle.dev/play/WcgxvyS7OEiSjedEkItl)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Gt1zODM@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<style>
+  body {
+    background: #73385a;
+    color: #fcdfeb;
+  }
+  div {
+    width: 40px;
+    height: 40px;
+    background: #fcdfeb;
+    margin: 170 92;
+    box-shadow: 160px 40px, 160px 40px 0 40px#73385A, 120px 0 0 40px, 40px -80px
+        0 40px, 120px -120px;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<body bgcolor=73385A text=FCDFEB><p><style>p{width:40;height:40;background:#FCDFEB;margin:170 92;box-shadow:40vw 5ch,40vw 5ch 0 5ch#73385A,30vw 0 0 5ch,5ch -5em 0 5ch,30vw -30vw
 ```
 
-## [12/11/2023](url)
+## [12/11/2023](https://cssbattle.dev/play/BrIQEIEEsB993TuGE9m0)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_udarzGO@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<div a></div>
+<style>
+  body {
+    background: radial-gradient(
+      circle at center,
+      #7b3738 30px,
+      #fcaf17 30px,
+      #fcaf17 70px,
+      #7b3738 70px
+    );
+    color: #fcaf17;
+  }
+  div {
+    height: 40px;
+    background: #fcaf17;
+    position: fixed;
+    inset: 80px 50% 0 0;
+    box-shadow: 200px 100px;
+  }
+  [a] {
+    rotate: 90deg;
+    inset: -20px 0 0 25%;
+    box-shadow: 300px 100px;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p><p a><style>&{background:radial-gradient(1q,#7B3738 32q,#FCAF17 0 74q,#7B3738);color:FCAF17}p{height:40;background:#FCAF17;position:fixed;inset:4em 51%0 0;box-shadow:70vh 25vw}[a]{rotate:90deg;inset:-10%0 0 25%;box-shadow:75vw 25vw
 ```
 
 ## [13/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -428,7 +467,7 @@
 
 ## [14/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -444,7 +483,7 @@
 
 ## [15/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -460,7 +499,7 @@
 
 ## [16/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -476,7 +515,7 @@
 
 ## [17/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -492,7 +531,7 @@
 
 ## [18/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -508,7 +547,7 @@
 
 ## [19/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -524,7 +563,7 @@
 
 ## [20/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -540,7 +579,7 @@
 
 ## [21/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -556,7 +595,7 @@
 
 ## [22/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -572,7 +611,7 @@
 
 ## [23/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -588,7 +627,7 @@
 
 ## [24/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -604,7 +643,7 @@
 
 ## [25/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -620,7 +659,7 @@
 
 ## [26/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -636,7 +675,7 @@
 
 ## [27/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -652,7 +691,7 @@
 
 ## [28/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -668,7 +707,7 @@
 
 ## [29/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -684,7 +723,7 @@
 
 ## [30/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -700,7 +739,7 @@
 
 ## [31/11/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 

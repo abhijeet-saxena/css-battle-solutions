@@ -6,7 +6,7 @@ description: A chill mini battle with 4 targets!
 
 ## [React India](https://cssbattle.dev/play/167)
 
-<img width="400px" src="https://cssbattle.dev/targets/167.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/167.png">
 
 #### Solution:
 
@@ -22,7 +22,7 @@ TBD
 
 ## [Carpet](https://cssbattle.dev/play/168)
 
-<img width="400px" src="https://cssbattle.dev/targets/168.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/168.png">
 
 #### Solution:
 
@@ -41,7 +41,7 @@ position:fixed;top:-176;left:-130}p[a]{top:144}p[b]{left:210}p[c]{top:144;left:2
 
 ## [Abstract Plate](https://cssbattle.dev/play/169)
 
-<img width="400px" src="https://cssbattle.dev/targets/169.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/169.png">
 
 #### Solution:
 
@@ -96,7 +96,7 @@ TBD
 
 ## [Party Hat](https://cssbattle.dev/play/170)
 
-<img width="400px" src="https://cssbattle.dev/targets/170.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/170.png">
 
 #### Solution:
 

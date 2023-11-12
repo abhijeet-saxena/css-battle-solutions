@@ -2,7 +2,7 @@
 
 ## [01/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -18,7 +18,7 @@
 
 ## [02/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -34,7 +34,7 @@
 
 ## [03/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -50,7 +50,7 @@
 
 ## [04/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -66,7 +66,7 @@
 
 ## [05/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -82,7 +82,7 @@
 
 ## [06/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -98,7 +98,7 @@
 
 ## [07/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -114,7 +114,7 @@
 
 ## [08/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -130,7 +130,7 @@
 
 ## [09/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -146,7 +146,7 @@
 
 ## [10/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -162,7 +162,7 @@
 
 ## [11/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -178,7 +178,7 @@
 
 ## [12/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -194,7 +194,7 @@
 
 ## [13/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -210,7 +210,7 @@
 
 ## [14/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -226,7 +226,7 @@
 
 ## [15/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -242,7 +242,7 @@
 
 ## [16/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -258,7 +258,7 @@
 
 ## [17/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -274,7 +274,7 @@
 
 ## [18/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -290,7 +290,7 @@
 
 ## [19/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -306,7 +306,7 @@
 
 ## [20/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -322,7 +322,7 @@
 
 ## [21/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -338,7 +338,7 @@
 
 ## [22/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -354,7 +354,7 @@
 
 ## [23/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -370,7 +370,7 @@
 
 ## [24/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -386,7 +386,7 @@
 
 ## [25/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -402,7 +402,7 @@
 
 ## [26/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -418,7 +418,7 @@
 
 ## [27/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -434,7 +434,7 @@
 
 ## [28/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -450,7 +450,7 @@
 
 ## [29/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -466,7 +466,7 @@
 
 ## [30/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 
@@ -482,7 +482,7 @@
 
 ## [31/12/2023](url)
 
-<img width="400px" src="url">
+<img width="400px" height="300px" loading="lazy" src="url">
 
 #### Solution:
 

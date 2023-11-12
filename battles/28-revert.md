@@ -6,7 +6,7 @@ description: It's Halloween month! Let's celebrate the festival with some spooky
 
 ## [Pumpkin](https://cssbattle.dev/play/171)
 
-<img width="400px" src="https://cssbattle.dev/targets/171.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/171.png">
 
 #### Solution:
 
@@ -63,7 +63,7 @@ description: It's Halloween month! Let's celebrate the festival with some spooky
 
 ## [Crossbones](https://cssbattle.dev/play/172)
 
-<img width="400px" src="https://cssbattle.dev/targets/172.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/172.png">
 
 #### Solution:
 
@@ -104,7 +104,7 @@ description: It's Halloween month! Let's celebrate the festival with some spooky
 
 ## [Hockey Mask](https://cssbattle.dev/play/173)
 
-<img width="400px" src="https://cssbattle.dev/targets/173.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/173.png">
 
 #### Solution:
 
@@ -149,7 +149,7 @@ description: It's Halloween month! Let's celebrate the festival with some spooky
 
 ## [Witch's Hat](https://cssbattle.dev/play/174)
 
-<img width="400px" src="https://cssbattle.dev/targets/174.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/174.png">
 
 #### Solution:
 
@@ -208,7 +208,7 @@ description: It's Halloween month! Let's celebrate the festival with some spooky
 
 ## [Evil Cat](https://cssbattle.dev/play/175)
 
-<img width="400px" src="https://cssbattle.dev/targets/175.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/175.png">
 
 #### Solution:
 
@@ -224,7 +224,7 @@ description: It's Halloween month! Let's celebrate the festival with some spooky
 
 ## [Castlevania](https://cssbattle.dev/play/176)
 
-<img width="400px" src="https://cssbattle.dev/targets/176.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/176.png">
 
 #### Solution:
 
@@ -291,7 +291,7 @@ description: It's Halloween month! Let's celebrate the festival with some spooky
 
 ## [Frankenstein](https://cssbattle.dev/play/177)
 
-<img width="400px" src="https://cssbattle.dev/targets/177.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/177.png">
 
 #### Solution:
 
@@ -425,7 +425,7 @@ description: It's Halloween month! Let's celebrate the festival with some spooky
 
 ## [Candy](https://cssbattle.dev/play/178)
 
-<img width="400px" src="https://cssbattle.dev/targets/178.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/178.png">
 
 #### Solution:
 

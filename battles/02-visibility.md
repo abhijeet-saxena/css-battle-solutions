@@ -6,7 +6,7 @@ description: 6 targets unlock across 3 weeks. Recreate them in the smallest poss
 
 ## [Totally Triangle](https://cssbattle.dev/play/13)
 
-<img width="400px" src="https://cssbattle.dev/targets/13.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/13.png">
 
 #### Solution:
 
@@ -34,7 +34,7 @@ description: 6 targets unlock across 3 weeks. Recreate them in the smallest poss
 
 ## [Web Maker Logo](https://cssbattle.dev/play/14)
 
-<img width="400px" src="https://cssbattle.dev/targets/14.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/14.png">
 
 #### Solution:
 
@@ -93,7 +93,7 @@ description: 6 targets unlock across 3 weeks. Recreate them in the smallest poss
 
 ## [Overlap](https://cssbattle.dev/play/15)
 
-<img width="400px" src="https://cssbattle.dev/targets/15.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/15.png">
 
 #### Solution:
 
@@ -143,7 +143,7 @@ description: 6 targets unlock across 3 weeks. Recreate them in the smallest poss
 
 ## [Eye of the Tiger](https://cssbattle.dev/play/16)
 
-<img width="400px" src="https://cssbattle.dev/targets/16.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/16.png">
 
 #### Solution:
 
@@ -194,7 +194,7 @@ description: 6 targets unlock across 3 weeks. Recreate them in the smallest poss
 
 ## [Fidget Spinner](https://cssbattle.dev/play/17)
 
-<img width="400px" src="https://cssbattle.dev/targets/17.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/17.png">
 
 #### Solution:
 
@@ -253,7 +253,7 @@ description: 6 targets unlock across 3 weeks. Recreate them in the smallest poss
 
 ## [Matrix](https://cssbattle.dev/play/18)
 
-<img width="400px" src="https://cssbattle.dev/targets/18.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/18.png">
 
 #### Solution:
 

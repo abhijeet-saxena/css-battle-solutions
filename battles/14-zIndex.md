@@ -6,7 +6,7 @@ description: 4 days, 1 new target everyday 🎯! Ultimate crash course for CSS g
 
 ## [Notes](https://cssbattle.dev/play/77)
 
-<img width="400px" src="https://cssbattle.dev/targets/77.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/77.png">
 
 #### Solution:
 
@@ -57,7 +57,7 @@ description: 4 days, 1 new target everyday 🎯! Ultimate crash course for CSS g
 
 ## [Ukelele](https://cssbattle.dev/play/78)
 
-<img width="400px" src="https://cssbattle.dev/targets/78.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/78.png">
 
 #### Solution:
 
@@ -124,7 +124,7 @@ description: 4 days, 1 new target everyday 🎯! Ultimate crash course for CSS g
 
 ## [Tambourine](https://cssbattle.dev/play/79)
 
-<img width="400px" src="https://cssbattle.dev/targets/79.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/79.png">
 
 #### Solution:
 
@@ -184,7 +184,7 @@ description: 4 days, 1 new target everyday 🎯! Ultimate crash course for CSS g
 
 ## [Piano](https://cssbattle.dev/play/80)
 
-<img width="400px" src="https://cssbattle.dev/targets/80.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/80.png">
 
 #### Solution:
 

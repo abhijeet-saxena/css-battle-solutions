@@ -6,7 +6,7 @@ description: 48 hours, 2 Targets and some intense CSS golfing.
 
 ## [Equals](https://cssbattle.dev/play/31)
 
-<img width="400px" src="https://cssbattle.dev/targets/31.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/31.png">
 
 #### Soluton
 
@@ -41,7 +41,7 @@ description: 48 hours, 2 Targets and some intense CSS golfing.
 
 ## [Band-aid](https://cssbattle.dev/play/32)
 
-<img width="400px" src="https://cssbattle.dev/targets/32.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/32.png">
 
 #### Soluton
 

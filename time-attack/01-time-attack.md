@@ -2,7 +2,7 @@
 
 ## [Arrival](https://cssbattle.dev/play/FCjMUyn3eocPxNP322bE)
 
-<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_Lq2Y2Nm@2x.png?alt=media">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_Lq2Y2Nm@2x.png?alt=media">
 
 #### Solution:
 
@@ -36,7 +36,7 @@
 
 ## [Loop](https://cssbattle.dev/play/o9FYv37q6jd0N2CbzWxv)
 
-<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_Uq0oTeo@2x.png?alt=media">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_Uq0oTeo@2x.png?alt=media">
 
 #### Solution:
 
@@ -82,7 +82,7 @@
 
 ## [Fingerprint](https://cssbattle.dev/play/M3LDjqxU4XgWvUBbPvlU)
 
-<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_ZzMzkjH@2x.png?alt=media">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_ZzMzkjH@2x.png?alt=media">
 
 #### Solution:
 
@@ -145,7 +145,7 @@
 
 ## [Maze](https://cssbattle.dev/play/6VtL2dqi1cWbrloOCkZa)
 
-<img width="400px" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_oFyhpI3@2x.png?alt=media">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_oFyhpI3@2x.png?alt=media">
 
 #### Solution:
 

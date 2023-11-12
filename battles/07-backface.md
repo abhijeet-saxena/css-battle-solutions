@@ -6,7 +6,7 @@ description: 9 targets unlock across 3 weeks. Recreate them with smallest possib
 
 ## [Birdie](https://cssbattle.dev/play/33)
 
-<img width="400px" src="https://cssbattle.dev/targets/33.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/33.png">
 
 #### Solution:
 
@@ -57,7 +57,7 @@ description: 9 targets unlock across 3 weeks. Recreate them with smallest possib
 
 ## [Christmas Tree](https://cssbattle.dev/play/34)
 
-<img width="400px" src="https://cssbattle.dev/targets/34.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/34.png">
 
 #### Solution:
 
@@ -111,7 +111,7 @@ description: 9 targets unlock across 3 weeks. Recreate them with smallest possib
 
 ## [Ice Cream](https://cssbattle.dev/play/35)
 
-<img width="400px" src="https://cssbattle.dev/targets/35.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/35.png">
 
 #### Solution:
 
@@ -160,7 +160,7 @@ description: 9 targets unlock across 3 weeks. Recreate them with smallest possib
 
 ## [Interleaved](https://cssbattle.dev/play/36)
 
-<img width="400px" src="https://cssbattle.dev/targets/36.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/36.png">
 
 #### Solution:
 
@@ -206,7 +206,7 @@ description: 9 targets unlock across 3 weeks. Recreate them with smallest possib
 
 ## [Tunnel](https://cssbattle.dev/play/37)
 
-<img width="400px" src="https://cssbattle.dev/targets/37.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/37.png">
 
 #### Solution:
 
@@ -255,7 +255,7 @@ description: 9 targets unlock across 3 weeks. Recreate them with smallest possib
 
 ## [Not Simply Square](https://cssbattle.dev/play/38)
 
-<img width="400px" src="https://cssbattle.dev/targets/38.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/38.png">
 
 #### Solution:
 
@@ -305,7 +305,7 @@ description: 9 targets unlock across 3 weeks. Recreate them with smallest possib
 
 ## [Sunset](https://cssbattle.dev/play/39)
 
-<img width="400px" src="https://cssbattle.dev/targets/39.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/39.png">
 
 #### Solution:
 
@@ -353,7 +353,7 @@ TBD
 
 ## [Letter B](https://cssbattle.dev/play/40)
 
-<img width="400px" src="https://cssbattle.dev/targets/40.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/40.png">
 
 #### Solution:
 
@@ -388,7 +388,7 @@ TBD
 
 ## [Fox Head](https://cssbattle.dev/play/41)
 
-<img width="400px" src="https://cssbattle.dev/targets/41.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/41.png">
 
 #### Solution:
 

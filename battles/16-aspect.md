@@ -6,7 +6,7 @@ description: Create 8 targets (with some open ones!) over 4 weeks and level up y
 
 ## [Summit](https://cssbattle.dev/play/89)
 
-<img width="400px" src="https://cssbattle.dev/targets/89.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/89.png">
 
 #### Solution:
 
@@ -42,7 +42,7 @@ description: Create 8 targets (with some open ones!) over 4 weeks and level up y
 
 ## [Eclipse](https://cssbattle.dev/play/90)
 
-<img width="400px" src="https://cssbattle.dev/targets/90.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/90.png">
 
 #### Solution:
 
@@ -73,7 +73,7 @@ description: Create 8 targets (with some open ones!) over 4 weeks and level up y
 
 ## [Reflection](https://cssbattle.dev/play/91)
 
-<img width="400px" src="https://cssbattle.dev/targets/91.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/91.png">
 
 #### Solution:
 
@@ -112,7 +112,7 @@ description: Create 8 targets (with some open ones!) over 4 weeks and level up y
 
 ## [Squeeze](https://cssbattle.dev/play/92)
 
-<img width="400px" src="https://cssbattle.dev/targets/92.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/92.png">
 
 #### Solution:
 
@@ -146,7 +146,7 @@ description: Create 8 targets (with some open ones!) over 4 weeks and level up y
 
 ## [Great Wall](https://cssbattle.dev/play/93)
 
-<img width="400px" src="https://cssbattle.dev/targets/93.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/93.png">
 
 #### Solution:
 
@@ -202,7 +202,7 @@ TBD
 
 ## [Ripples](https://cssbattle.dev/play/94)
 
-<img width="400px" src="https://cssbattle.dev/targets/94.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/94.png">
 
 #### Solution:
 
@@ -242,7 +242,7 @@ TBD
 
 ## [Pokeball](https://cssbattle.dev/play/95)
 
-<img width="400px" src="https://cssbattle.dev/targets/95.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/95.png">
 
 #### Solution:
 
@@ -289,7 +289,7 @@ TBD
 
 ## [Mandala](https://cssbattle.dev/play/96)
 
-<img width="400px" src="https://cssbattle.dev/targets/96.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/96.png">
 
 #### Solution:
 

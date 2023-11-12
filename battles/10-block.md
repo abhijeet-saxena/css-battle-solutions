@@ -6,7 +6,7 @@ description: 6 targets to battle out over 2 weeks and learn about best practices
 
 ## [Corona Virus](https://cssbattle.dev/play/47)
 
-<img width="400px" src="https://cssbattle.dev/targets/47.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/47.png">
 
 #### Solution:
 
@@ -78,7 +78,7 @@ TBD
 
 ## [Wash Your Hands](https://cssbattle.dev/play/48)
 
-<img width="400px" src="https://cssbattle.dev/targets/48.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/48.png">
 
 #### Solution:
 
@@ -119,7 +119,7 @@ TBD
 
 ## [Stay At Home](https://cssbattle.dev/play/49)
 
-<img width="400px" src="https://cssbattle.dev/targets/49.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/49.png">
 
 #### Solution:
 
@@ -177,7 +177,7 @@ TBD
 
 ## [Use Hand Sanitizer](https://cssbattle.dev/play/50)
 
-<img width="400px" src="https://cssbattle.dev/targets/50.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/50.png">
 
 #### Solution:
 
@@ -247,7 +247,7 @@ TBD
 
 ## [Wear a Mask](https://cssbattle.dev/play/51)
 
-<img width="400px" src="https://cssbattle.dev/targets/51.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/51.png">
 
 #### Solution:
 
@@ -319,7 +319,7 @@ TBD
 
 ## [Break the Chain](https://cssbattle.dev/play/52)
 
-<img width="400px" src="https://cssbattle.dev/targets/52.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/52.png">
 
 #### Solution:
 

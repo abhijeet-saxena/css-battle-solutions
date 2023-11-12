@@ -6,7 +6,7 @@ description: New year, new rules! Join us in this mini battle to kickstart the y
 
 ## [Third Eye](https://cssbattle.dev/play/141)
 
-<img width="400px" src="https://cssbattle.dev/targets/141.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/141.png">
 
 #### Solution:
 
@@ -36,7 +36,7 @@ description: New year, new rules! Join us in this mini battle to kickstart the y
 
 ## [Curtains](https://cssbattle.dev/play/142)
 
-<img width="400px" src="https://cssbattle.dev/targets/142.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/142.png">
 
 #### Solution:
 
