@@ -45,6 +45,8 @@ Compete with players around the world in these nail-biting battles
 | Battle #27 - Relative    |   [See](./battles/27-relative.md)   | [Go to battle](https://cssbattle.dev/battle/27) |
 | Battle #28 - Revert      |    [See](./battles/28-revert.md)    | [Go to battle](https://cssbattle.dev/battle/28) |
 
+![Battle Art](./assets/battles.png)
+
 ## [Time Attack Battles](./time-attack/README.md)
 
 4 targets & a race against time. Get most 100% matches as quickly as possible.
