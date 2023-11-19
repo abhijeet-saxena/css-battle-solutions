@@ -618,36 +618,82 @@
 <body bgcolor=5B8395><p><style>p{height:260;margin:40 1;clip-path:polygon(50%0,84%100%,16%100%);background:linear-gradient(#F1FAFE 95q,#5B8395 0 130px,#F1FAFE 0 60vh,#0000 0),linear-gradient(90deg,#5B8395 181q,#F1FAFE 0 211px,#5B8395 0
 ```
 
-## [18/11/2023](url)
+## [18/11/2023](https://cssbattle.dev/play/E46MqZ8FV2jAUcx7xD3K)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_tJaXK1p@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<p></p>
+<p a></p>
+<p b></p>
+<p b></ps>
+<style>
+  div{
+    width:50px;
+    height:50px;
+    background:#486841;
+    margin:125 auto;
+    box-shadow: 0 0 0 2in#C6DD7F;
+  }
+  p{
+    width: 200px;
+    height: 200px;
+    background: #486841;
+    margin:-250 auto;
+    border-radius: 50%;
+    clip-path: circle(100px at -50px center)
+  }
+  [a]{
+    margin:50 242;
+  }
+  [b]{
+    margin: -100 auto -350;
+    rotate: 90deg;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p a><p b><p b c><p b d><p b d e><style>p{width:200;aspect-ratio:1;background:#486841}[a]{width:50;margin:125 167;box-shadow:0 0 0 2in#C6DD7F}[b]{margin:-250 92;border-radius:50%;clip-path:circle(106q at -53q)}[c]{margin:50 242}[d]{margin:-100 92-350;rotate:90deg
 ```
 
-## [19/11/2023](url)
+## [19/11/2023](https://cssbattle.dev/play/Nq0PrMVKBs0TlcniS68k)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_QMOAnD2@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<style>
+  body {
+    background: #791e4d;
+  }
+  div {
+    width: 50px;
+    height: 150px;
+    background: #ffc5dd;
+    rotate: 135deg;
+    margin: 75 96.5;
+    box-shadow: 50px -100px#791E4D, 50px -50px#FFC5DD, -50px -50px#FFC5DD, -100px -100px#FFC5DD,
+      -150px -200px#791E4D, -150px -150px#FFC5DD;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<body bgcolor="791E4D" text="FFC5DD">
+  <p
+    style="width:50;height:150;background:#FFC5DD;rotate:135deg;margin:75 96.5;box-shadow:53q -25vw#791E4D,53q -53q,-53q -53q,-25vw -25vw,-50vh -50vw#791E4D,-50vh -50vh"
+  ></p>
+</body>
 ```
 
 ## [20/11/2023](url)

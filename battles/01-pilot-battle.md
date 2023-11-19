@@ -629,3 +629,5 @@ description: First ever battle of CSSBattle. 12 fun warm-up targets to play and 
 ```html
 <body bgcolor=F5D6B4><p><p i><p j><h1><style>p{width:60;height:60;border-radius:50%;clip-path:polygon(0%50%,100%50%,100%100%,0%100%);border:solid 20px#D86F45;margin:26%62}[i]{margin:-200 142;scale:-1}[j]{margin:26%222}h1{width:20;height:20;border-radius:50%;background:#D86F45;margin:-160 62;box-shadow:60vw 0#D86F45
 ```
+
+[\[↑ Scroll to top\]](#pilot-battle)
