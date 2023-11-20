@@ -185,3 +185,5 @@
 ```html
 <body bgcolor=998235><p><p a><style>p{width:20;height:60;background:#0B2429;color:#0B2429;margin:80 122;box-shadow:5ch 0,5em 5em,30vw 5em}[a]{margin:-80 142;rotate:90deg;box-shadow:5ch 0,-5em -5em,-5ch -5em
 ```
+
+[\[↑ Scroll to top\]](#time-attack-1)

@@ -320,3 +320,5 @@ description: Time to flex your CSS art skills! 8 fun targets coming your way!
 ```html
 TBD
 ```
+
+[\[↑ Scroll to top\]](#initial)

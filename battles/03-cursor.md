@@ -134,3 +134,5 @@ description: First ever mini-battle. 48 hours, 2 Targets. Some intense CSS golfi
 ```html
 <body bgcolor=62306D><p><h1><style>p{width:200;height:100;background:linear-gradient(90deg,#F7EC7D 35vw,#E38F66 0);margin:26%92}h1{width:20;height:20;background:#62306D;color:62306D;margin:-210 222;border-radius:50%;box-shadow:0 25vw,-35vw 0 0 11q,-35vw 25vw 0 10q,63q 0 0 11q,63q 25vw 0 11q
 ```
+
+[\[↑ Scroll to top\]](#cursor)

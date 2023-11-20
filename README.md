@@ -69,3 +69,5 @@ A new target everyday for you to unwind. No leaderboards, no competition
 ### Local Setup
 
 To run site locally use `bundle install && bundle exec jekyll serve`
+
+[\[↑ Scroll to top\]](#css-battle-challenge-solutions)
