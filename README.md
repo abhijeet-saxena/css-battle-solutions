@@ -2,9 +2,7 @@
 
 ![Logo](./assets/logo.png)
 
-CSSBattle is an awesome ✨ online CSS Code Golfing game. Here are my solutions to their challenges:
-
-<em>PS: These are readable but low-scoring solutions. I'm currently working on preparing minified solutions that have much higher score.</em>
+[CSSBattle](https://cssbattle.dev/) is an awesome ✨ online CSS Code Golfing game. Here are my solutions to their challenges:
 
 > If you like this collection, please ⭐️ this repo and share it with others
 
@@ -47,6 +45,14 @@ Compete with players around the world in these nail-biting battles
 
 ![Battle Art](./assets/battles.png)
 
+## [Daily Targets](https://cssbattle.dev/daily)
+
+A new target everyday for you to unwind. No leaderboards, no competition
+
+|               Challenges               |                                                                                          Solutions                                                                                          |
+| :------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [2023](./daily-targets/2023/README.md) | [Aug](./daily-targets/2023/aug.md) \| [Sep](./daily-targets/2023/sep.md) <br>[Oct](./daily-targets/2023/oct.md) \| [Nov](./daily-targets/2023/nov.md) \| [Dec](./daily-targets/2023/dec.md) |
+
 ## [Time Attack Battles](./time-attack/README.md)
 
 4 targets & a race against time. Get most 100% matches as quickly as possible.
@@ -57,14 +63,6 @@ Compete with players around the world in these nail-biting battles
 | Battle #2  | [See](./time-attack/02-time-attack.md) | [Go to battle](https://cssbattle.dev/battle/9crk8153AW0QGM8Ne9Ty) |
 
 ![Battle Art](./assets/time-battles.png)
-
-## [Daily Targets](https://cssbattle.dev/daily)
-
-A new target everyday for you to unwind. No leaderboards, no competition
-
-|               Challenges               |                                                                                          Solutions                                                                                          |
-| :------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [2023](./daily-targets/2023/README.md) | [Aug](./daily-targets/2023/aug.md) \| [Sep](./daily-targets/2023/sep.md) <br>[Oct](./daily-targets/2023/oct.md) \| [Nov](./daily-targets/2023/nov.md) \| [Dec](./daily-targets/2023/dec.md) |
 
 ### Local Setup
 
