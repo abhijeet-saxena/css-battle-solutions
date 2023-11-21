@@ -696,20 +696,33 @@
 </body>
 ```
 
-## [20/11/2023](url)
+## [20/11/2023](https://cssbattle.dev/play/4WlVI2t1lehmdsH3YfiZ)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_iUx6XgP@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<style>
+  body {
+    background: #8c80bb;
+  }
+  div {
+    width: 40px;
+    height: 40px;
+    background: #8c80bb;
+    margin: 170 92;
+    box-shadow: 40px -40px#8C80BB, 80px 0#8C80BB, 40px 40px#8C80BB, 120px -80px#8C80BB,
+      60px -20px 0 60px#FCDFEB, 100px -60px 0 60px#FCDFEB;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p><style>p{width:40;height:40;background:#8C80BB;color:8C80BB;margin:170 92;box-shadow:42q -42q,5em 0,40px 40px,30vw -5em,60px -20px 0 60px#FCDFEB,25vw -60px 0 60px#FCDFEB,0 0 0 3in
 ```
 
 ## [21/11/2023](url)
@@ -887,3 +900,5 @@
 ```html
 
 ```
+
+[\[↑ Scroll to top\]](#november-2023)

@@ -74,3 +74,5 @@ description: 48 hours, 2 Targets and some intense CSS golfing.
 ```html
 <style>&{background:linear-gradient(#F7EC7D 53q,#E38F66 0 25vw,#AA445F 0 50vw,#62306D 0
 ```
+
+[\[↑ Scroll to top\]](#inline)

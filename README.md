@@ -2,9 +2,7 @@
 
 ![Logo](https://abhijeetsaxena.in/css-battle-solutions/assets/logo.png)
 
-CSSBattle is an awesome ✨ online CSS Code Golfing game. Here are my solutions to their challenges:
-
-<em>PS: These are readable but low-scoring solutions. I'm currently working on preparing minified solutions that have much higher score.</em>
+[CSSBattle](https://cssbattle.dev/) is an awesome ✨ online CSS Code Golfing game. Here are my solutions to their challenges:
 
 > If you like this collection, please ⭐️ this repo and share it with others
 
@@ -69,3 +67,5 @@ A new target everyday for you to unwind. No leaderboards, no competition
 ### Local Setup
 
 To run site locally use `bundle install && bundle exec jekyll serve`
+
+[\[↑ Scroll to top\]](#css-battle-challenge-solutions)

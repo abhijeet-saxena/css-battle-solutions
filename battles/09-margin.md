@@ -95,3 +95,5 @@ description: 2 fun targets to flex your muscles for the next big battle 🔥
 ```html
 <body bgcolor=293462><p><style>p{width:200;height:200;background:#FFF1C1;border-radius:50%;overflow:hidden;position:relative;margin:50 92}p:after{content:"";position:absolute;width:200;height:150;background:#FE5F55;top:108;left:24;rotate:-45deg;box-shadow:-136q -32q#FE5F55
 ```
+
+[\[↑ Scroll to top\]](#margin)

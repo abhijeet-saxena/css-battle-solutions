@@ -495,3 +495,5 @@
 ```html
 
 ```
+
+[\[↑ Scroll to top\]](#december-2023)
