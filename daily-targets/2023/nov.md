@@ -727,18 +727,48 @@
 
 ## [21/11/2023](url)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fe6YbeBahWNPT7VpE2rE2p85byxa2%2Ftargets%2Ftarget_CtKp0DW.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<style>
+  body {
+    background: #000000;
+    display: grid;
+    place-items: center;
+  }
+  div {
+    width: 320px;
+    height: 60px;
+    background: #ffffff;
+    -webkit-box-reflect: above -60px;
+  }
+  div:before,
+  div:after {
+    content: '';
+    background: #ffffff;
+    position: absolute;
+    width: 360px;
+    height: 40px;
+    top: 200;
+    left: 20;
+  }
+  div:after {
+    width: 400px;
+    height: 40px;
+    top: auto;
+    bottom: 0;
+    left: 0;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<div></div><style>body{background:#000;display:grid;place-items:center}div{width:320px;height:60px;background:#fff;-webkit-box-reflect:above -60px}div:after,div:before{content:'';background:#fff;position:absolute;width:360px;height:40px;top:200;left:20}div:after{width:400px;height:40px;top:auto;bottom:0;left:0}
 ```
 
 ## [22/11/2023](url)
