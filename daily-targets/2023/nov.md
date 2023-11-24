@@ -768,55 +768,112 @@
 #### Minified:
 
 ```html
-<div></div><style>body{background:#000;display:grid;place-items:center}div{width:320px;height:60px;background:#fff;-webkit-box-reflect:above -60px}div:after,div:before{content:'';background:#fff;position:absolute;width:360px;height:40px;top:200;left:20}div:after{width:400px;height:40px;top:auto;bottom:0;left:0}
+<div><style>body{background:#000;display:grid;place-items:center}div{width:320px;height:60px;background:#fff;-webkit-box-reflect:above -60px}div:after,div:before{content:'';background:#fff;position:absolute;width:360px;height:40px;top:200;left:20}div:after{width:400px;height:40px;top:auto;bottom:0;left:0}
 ```
 
 ## [22/11/2023](url)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_T7tSYWs.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<style>
+  body {
+    background: #602054;
+    display: grid;
+    place-content: center;
+  }
+  div {
+    width: 160px;
+    height: 60px;
+    background: #602054;
+    box-shadow: 0 0 0 20px #ECDFEA, 0 0 0 40px #602054,0 0 0 60px #ECDFEA;
+  }
+  div:before,
+  div:after {
+    content: '';
+    width: 60px;
+    height: 40px;
+    background: linear-gradient(90deg, #602054 20px, #ECDFEA 20px,#ECDFEA 40px,#602054 40px);
+    position: absolute;
+    top: 60;
+    left: 170;
+    -webkit-box-reflect: below 100px;
+  }
+  div:after {
+    rotate: 90deg;
+    left: 50;
+    top: 130;
+    -webkit-box-reflect: above 200px;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<div><style>body,div{background:#602054}body{display:grid;place-content:center}div{width:160px;height:60px;box-shadow:0 0 0 20px #ecdfea,0 0 0 40px #602054,0 0 0 60px #ecdfea}div:after,div:before{content:'';width:60px;height:40px;background:linear-gradient(90deg,#602054 20px,#ecdfea 20px,#ecdfea 40px,#602054 40px);position:absolute;top:60;left:170;-webkit-box-reflect:below 100px}div:after{rotate:90deg;left:50;top:130;-webkit-box-reflect:above 200px}
 ```
 
 ## [23/11/2023](url)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_K0KTaiM.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<style>
+  body {
+    background: #811E1F;
+    display: grid;
+    place-content: center;
+  }
+  div {
+    width: 40px;
+    height: 40px;
+    background: #F1F1F2;
+    box-shadow: 40px 0 #F1F1F2,0 40px #F1F1F2,-40px 0 #F1F1F2, 0 -40px #F1F1F2, 100px 0 #F1F1F2, 0 100px #F1F1F2, -100px 0 #F1F1F2, 0 -100px #F1F1F2, 60px 60px #F1F1F2, -60px 60px #F1F1F2, 60px -60px #F1F1F2, -60px -60px #F1F1F2;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<div><style>body{background:#811E1F;display:grid;place-content:center}div{width:40px;height:40px;background:#F1F1F2;box-shadow:40px 0 #F1F1F2,0 40px #F1F1F2,-40px 0 #F1F1F2,0 -40px #F1F1F2,100px 0 #F1F1F2,0 100px #F1F1F2,-100px 0 #F1F1F2,0 -100px #F1F1F2,60px 60px #F1F1F2,-60px 60px #F1F1F2,60px -60px #F1F1F2,-60px -60px #F1F1F2}
 ```
 
 ## [24/11/2023](url)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_DGrVJOI.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<style>
+  body {
+    background: #E0DA8E;
+  }
+  div {
+    width: 30px;
+    height: 60px;
+    background: #E0DA8E;
+    position: absolute;
+    left: 95;
+    top: 120;
+    box-shadow: 60px 0 #E0DA8E, 120px 0 #E0DA8E, 180px 0 #E0DA8E, 0 0 0 30px #898329, 90px 0 0 30px #898329, 180px 0 0 30px #898329;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<div><style>body{background:#E0DA8E}div{width:30px;height:60px;background:#E0DA8E;position:absolute;left:95;top:120;box-shadow:60px 0 #E0DA8E,120px 0 #E0DA8E,180px 0 #E0DA8E,0 0 0 30px #898329,90px 0 0 30px #898329,180px 0 0 30px #898329}
 ```
 
 ## [25/11/2023](url)
