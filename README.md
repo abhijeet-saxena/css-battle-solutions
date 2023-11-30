@@ -42,6 +42,7 @@ Compete with players around the world in these nail-biting battles
 | Battle #26 - Initial     |   [See](./battles/26-initial.md)    | [Go to battle](https://cssbattle.dev/battle/26) |
 | Battle #27 - Relative    |   [See](./battles/27-relative.md)   | [Go to battle](https://cssbattle.dev/battle/27) |
 | Battle #28 - Revert      |    [See](./battles/28-revert.md)    | [Go to battle](https://cssbattle.dev/battle/28) |
+| Battle #29 - Font        |     [See](./battles/29-font.md)     | [Go to battle](https://cssbattle.dev/battle/29) |
 
 ![Battle Art](./assets/battles.png)
 
@@ -60,9 +61,9 @@ Compete with players around the world in these nail-biting battles
 
 A new target everyday for you to unwind. No leaderboards, no competition
 
-|               Challenges               |                                                                                          Solutions                                                                                          |
-| :------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [2023](./daily-targets/2023/README.md) | [Aug](./daily-targets/2023/aug.md) \| [Sep](./daily-targets/2023/sep.md) <br>[Oct](./daily-targets/2023/oct.md) \| [Nov](./daily-targets/2023/nov.md) \| [Dec](./daily-targets/2023/dec.md) |
+|               Challenges               |                                                                                            Solutions                                                                                            |
+| :------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [2023](./daily-targets/2023/README.md) | [Aug](./daily-targets/2023/aug.md) \| [Sep](./daily-targets/2023/sep.md) <br>[Oct](./daily-targets/2023/oct.md) \| [Nov](./daily-targets/2023/nov.md) \| **[Dec](./daily-targets/2023/dec.md)** |
 
 ### Local Setup
 

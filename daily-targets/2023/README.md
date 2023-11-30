@@ -12,12 +12,12 @@
 
 ![Oct 2023](../../assets/daily-targets/2023/oct.png)
 
-## [November (Ongoing)](./nov.md)
+## [November](./nov.md)
 
 ![Nov 2023](../../assets/daily-targets/2023/nov.png)
 
-## [December (TBD)](./dec.md)
+## [December (Ongoing)](./dec.md)
 
-[Coming Soon]
+![Dec 2023](../../assets/daily-targets/2023/dec.png)
 
 [\[↑ Scroll to top\]](#2023)
