@@ -1,19 +1,36 @@
 # December 2023
 
-## [01/12/2023](url)
+## [01/12/2023](https://cssbattle.dev/play/8mBFXB8gHjW3R9PIMOR6)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_j6aclJR@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div a></div>
+<div></div>
+<style>
+  body {
+    background: #486841;
+  }
+  div {
+    height: 160px;
+    background: #aceb3f;
+    margin: -160 -8 0 152;
+    clip-path: polygon(0 50%, 100px 0, 100% 0, 100% 100%, 100px 100%);
+  }
+  div[a] {
+    background: #6fb440;
+    margin: 70 152 0 -8;
+    scale: -1;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<body bgcolor=486841><p a><p><style>p{height:160;background:#ACEB3F;margin:-160-8 0 152;clip-path:polygon(0 50%,42%0,100%0,100%100%,42%100%)}[a]{background:#6FB440;margin:70 152 0-8;scale:-1
 ```
 
 ## [02/12/2023](url)
