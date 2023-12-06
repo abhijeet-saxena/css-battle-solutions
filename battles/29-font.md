@@ -2,7 +2,7 @@
 description: End of year battle. Let's bid adieu to 2023 with some fun CSS flag art!
 ---
 
-# Tanzania
+# Font
 
 ## [Tanzania](https://cssbattle.dev/play/179)
 
@@ -34,8 +34,6 @@ description: End of year battle. Let's bid adieu to 2023 with some fun CSS flag 
 <style>&{background:linear-gradient(-30deg,#3B66B0 40vw,#F8CD1E 0 60vh,#000 0 70vw,#F8CD1E 0 75vw,#14A84A 0
 ```
 
-# Kuwait
-
 ## [Kuwait](https://cssbattle.dev/play/180)
 
 <img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/180.png">
@@ -57,6 +55,22 @@ description: End of year battle. Let's bid adieu to 2023 with some fun CSS flag 
 
 ```html
 <style>&{width:400;border:solid;border-width:25vw 30vw;border-color:#13AA4B 0#EC1E25
+```
+
+## [Title](https://cssbattle.dev/play/)
+
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/.png">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
 ```
 
 [\[↑ Scroll to top\]](#font)
