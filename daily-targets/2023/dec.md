@@ -116,7 +116,7 @@
 
 ## [04/12/2023](https://cssbattle.dev/play/41NbrLVqZBOYlft9D7i1)
 
-<img width="400px" height="300px" loading="lazy" src="urhttps://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_ttIGHPj@2x.png?alt=medial">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_ttIGHPj@2x.png?alt=media">
 
 #### Solution:
 
