@@ -240,20 +240,35 @@
 <p><p a><p b><style>&{background:#C1A936;padding:92 77}p{width:230;height:100;background:#FFFCDF}[a]{width:310;height:50;margin:-91-40}[b]{width:50;height:50;border-radius:50%;background:#C1A936;margin:-100 40;border:solid 53q#FFFCDF
 ```
 
-## [07/12/2023](url)
+## [07/12/2023](https://cssbattle.dev/play/QhDL9FmgQ4edGKa1z6BH)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_5Ky5Ns3@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<style>
+  body {
+    background: #2c4228;
+    color: #a6ce39;
+  }
+  div {
+    width: 30px;
+    height: 30px;
+    background: #a6ce39;
+    margin: 90 132;
+    box-shadow: 90px 0, -90px 90px, 180px 90px, -15px 45px 0 15px,
+      -15px 75px 0 15px, -45px 75px 0 15px, 45px 75px 0 15px#BDFFB1, 105px 45px
+        0 15px, 105px 75px 0 15px, 135px 75px 0 15px;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<body bgcolor=2C4228 text=A6CE39><p><style>p{width:30;height:30;background:#A6CE39;margin:90 132;box-shadow:95q 0,-95q 95q,60vh 95q,-16q 45px 0 16q,-16q 75px 0 16q,-45px 75px 0 16q,45px 75px 0 16q#BDFFB1,35vh 45px 0 16q,35vh 75px 0 16q,45vh 75px 0 16q
 ```
 
 ## [08/12/2023](url)
