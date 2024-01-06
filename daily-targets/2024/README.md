@@ -1,3 +1,5 @@
 # 2024
 
-Coming Soon !!! 🎉
+## [January](./jan.md)
+
+![Jan 2024](../../assets/daily-targets/2024/jan.png)

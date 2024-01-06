@@ -66,7 +66,7 @@ image_urls
                   fill="white"
                 ></path>
               </svg>
-              Nov ${1 + index}
+              Dec ${1 + index}
             </p>
           </div>
         </div>

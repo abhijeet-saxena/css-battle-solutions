@@ -16,7 +16,7 @@
 
 ![Nov 2023](../../assets/daily-targets/2023/nov.png)
 
-## [December (Ongoing)](./dec.md)
+## [December](./dec.md)
 
 ![Dec 2023](../../assets/daily-targets/2023/dec.png)
 
