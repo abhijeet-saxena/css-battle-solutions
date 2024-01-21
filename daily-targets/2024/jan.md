@@ -561,116 +561,288 @@
 <body bgcolor=7C402E><p a><p b><p c><p d><p d e><style>p{width:50;height:50;background:#F1E5DF;margin:75 42-25}[a]{border-radius:50%}[b]{width:100}[c]{height:100;margin:-150 92;border-radius:0 5em 5em 0}[d]{width:100;height:150;margin:50 167;border-radius:5em}[e]{width:50;margin:-200 292
 ```
 
-## [15/01/2024](url)
+## [15/01/2024](https://cssbattle.dev/play/qbSNpz6FBTYDsdHqq51B)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_jEOcIua@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<style>
+  html {
+    border: solid 40px #000000;
+  }
+  div {
+    width: 40px;
+    height: 40px;
+    background: #000000;
+    margin: 90 auto;
+    box-shadow: -180px 0 #ffffff, 180px 0 #ffffff, 0 130px #ffffff, 0 -130px#FFFFFF;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p></p><style>html{border:solid 40px}p{width:40;height:40;background:#000;color:fff;margin:90 132;box-shadow:-60vh 0,60vh 0,0 130px, 0 -130px
 ```
 
-## [16/01/2024](url)
+## [16/01/2024](https://cssbattle.dev/play/nCiF9nJ01HNOyu3QzNJ1)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_ccjEec6@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<p></p>
+<p a></p>
+<style>
+  body {
+    background: #002a6b;
+  }
+  div {
+    width: 180px;
+    height: 90px;
+    background: #c7e7fb;
+    margin: 75 auto;
+    clip-path: polygon(0 0, 100% 0, 50% 100%);
+  }
+  p {
+    width: 85px;
+    height: 85px;
+    background: linear-gradient(-45deg, #c7e7fb 50%, #5cc4f4 50%);
+    rotate: 45deg;
+    margin: -118 90;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 50%, 0 100%);
+  }
+  [a] {
+    rotate: -45deg;
+    scale: -1 1;
+    margin: 33 210;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p><h1><h1 a><style>&{background:#002A6B}p{width:180;height:90;background:#C7E7FB;margin:75 102;clip-path:polygon(0 0,100%0,50%100%)}h1{width:85;height:85;background:linear-gradient(-45deg,#C7E7FB 50%,#5CC4F4 0);rotate:45deg;margin:-118 90;clip-path:polygon(0 0,100%0,100%100%,50%50%,0%100%)}[a]{rotate:-45deg;scale:-1 1;margin:33 210
 ```
 
-## [17/01/2024](url)
+## [17/01/2024](https://cssbattle.dev/play/3fs9yerP6UaluWClKpGl)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_ZFk7RHJ@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<div a></div>
+<div c></div>
+<style>
+  body {
+    background: #d8b788;
+  }
+  div {
+    width: 120px;
+    height: 180px;
+    background: linear-gradient(
+      #684c3b 20px,
+      #d8b788 20px,
+      #d8b788 40px,
+      #684c3b 40px
+    );
+    margin: 70 auto;
+    border-radius: 10px;
+  }
+  [a] {
+    width: 20px;
+    height: 80px;
+    background: #d8b788;
+    margin: -180 162;
+    box-shadow: 40px 0 #d8b788;
+  }
+  [c] {
+    background: #684c3b;
+    width: 40px;
+    height: 40px;
+    margin: 10 auto;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p><p a><p c><style>*{background:#D8B788}p{width:120;height:180;background:linear-gradient(#684C3B 21q,#D8B788 0 43q,#684C3B 0);margin:70 132;border-radius:10q}[a]{width:20;height:80;background:#D8B788;margin:-180 162;box-shadow:42q 0#D8B788}[c]{background:#684C3B;width:40;height:40;margin:10 172
 ```
 
-## [18/01/2024](url)
+## [18/01/2024](https://cssbattle.dev/play/Gz1iMW1Yi3ITUluTG5zs)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_H49PKnB@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<div a></div>
+<h1></h1>
+<style>
+  body {
+    background: #f7bed9;
+  }
+  div {
+    width: 90px;
+    height: 60px;
+    background: #ec0076;
+    margin: 98 172;
+    border-radius: 10px;
+  }
+  [a] {
+    margin: -178 142;
+    background: #f069ab;
+    border-radius: 0 10px 10px 0;
+  }
+  h1 {
+    width: 20px;
+    height: 180px;
+    background: #8b0051;
+    border-radius: 10px;
+    margin: 100 122;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p><p a><h1><style>&{background:#F7BED9}p{width:90;height:60;background:#EC0076;margin:98 172;border-radius:10px}[a]{margin:-178 142;background:#F069AB;border-radius:0 10px 10px 0}h1{width:20;height:180;background:#8B0051;border-radius:10px;margin:100 122
 ```
 
-## [19/01/2024](url)
+## [19/01/2024](https://cssbattle.dev/play/7cnHXBefxy3jc8NvB4WM)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_n3qCgVT@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<h1></h1>
+<h2></h2>
+<style>
+  body {
+    background: #551d70;
+  }
+  div {
+    width: 80px;
+    height: 140px;
+    background: linear-gradient(#7e6bb7 90px, #e6e7e8 90px);
+    margin: 90 auto;
+    border-radius: 0 0 40px 40px;
+  }
+  h1 {
+    width: 100px;
+    height: 20px;
+    background: #e6e7e8;
+    border-radius: 10px;
+    margin: -250 auto;
+  }
+  h2 {
+    width: 10px;
+    height: 10px;
+    background: #e6e7e8;
+    border-radius: 50%;
+    margin: 310 182;
+    box-shadow: -15px -25px 0 5px #e6e7e8;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p><h1><h1 a><style>*{background:#551D70}p{width:80;height:140;background:linear-gradient(#7E6BB7 95q,#E6E7E8 0);margin:90 152;border-radius:0 0 5ch 5ch}h1{width:100;height:20;background:#E6E7E8;border-radius:12q;margin:-250 142}[a]{width:10;height:10;margin:310 182;box-shadow:-16q -26q 0 5q#E6E7E8
 ```
 
-## [20/01/2024](url)
+## [20/01/2024](https://cssbattle.dev/play/zAPhWMFgGClqcCffA5ax)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_v0qyeG3@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<h1></h1>
+<div a></div>
+<style>
+  body {
+    background: #602820;
+  }
+  div {
+    width: 180px;
+    height: 50px;
+    background: #f16b4a;
+    margin: 145 auto;
+    border-radius: 15px;
+  }
+  h1 {
+    width: 150px;
+    height: 160px;
+    background: #fac2a8;
+    margin: -270 auto -230;
+    border-radius: 75px 75px 20px 20px;
+  }
+  [a] {
+    width: 80px;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<h1><h2><h1 a><style>*{background:#602820}h1{width:180;height:50;background:#F16B4A;margin:145 auto;border-radius:16q}h2{width:150;height:160;background:#FAC2A8;margin:-270 117-230;border-radius:80q 80q 21q 21q}[a]{width:80
 ```
 
-## [21/01/2024](url)
+## [21/01/2024](https://cssbattle.dev/play/1Ys7avJmu4s5BLkhIChC)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_SrMZEaZ@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<h1></h1>
+<style>
+  body {
+    background: #223e1f;
+  }
+  div {
+    width: 250px;
+    height: 150px;
+    background: linear-gradient(#0a9947 120px, #feff27 120px);
+    margin: 75 auto;
+    border-radius: 10px;
+  }
+  h1 {
+    width: 20px;
+    height: 60px;
+    background: #feff27;
+    border-radius: 0 0 10px 10px;
+    margin: -225 92;
+    box-shadow: 30px 0 #feff27, 60px 0 #feff27, 90px 0 #feff27, 90px 20px
+        #feff27, 120px 0 #feff27, 150px 0 #feff27, 180px 0 #feff27;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<body bgcolor=223E1F text=FEFF27><p><h1><style>p{width:250;height:150;background:linear-gradient(#0A9947 80%,#FEFF27 0);margin:75 67;border-radius:11q}h1{width:20;height:60;background:#FEFF27;border-radius:0 0 10q 10q;margin:-225 92;box-shadow:32q 0,64q 0,95q 0,95q 21q,40vh 0,50vh 0,60vh 0
 ```
 
 ## [22/01/2024](url)
