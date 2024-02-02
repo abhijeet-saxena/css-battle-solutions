@@ -1,80 +1,6 @@
-# February 2024
+# March 2024
 
-## [01/03/2024](https://cssbattle.dev/play/kbqZev0J8ZyvnvAN4plJ)
-
-<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_E5HkmAd@2x.png?alt=media">
-
-#### Solution:
-
-```html
-<div></div>
-<div a></div>
-<style>
-  body {
-    background: #d5edfc;
-  }
-  div {
-    width: 280px;
-    height: 40px;
-    background: #06487a;
-    margin: 60 auto -60;
-    box-shadow: 0 140px #06487a;
-  }
-  [a] {
-    width: 40px;
-    height: 100px;
-    box-shadow: -80px 0px #06487a, 80px 0 #06487a;
-  }
-</style>
-```
-
-#### Minified:
-
-```html
-<p><p a><style>p{width:280;height:40;background:#06487A;color:06487A;margin:60 auto -60;box-shadow:0 35vw,0 0 0 3in#D5EDFC}[a]{width:40;height:100;box-shadow:-5em 0#06487A,5em 0
-```
-
-## [02/03/2024](https://cssbattle.dev/play/GAYjUrKQx0ZUsPyHTYZJ)
-
-<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_lChpdWc@2x.png?alt=media">
-
-#### Solution:
-
-```html
-<div></div>
-<div a c></div>
-<div a b></div>
-<style>
-  body {
-    background: #5c3921;
-  }
-  div {
-    width: 200px;
-    height: 100px;
-    background: #c17d1b;
-    margin: 50 auto -40;
-    border-radius: 120px 120px 25px 25px;
-  }
-  [a] {
-    height: 40px;
-  }
-  [c] {
-    background: #fbba24;
-    border-radius: 30px;
-  }
-  [b] {
-    border-radius: 12px 12px 30px 30px;
-  }
-</style>
-```
-
-#### Minified:
-
-```html
-<body bgcolor=5C3921><p><p h b><p h c><style>p{width:200;height:100;background:#C17D1B;margin:50 auto -40;border-radius:30vw 30vw 25q 25q}[h]{height:40}[b]{background:#FBBA24;border-radius:30q}[c]{border-radius:12q 12q 32q 32q
-```
-
-## [03/02/2024](url)
+## [01/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -90,7 +16,7 @@
 
 ```
 
-## [04/02/2024](url)
+## [02/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -106,7 +32,7 @@
 
 ```
 
-## [05/02/2024](url)
+## [03/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -122,7 +48,7 @@
 
 ```
 
-## [06/02/2024](url)
+## [04/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -138,7 +64,7 @@
 
 ```
 
-## [07/02/2024](url)
+## [05/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -154,7 +80,7 @@
 
 ```
 
-## [08/02/2024](url)
+## [06/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -170,7 +96,7 @@
 
 ```
 
-## [09/02/2024](url)
+## [07/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -186,7 +112,7 @@
 
 ```
 
-## [10/02/2024](url)
+## [08/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -202,7 +128,7 @@
 
 ```
 
-## [11/02/2024](url)
+## [09/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -218,7 +144,7 @@
 
 ```
 
-## [12/02/2024](url)
+## [10/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -234,7 +160,7 @@
 
 ```
 
-## [13/02/2024](url)
+## [11/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -250,7 +176,7 @@
 
 ```
 
-## [14/02/2024](url)
+## [12/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -266,7 +192,7 @@
 
 ```
 
-## [15/02/2024](url)
+## [13/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -282,7 +208,7 @@
 
 ```
 
-## [16/02/2024](url)
+## [14/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -298,7 +224,7 @@
 
 ```
 
-## [17/02/2024](url)
+## [15/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -314,7 +240,7 @@
 
 ```
 
-## [18/02/2024](url)
+## [16/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -330,7 +256,7 @@
 
 ```
 
-## [19/02/2024](url)
+## [17/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -346,7 +272,7 @@
 
 ```
 
-## [20/02/2024](url)
+## [18/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -362,7 +288,7 @@
 
 ```
 
-## [21/02/2024](url)
+## [19/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -378,7 +304,7 @@
 
 ```
 
-## [22/02/2024](url)
+## [20/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -394,7 +320,7 @@
 
 ```
 
-## [23/02/2024](url)
+## [21/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -410,7 +336,7 @@
 
 ```
 
-## [24/02/2024](url)
+## [22/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -426,7 +352,7 @@
 
 ```
 
-## [25/02/2024](url)
+## [23/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -442,7 +368,7 @@
 
 ```
 
-## [26/02/2024](url)
+## [24/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -458,7 +384,7 @@
 
 ```
 
-## [27/02/2024](url)
+## [25/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -474,7 +400,7 @@
 
 ```
 
-## [28/02/2024](url)
+## [26/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -490,7 +416,7 @@
 
 ```
 
-## [29/02/2024](url)
+## [27/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -506,7 +432,7 @@
 
 ```
 
-## [30/02/2024](url)
+## [28/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -522,7 +448,39 @@
 
 ```
 
-## [31/02/2024](url)
+## [29/03/2024](url)
+
+<img width="400px" height="300px" loading="lazy" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [30/03/2024](url)
+
+<img width="400px" height="300px" loading="lazy" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [31/03/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
