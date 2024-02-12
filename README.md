@@ -43,6 +43,7 @@ Compete with players around the world in these nail-biting battles
 | Battle #27 - Relative    |   [See](./battles/27-relative.md)   | [Go to battle](https://cssbattle.dev/battle/27) |
 | Battle #28 - Revert      |    [See](./battles/28-revert.md)    | [Go to battle](https://cssbattle.dev/battle/28) |
 | Battle #29 - Font        |     [See](./battles/29-font.md)     | [Go to battle](https://cssbattle.dev/battle/29) |
+| Battle #30 - Gradient    |   [See](./battles/30-gradient.md)   | [Go to battle](https://cssbattle.dev/battle/30) |
 
 ![Battle Art](./assets/battles.png)
 
@@ -64,7 +65,7 @@ A new target everyday for you to unwind. No leaderboards, no competition
 |               Challenges               |                                                                                          Solutions                                                                                          |
 | :------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [2023](./daily-targets/2023/README.md) | [Aug](./daily-targets/2023/aug.md) \| [Sep](./daily-targets/2023/sep.md) <br>[Oct](./daily-targets/2023/oct.md) \| [Nov](./daily-targets/2023/nov.md) \| [Dec](./daily-targets/2023/dec.md) |
-| [2024](./daily-targets/2024/README.md) |                                                                           **[Jan](./daily-targets/2024/jan.md)**                                                                            |
+| [2024](./daily-targets/2024/README.md) |                                                        [Jan](./daily-targets/2024/jan.md) \| **[Feb](./daily-targets/2024/feb.md)**                                                         |
 
 ### Local Setup
 
