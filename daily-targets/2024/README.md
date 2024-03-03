@@ -8,4 +8,8 @@
 
 ![Feb 2024](../../assets/daily-targets/2024/feb.png)
 
+## [March](./mar.md)
+
+![Mar 2024](../../assets/daily-targets/2024/mar.png)
+
 [\[↑ Scroll to top\]](#2024)

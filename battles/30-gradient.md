@@ -229,37 +229,46 @@ description: Time to flex your CSS and build some cool CSS art!
 <body bgcolor=2F2E59 text=EEECF6><p><p a><style>p{width:20;height:150;background:#EEECF6;border-radius:10q;margin:75 69;box-shadow:239q 0}[a]{height:240;margin:-329.5 193;rotate:-60deg;box-shadow:-60q 0,-60q 40q,-121q 42q
 ```
 
-## [Abstract Firefly](https://cssbattle.dev/play/192)
+## [Galver](https://cssbattle.dev/play/193)
 
-<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/192.png">
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/193.png">
 
 #### Solution:
 
 ```html
 <div></div>
+<h1></h1>
+<h1 a></h1>
+<h1 b></h1>
+<h1 a b c></h1>
 <style>
-  body {
-    background: #1d471d;
-  }
   div {
-    width: 280px;
-    height: 150px;
-    background: #cce58e;
-    margin: 75 auto;
-    clip-path: polygon(
-      0 0,
-      116px 16px,
-      140px 50px,
-      164px 16px,
-      100% 0,
-      220px 64px,
-      187px 57px,
-      194px 92px,
-      50% 100%,
-      87px 93px,
-      93px 57px,
-      59px 63px
-    );
+    width: 40px;
+    height: 40px;
+    background: #8b0051;
+    border: solid 15px #f180b6;
+    box-shadow: 0 0 0 15px #8b0051, 0 0 0 30px #fcddeb, 0 0 0 45px #8b0051, 0 0
+        0 3in #fcddeb;
+    border-radius: 50%;
+    margin: 115 auto;
+  }
+  h1 {
+    width: 30px;
+    height: 80px;
+    background: #8b0051;
+    margin: -265 auto 335;
+    border-radius: 30px;
+    clip-path: polygon(0 15px, 0 0, 100% 0, 100% 15px, 20px 100%, 10px 100%);
+  }
+  [a] {
+    scale: -1;
+  }
+  [b] {
+    rotate: 90deg;
+    margin: -490 252;
+  }
+  [c] {
+    margin: 410 102;
   }
 </style>
 ```
@@ -267,11 +276,67 @@ description: Time to flex your CSS and build some cool CSS art!
 #### Minified:
 
 ```html
-<body bgcolor="1D471D">
-  <p
-    style="width:280;height:150;background:#CCE58E;margin:75+52;clip-path:polygon(0+0,122q+17q,148q+52q,174q+17q,100%0,233q+68q,197q+60q,205q+98q,50%100%,92q 98q,98q+61q,62q+67q"
-  ></p>
-</body>
+<h1></h1><p><p a><p b><p a b c><style>*{background:#8B0051;color:FCDDEB}h1{width:40;height:40;border:solid 16q#F180B6;box-shadow:0 0 0 16q#8B0051,0 0 0 32q,0 0 0 48q#8B0051,0 0 0 3in;border-radius:50%;margin:115 157}p{width:30;height:80;margin:-265 177 335;border-radius:30q;clip-path:polygon(0 16q,0 0,100%0,100%15q,22q 100%,10q 100%)}[a]{scale:-1}[b]{rotate:90deg;margin:-490 252}[c]{margin:410 102
+```
+
+## [Fountain](https://cssbattle.dev/play/194)
+
+<img width="400px" height="300px" loading="lazy" src="https://cssbattle.dev/targets/194.png">
+
+#### Solution:
+
+```html
+<div></div>
+<div a></div>
+<div b></div>
+<div a c></div>
+<div d></div>
+<div a e></div>
+<h1></h1>
+<style>
+  body {
+    background: #4fa07b;
+  }
+  div {
+    width: 100px;
+    height: 210px;
+    border-radius: 440px;
+    background: #4fa07b;
+    box-shadow: 0 0 0 20px #0d1335;
+    margin: 40 auto -210;
+  }
+  [a] {
+    width: 20px;
+    height: 140px;
+    border-radius: 20px;
+  }
+  [b] {
+    margin: 130 82;
+  }
+  [c] {
+    margin: -300 122;
+  }
+  [d] {
+    margin: 120 202;
+  }
+  [e] {
+    margin: -290 242;
+  }
+  h1 {
+    width: 20px;
+    height: 100px;
+    background: #4fa07b;
+    margin: 207 62;
+    box-shadow: 40px 22.5px #4fa07b, 80px 42.5px #4fa07b, 160px 42.5px #4fa07b, 200px
+        22.5px #4fa07b, 240px 0 #4fa07b;
+  }
+</style>
+```
+
+#### Minified:
+
+```html
+<p><p a><p b><p a c><p d><p a e><h1><style>*{background:#4FA07B}p{width:100;height:210;border-radius:53q;box-shadow:0 0 0 20px#0D1335;margin:40 auto -210}[a]{width:20;height:140;border-radius:20q}[b]{margin:130 82}[c]{margin:-300 122}[d]{margin:120 202}[e]{margin:-290 242}h1{width:20;height:100;margin:207 62;color:4FA07B;box-shadow:40px 24q,80px 45q,40vw 45q,50vw 24q,60vw 0
 ```
 
 [\[↑ Scroll to top\]](#gradient)

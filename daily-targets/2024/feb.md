@@ -993,84 +993,117 @@
 <p><p a><style>p{width:200;height:200;background:radial-gradient(#8A0A06 15px,#FEFF89 0 35%,#F59426 0);margin:50 92;color:8A0A06;box-shadow:0 0 0 3in#FEFF89}[a]{width:30;height:30;border-radius:50%;margin:-230 112;box-shadow:138q 0,0 138q,138q 138q
 ```
 
-## [27/02/2024](url)
+## [27/02/2024](https://cssbattle.dev/play/qfqUXKppS9FkIoQpOUkj)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_p0WUACe@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<style>
+  body {
+    background: #2e0040;
+  }
+  div {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: #d3b1d6;
+    margin: 50 auto;
+    box-shadow: 0 100px #d3b1d6, -50px 50px #a94ea4, 50px 50px #a94ea4;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p
+  style="width:100;height:100;border-radius:50%;color:A94EA4;background:#D3B1D6;margin:50+142;box-shadow:0+25vw#D3B1D6,-53q+53q,53q+53q,0+0+0+3in#2E0040"
+></p>
 ```
 
-## [28/02/2024](url)
+## [28/02/2024](https://cssbattle.dev/play/y2YQ2XBCfx33ET8ANMlZ)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_W8dkgqG@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<h1></h1>
+<style>
+  div {
+    width: 140px;
+    height: 210px;
+    background: #0c6da2;
+    margin: -8;
+    box-shadow: 0 0 0 20px #acddf9, 0 0 0 40px #0c6da2, 0 10px 0 80px #acddf9, 260px
+        90px #0c6da2, 260px 90px 0 20px #acddf9, 240px 70px 0 20px #0c6da2,
+      240px 0 0 20px #acddf9;
+  }
+  h1 {
+    width: 80px;
+    height: 20px;
+    background: #0c6da2;
+    margin: -100 auto;
+    box-shadow: 0 20px #acddf9, 0 40px #acddf9, 0 60px #0c6da2;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p><p a><style>p{width:140;height:210;color:ACDDF9;background:#0C6DA2;margin:-8;box-shadow:0 0 0 21q,0 0 0 5ch#0C6DA2,0 12q 0 5em,275q 90px#0C6DA2,275q 95q 0 21q,80vh 74q 0 21q#0C6DA2,80vh 0 0 21q}[a]{width:80;height:20;margin:-100 152;box-shadow:0 21q,0 5ch,0 63q#0C6DA2
 ```
 
-## [29/02/2024](url)
+## [29/02/2024](https://cssbattle.dev/play/P4EoPbHKW1txS0aRbaOR)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_W0Ie7VG@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<h1></h1>
+<h1 a></h1>
+<style>
+  body {
+    background: #0d2328;
+  }
+  div {
+    width: 120px;
+    height: 210px;
+    margin: 25 auto;
+    border-radius: 80px;
+    border: solid 20px #9ed7f8;
+    background: linear-gradient(#9ed7f8 100px, #0000 0), linear-gradient(90deg, #0d2328
+          50px, #9ed7f8 50px, #9ed7f8 70px, #0d2328 0);
+  }
+  h1 {
+    width: 20px;
+    height: 30px;
+    background: #0d2328;
+    color: #0d2328;
+    margin: -155 112;
+    box-shadow: 140px 0;
+  }
+  [a] {
+    height: 20px;
+    border-radius: 50%;
+    margin: 145 112;
+    background: #9ed7f8;
+    color: #9ed7f8;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
-```
-
-## [30/02/2024](url)
-
-<img width="400px" height="300px" loading="lazy" src="url">
-
-#### Solution:
-
-```html
-
-```
-
-#### Minified:
-
-```html
-
-```
-
-## [31/02/2024](url)
-
-<img width="400px" height="300px" loading="lazy" src="url">
-
-#### Solution:
-
-```html
-
-```
-
-#### Minified:
-
-```html
-
+<p><h1><h1 a><style>*{background:#0D2328}h1{width:20;height:30;color:0D2328;margin:-155 112 145;box-shadow:35vw 0}[a]{height:20;border-radius:50%;background:#9ED7F8;color:9ED7F8}p{width:120;height:210;margin:25 112;border-radius:5em;border:solid 20px#9ED7F8;background:linear-gradient(#9ED7F8 25vw,#0000 0),linear-gradient(90deg,#0D2328 53q,#9ED7F8 0 74q,#0D2328 0
 ```
 
 [\[↑ Scroll to top\]](#february-2024)

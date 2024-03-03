@@ -116,4 +116,8 @@
 
 ![Font](../assets/battles-targets/battle-29.png)
 
+## [Gradient](./30-gradient.md)
+
+![Gradient](../assets/battles-targets/battle-30.png)
+
 [\[↑ Scroll to top\]](#battles)
