@@ -575,148 +575,371 @@
 <body bgcolor=FFFFCD><p><h1><style>h1{width:200;height:20;background:#EDAF38;margin:-50 92;border-radius:20q;box-shadow:-21q 21q#F1D31D,21q 21q#F1D31D}p{width:160;height:160;background:#E78320;margin:50+112;clip-path:polygon(48q 0,121q 0,100%100%,0 100%
 ```
 
-## [16/03/2024](url)
+## [16/03/2024](https://cssbattle.dev/play/JX0EAoyHvalIVLo22TlX)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_kM42jPd@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<div a></div>
+<style>
+  body {
+    background: #eaeb8d;
+  }
+  div {
+    width: 30px;
+    height: 30px;
+    border: solid 10px #fece22;
+    margin: 50 192;
+    box-shadow: 50px 0 #f9b125, 0 50px #f9b125, 50px 50px #f48b26;
+  }
+  [a] {
+    margin: 100px 142px;
+    box-shadow: -50px 0 #f48b26, 0 -50px #f48b26, -50px -50px #f9b125;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<body bgcolor=EAEB8D><p><p a><style>p{width:30;height:30;border:solid 11q#FECE22;margin:50 192;color:F9B125;box-shadow:50px 0,0 50px,50px 50px#F48B26}[a]{margin:100 142;color:F48B26;box-shadow:-53q 0,0-53q,-53q -53q#F9B125
 ```
 
-## [17/03/2024](url)
+## [17/03/2024](https://cssbattle.dev/play/MrgizNxbLTSMxX5nqc3Y)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_En75Ycv@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<h1></h1>
+<style>
+  body {
+    background: #d5edfc;
+  }
+  div {
+    width: 200px;
+    height: 50px;
+    margin: 100 auto;
+    border: solid 25px #7791b6;
+    box-shadow: 0 0 0 25px #277292;
+    border-radius: 50px;
+  }
+  h1 {
+    width: 100px;
+    height: 75px;
+    background: #95b6e4;
+    margin: -250 auto;
+    box-shadow: 0 125px #95b6e4;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p a><p><style>*{background:#D5EDFC}p{width:100;height:75;color:95B6E4;margin:100 auto -375;box-shadow:0 132q,0 265q}[a]{width:200;height:50;border:solid 27q#7791B6;box-shadow:0 0 0 25px #277292;border-radius:53q
 ```
 
-## [18/03/2024](url)
+## [18/03/2024](https://cssbattle.dev/play/geREzsU9Jig18597jjlF)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_xeEEJ8l@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<style>
+  body {
+    background: #c31c1d;
+  }
+  div {
+    width: 240px;
+    height: 160px;
+    background: #660301;
+    margin: 70 auto;
+    clip-path: polygon(
+      60px 0,
+      180px 0,
+      100% 100%,
+      180px 100%,
+      180px 120px,
+      140px 120px,
+      140px 80px,
+      100px 80px,
+      100px 120px,
+      60px 120px,
+      60px 100%,
+      0 100%
+    );
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<body bgcolor="C31C1D">
+  <p
+    style="width:240;height:160;background:#660301;margin:70+72;clip-path:polygon(25%0,75%0,100%100%,75%100%,75%75%,35vw+75%,35vw+50%,25vw+50%,25vw+75%,25%75%,25%100%,0%100%"
+  ></p>
+</body>
 ```
 
-## [19/03/2024](url)
+## [19/03/2024](https://cssbattle.dev/play/sXh0k2RFohqcShlXFkeP)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_tvqGC4G@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<h1></h1>
+<h2></h2>
+<style>
+  body {
+    background: #e0dbf0;
+  }
+  div {
+    width: 150px;
+    height: 100px;
+    background: linear-gradient(
+      to left,
+      #bbb2db 50px,
+      #e0dbf0 50px,
+      #e0dbf0 60px,
+      #bbb2db 60px,
+      #bbb2db 70px,
+      #e0dbf0 70px,
+      #e0dbf0 80px,
+      #bbb2db 80px,
+      #bbb2db 90px,
+      #e0dbf0 90px,
+      #e0dbf0 100px,
+      #bbb2db 100px
+    );
+    margin: 100 auto;
+  }
+  h1 {
+    width: 25px;
+    height: 180px;
+    margin: -240 92;
+    background: #857da1;
+    box-shadow: 175px 0 #857da1;
+  }
+  h2 {
+    width: 10px;
+    height: 10px;
+    background: #e0dbf0;
+    margin: 70 92;
+    box-shadow: 15px 0 #e0dbf0, 175px 0 #e0dbf0, 190px 0 #e0dbf0, 0 150px
+        #e0dbf0, 15px 150px #e0dbf0, 175px 150px #e0dbf0, 190px 150px #e0dbf0;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<body bgcolor=E0DBF0 text=E0DBF0><p><h1><h2><style>h1{width:25;height:180;margin:-240 92;background:#857DA1;box-shadow:175px 0#857DA1}h2{width:10;height:10;background:#E0DBF0;margin:70 92;box-shadow:16q 0,185q 0,201q 0,0 50vh,16q 50vh,185q 50vh,201q 50vh}p{width:150;height:100;margin:100 117;background:linear-gradient(90deg,#BBB2DB 53q,#E0DBF0 0 60px,#BBB2DB 0 74q,#E0DBF0 0 5em,#BBB2DB 0 95q,#E0DBF0 0 25vw,#BBB2DB 0
 ```
 
-## [20/03/2024](url)
+## [20/03/2024](https://cssbattle.dev/play/28n8LsvPnxFKQh46G3iZ)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_shbNPz5@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<style>
+  body {
+    background: #42230c;
+  }
+  div {
+    width: 250px;
+    height: 160px;
+    background: radial-gradient(circle at 50% 60px, #42230c 40px, #0000 40px),
+      radial-gradient(circle at 50% 100%, #42230c 40px, #8b673a 40px);
+    margin: 70 auto;
+    border-radius: 120px 120px 40px 40px;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p
+  style="width:250;height:160;box-shadow:0+0+0+2in#42230C;background:radial-gradient(1q at 50% 60px,#42230C 5ch,#0000 0),radial-gradient(1q at 50%100%,#42230C 5ch,#8B673A 0);margin:70 67;border-radius:30vw 30vw 5ch 5ch"
+></p>
 ```
 
-## [21/03/2024](url)
+## [21/03/2024](https://cssbattle.dev/play/IijmYnDSGTl1HGKrokhz)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_BetfI71@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<h1></h1>
+<h2></h2>
+<style>
+  body {
+    background: #301e53;
+  }
+  div {
+    width: 300px;
+    height: 40px;
+    background: #766d94;
+    margin: 75 auto;
+    clip-path: polygon(0 0, 100% 0, 260px 100%, 40px 100%);
+  }
+  h1 {
+    width: 70px;
+    height: 50px;
+    background: #a6a0be;
+    margin: -65 67;
+    box-shadow: 180px 0 #a6a0be;
+  }
+  h2 {
+    width: 90px;
+    height: 100px;
+    background: #a6a0be;
+    color: #a6a0be;
+    margin: 15 auto;
+    clip-path: polygon(0 0, 100% 0, 100% 55px, 50% 100%, 0 55px);
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<body bgcolor=301E53 text=A6A0BE><p><h1><h1 a><style>p{width:300;height:40;background:#766D94;margin:75 42;clip-path:polygon(0 0,100%0,65vw 100%,5ch 100%)}h1{width:70;height:50;background:#A6A0BE;margin:-65 67;box-shadow:60vh 0}[a]{width:90;height:100;margin:15 147;clip-path:polygon(0 0,100%0,100%58q,50%100%,0 58q
 ```
 
-## [22/03/2024](url)
+## [22/03/2024](https://cssbattle.dev/play/oKiBQVHqoso4jMz5da7o)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_KB7fv5b@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<h1></h1>
+<style>
+  body {
+    background: radial-gradient(circle at 50% 90px, #000000 30px, #fbd6c1 30px);
+  }
+  div {
+    width: 150px;
+    height: 150px;
+    background: linear-gradient(to left, #f16b4a 50%, #d62022 50%);
+    border-radius: 50%;
+    margin: 90 auto;
+  }
+  h1 {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #000000;
+    margin: -205 142;
+    box-shadow: 80px 0 #000000, 15px 30px #000000, 15px 60px #000000, 65px 30px
+        #000000, 65px 60px #000000;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p><p a><style>p{width:150;height:150;background:linear-gradient(90deg,#D62022 50%,#F16B4A 0);border-radius:50%;margin:90 117}[a]{width:20;height:20;background:#000;margin:-205 142;box-shadow:5em 0,16q 30px,16q 60px,65px 30px,65px 60px}&{background:radial-gradient(1q at 50% 90px,#000 30px, #FBD6C1 0
 ```
 
-## [23/03/2024](url)
+## [23/03/2024](https://cssbattle.dev/play/avFxQqBVe1bdhc1utxnq)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_lRXeTMY@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<h1></h1>
+<style>
+  body {
+    background: #5f133f;
+  }
+  div {
+    width: 80px;
+    height: 80px;
+    background: #b04183;
+    margin: 110 62;
+    box-shadow: 100px 0 0 20px #b04183, 170px 0 #b04183;
+  }
+  h1 {
+    width: 10px;
+    height: 100px;
+    background: #f7bed9;
+    margin: -200 62;
+    border-radius: 10px;
+    box-shadow: 65px -25px 0 5px #f7bed9, 65px 25px 0 5px #f7bed9,
+      185px -25px 0 5px #f7bed9, 185px 25px 0 5px #f7bed9, 250px 0 #f7bed9;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p><p a><style>p{width:80;height:80;background:currentcolor;color:B04183;margin:110 62-200;box-shadow:25vw 0 0 21q,180q 0,0 0 0 3in#5F133F}[a]{width:10;height:100;color:F7BED9;border-radius:8q;box-shadow:65px -25px 0 5px,65px 25px 0 5px,185px -25px 0 5px,185px 25px 0 5px,250px 0
 ```
 
-## [24/03/2024](url)
+## [24/03/2024](https://cssbattle.dev/play/eYl0NTAF2HmAuNXhphx9)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_AZTAQS4@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<style>
+  body {
+    background: radial-gradient(
+      circle at 50% 90px,
+      #6c1715 30px,
+      #c8393a 30px,
+      #c8393a 50px,
+      #6c1715 50px
+    );
+  }
+  div {
+    width: 150px;
+    height: 240px;
+    background: #c8393a;
+    margin: 20 auto;
+    clip-path: polygon(
+      0 160px,
+      65px 160px,
+      65px 100px,
+      85px 100px,
+      85px 160px,
+      100% 160px,
+      50% 100%
+    );
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p><style>&{background:radial-gradient(1q at 50%90px,#6C1715 32q,#C8393A 0 53q,#6C1715 0)}p{width:150;height:240;background:#C8393A;margin:20 117;clip-path:polygon(0%40vw,65px 40vw,65px 41%,85px 42%,85px 40vw,100%40vw,50%100%
 ```
 
 ## [25/03/2024](url)
