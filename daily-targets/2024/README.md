@@ -12,4 +12,8 @@
 
 ![Mar 2024](../../assets/daily-targets/2024/mar.png)
 
+## [April](./apr.md)
+
+![Apr 2024](../../assets/daily-targets/2024/apr.png)
+
 [\[↑ Scroll to top\]](#2024)
