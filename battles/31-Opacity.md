@@ -26,7 +26,7 @@ description: Time to flex your CSS and build some cool CSS art!
         circle at 20px 105px,
         #f459e3 150px,
         transparent 100px
-      ), radial-gradient(circle at 70px 110px, #e89a52 140px, #f9c96c 100px);
+      ), radial-gradient(1Q at 70px 110px, #e89a52 140px, #f9c96c 100px);
     margin: 55 auto;
     rotate: -15deg;
     border-radius: 65px 65px 120px 120px;
