@@ -16,4 +16,12 @@
 
 ![Apr 2024](../../assets/daily-targets/2024/apr.jpg)
 
+## [May](./may.md)
+
+![May 2024](../../assets/daily-targets/2024/may.jpg)
+
+## [June](./jun.md)
+
+![Jun 2024](../../assets/daily-targets/2024/jun.jpg)
+
 [\[↑ Scroll to top\]](#2024)

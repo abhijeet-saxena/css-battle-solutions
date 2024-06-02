@@ -979,100 +979,245 @@
 <p><style>*{background:#DBBA30;color:A95415}p{width:40;height:40;margin:210+212;box-shadow:5ch -5ch#DBBA30,0-5ch 0 5ch,-5em -30vw,-20px -60px 0 60px#DBBA30,-5ch -5em 0 5em
 ```
 
-## [26/05/2024](url)
+## [26/05/2024](https://cssbattle.dev/play/h1lqgh64LtcWHU5Huofy)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_EO2D1CF@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<style>
+  div {
+    width: 80px;
+    height: 80px;
+    background: #ffffcd;
+    margin: -8 92;
+    box-shadow: 120px 0 #ffffcd, 0 220px #ffffcd, 60px -60px 0 100px #edaf38, 120px
+        220px #ffffcd, 60px 280px 0 100px #edaf38, -120px 100px 0 120px #ffffcd,
+      240px 100px 0 120px #ffffcd, 0 0 0 3in #edaf38;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p><style>p{width:80;height:80;background:#FFFFCD;color:FFFFCD;margin:-8+92;box-shadow:30vw+0,0+55vw,64q -64q+0+25vw#EDAF38,30vw+55vw,60px+70vw+0+25vw#EDAF38,-30vw+25vw+0+30vw,60vw+25vw+0+30vw,0+0+0+3in#EDAF38
 ```
 
-## [27/05/2024](url)
+## [27/05/2024](https://cssbattle.dev/play/7bnFC1HEjSBulnvEykp4)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_HpOqDAs@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<style>
+  body {
+    background: #be3184;
+  }
+  div {
+    width: 40px;
+    height: 300px;
+    background: #611b3f;
+    margin: -228 92;
+    box-shadow: 0 440px #611b3f, 80px 40px #611b3f, 80px 400px #611b3f, 160px
+        220px #611b3f;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<body bgcolor="BE3184" text="611B3F">
+  <p
+    style="width:40;height:300;background:#611B3F;margin:-228+92;box-shadow:0+55ch,5em+5ch,5em+25em,10em+55vw"
+  ></p>
+</body>
 ```
 
-## [28/05/2024](url)
+## [28/05/2024](https://cssbattle.dev/play/GWCcGIiZCG2XZUUVCZmH)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_zRbZ25E@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<div a></div>
+<div b></div>
+<div c></div>
+<div c d></div>
+<style>
+  body {
+    background: #f48b26;
+  }
+  div {
+    width: 60px;
+    height: 30px;
+    border: solid 20px #feff58;
+    border-radius: 0 0 50px 50px;
+    border-top: 0;
+    position: fixed;
+    top: 150;
+    left: -10;
+  }
+  [a] {
+    left: 150;
+  }
+  [b] {
+    left: 310;
+  }
+  [c] {
+    left: 70;
+    top: 100;
+    scale: -1;
+  }
+  [d] {
+    left: 230;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p><p a><p b><p c><p c d><style>&{background:#F48B26}p{width:60;height:30;border:solid+20px#FEFF58;border-radius:0+0+53q+53q;border-top:0;position:fixed;top:134;left:-10}[a]{left:150}[b]{left:310}[c]{left:70;top:84;scale:-1}[d]{left:230
 ```
 
-## [29/05/2024](url)
+## [29/05/2024](https://cssbattle.dev/play/Z9JGROXyCLbIAi6d2rWZ)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_qGJRWYc@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<div a></div>
+<style>
+  body {
+    background: #4f77ff;
+  }
+  div {
+    width: 100px;
+    height: 100px;
+    background: #ffffff;
+    border-radius: 50%;
+    position: relative;
+    margin: 100 212;
+  }
+  div::before,
+  div::after {
+    content: "";
+    position: absolute;
+    width: 60px;
+    height: 20px;
+    background: #4f77ff;
+    border-radius: 20px;
+    top: 40;
+    left: 20;
+  }
+  div::after {
+    rotate: 90deg;
+  }
+  [a] {
+    margin: -200 72;
+    rotate: 45deg;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<body bgcolor=4F77FF><p><p a><style>p{width:100;height:100;background:#FFF;border-radius:50%;position:relative;margin:100+212;&:before,&:after{content:"";position:absolute;width:60;height:20;background:#4F77FF;border-radius:22q;top:40;left:20}&:after{rotate:90deg}&[a]{margin:-200+72;rotate:45deg
 ```
 
-## [30/05/2024](url)
+## [30/05/2024](https://cssbattle.dev/play/0pXO9nG5qNDgiarJaIpU)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_rIGkQmC@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<h1></h1>
+<style>
+  body {
+    background: #f59426;
+  }
+  div {
+    width: 240px;
+    height: 80px;
+    background: #ffffff;
+    margin: 130 auto;
+    clip-path: polygon(0 0, 100% 0, 220px 100%, 20px 100%);
+  }
+  h1 {
+    background: #ffffff;
+    width: 16px;
+    height: 40px;
+    margin: -250 72;
+    box-shadow: 56px 0 #ffffff, 112px 0 #ffffff, 168px 0 #ffffff, 224px 0
+        #ffffff;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<body bgcolor=F59426 text=#FFF><p><p a><style>p{width:16;height:40;background:#FFF;margin:90+72-90;box-shadow:59q+0,112px+0,168px+0,237q+0}[a]{width:240;height:80;clip-path:polygon(0%0,100%0,55vw+100%,21q+100%
 ```
 
-## [31/05/2024](url)
+## [31/05/2024](https://cssbattle.dev/play/MeYbCyj7tP6rh8vBCbit)
 
-<img width="400px" height="300px" loading="lazy" src="url">
+<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_4EzJLH4@2x.png?alt=media">
 
 #### Solution:
 
 ```html
-
+<div></div>
+<div a></div>
+<p></p>
+<style>
+  body {
+    background: #6592cf;
+  }
+  div {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    color: #557dbc;
+    border: solid 30px;
+    position: fixed;
+    top: 50;
+    left: 100;
+  }
+  [a] {
+    color: #243d83;
+    clip-path: polygon(50% 0, 50% 50%, 100% 50%, 100% 100%, 0 100%, 0 0);
+  }
+  p {
+    width: 30px;
+    height: 30px;
+    background: #243d83;
+    border-radius: 50%;
+    position: fixed;
+    top: 34;
+    left: 185;
+    box-shadow: 85px 85px #243d83;
+  }
+</style>
 ```
 
 #### Minified:
 
 ```html
-
+<p><p a><h1><style>*{background:#6592CF;position:fixed;border-radius:50%;color:243D83}p{width:140;height:140;border:solid+30px;top:34;left:100}h1{width:30;height:30;background:#243D83;top:28;left:185;box-shadow:85px+85px}[a]{color:557DBC;clip-path:polygon(50%0,100%0,100%50%,50%50%
 ```
 
 [\[↑ Scroll to top\]](#may-2024)

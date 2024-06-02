@@ -1,65 +1,6 @@
-# June 2024
+# July 2024
 
-## [01/06/2024](https://cssbattle.dev/play/WHP6v0Ps28FT28JnygJt)
-
-<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_oOCcJhP@2x.png?alt=media">
-
-#### Solution:
-
-```html
-<div></div>
-<style>
-  body {
-    background: #0a6190;
-  }
-  div {
-    width: 100px;
-    height: 200px;
-    background: #328fc1;
-    margin: -8 292;
-    box-shadow: -200px 100px #328fc1;
-  }
-</style>
-```
-
-#### Minified:
-
-```html
-<p
-  style="width:100;height:200;background:#328FC1;margin:-8+292;box-shadow:-50vw+25vw#328FC1,0+0+0+4in#0A6190"
-></p>
-```
-
-## [02/06/2024](https://cssbattle.dev/play/STmn8NkvcvIkgqnHvfLq)
-
-<img width="400px" height="300px" loading="lazy" src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_Yu4hbUD@2x.png?alt=media">
-
-#### Solution:
-
-```html
-<div></div>
-<style>
-  body {
-    background: radial-gradient(circle at 50% 0, #4f77ff 100px, #eff8fe 100px);
-  }
-  div {
-    width: 100px;
-    height: 150px;
-    background: #4f77ff;
-    margin: 150 92;
-    border-radius: 50px 50px 0 0;
-    box-shadow: 100px 0#4F77FF;
-  }
-</style>
-```
-
-#### Minified:
-
-```html
-<p><style>p{width:100;height:150;background:#4F77FF;margin:150+92;border-radius:53q+53q+0+0;box-shadow:25vw+0#4F77FF}&{background:radial-gradient(1q at+50%0,#4F77FF+25vw,#EFF8FE
-```
-
-## [03/06/2024](url)
+## [01/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -75,7 +16,7 @@
 
 ```
 
-## [04/06/2024](url)
+## [02/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -91,7 +32,7 @@
 
 ```
 
-## [05/06/2024](url)
+## [03/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -107,7 +48,7 @@
 
 ```
 
-## [06/06/2024](url)
+## [04/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -123,7 +64,7 @@
 
 ```
 
-## [07/06/2024](url)
+## [05/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -139,7 +80,7 @@
 
 ```
 
-## [08/06/2024](url)
+## [06/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -155,7 +96,7 @@
 
 ```
 
-## [09/06/2024](url)
+## [07/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -171,7 +112,7 @@
 
 ```
 
-## [10/06/2024](url)
+## [08/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -187,7 +128,7 @@
 
 ```
 
-## [11/06/2024](url)
+## [09/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -203,7 +144,7 @@
 
 ```
 
-## [12/06/2024](url)
+## [10/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -219,7 +160,7 @@
 
 ```
 
-## [13/06/2024](url)
+## [11/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -235,7 +176,7 @@
 
 ```
 
-## [14/06/2024](url)
+## [12/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -251,7 +192,7 @@
 
 ```
 
-## [15/06/2024](url)
+## [13/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -267,7 +208,7 @@
 
 ```
 
-## [16/06/2024](url)
+## [14/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -283,7 +224,7 @@
 
 ```
 
-## [17/06/2024](url)
+## [15/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -299,7 +240,7 @@
 
 ```
 
-## [18/06/2024](url)
+## [16/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -315,7 +256,7 @@
 
 ```
 
-## [19/06/2024](url)
+## [17/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -331,7 +272,7 @@
 
 ```
 
-## [20/06/2024](url)
+## [18/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -347,7 +288,7 @@
 
 ```
 
-## [21/06/2024](url)
+## [19/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -363,7 +304,7 @@
 
 ```
 
-## [22/06/2024](url)
+## [20/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -379,7 +320,7 @@
 
 ```
 
-## [23/06/2024](url)
+## [21/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -395,7 +336,7 @@
 
 ```
 
-## [24/06/2024](url)
+## [22/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -411,7 +352,7 @@
 
 ```
 
-## [25/06/2024](url)
+## [23/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -427,7 +368,7 @@
 
 ```
 
-## [26/06/2024](url)
+## [24/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -443,7 +384,7 @@
 
 ```
 
-## [27/06/2024](url)
+## [25/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -459,7 +400,7 @@
 
 ```
 
-## [28/06/2024](url)
+## [26/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -475,7 +416,7 @@
 
 ```
 
-## [29/06/2024](url)
+## [27/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -491,7 +432,7 @@
 
 ```
 
-## [30/06/2024](url)
+## [28/07/2024](url)
 
 <img width="400px" height="300px" loading="lazy" src="url">
 
@@ -507,4 +448,52 @@
 
 ```
 
-[\[↑ Scroll to top\]](#june-2024)
+## [29/07/2024](url)
+
+<img width="400px" height="300px" loading="lazy" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [30/07/2024](url)
+
+<img width="400px" height="300px" loading="lazy" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+## [31/07/2024](url)
+
+<img width="400px" height="300px" loading="lazy" src="url">
+
+#### Solution:
+
+```html
+
+```
+
+#### Minified:
+
+```html
+
+```
+
+[\[↑ Scroll to top\]](#july-2024)
