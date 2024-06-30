@@ -63,10 +63,10 @@ Compete with players around the world in these nail-biting battles
 
 A new target everyday for you to unwind. No leaderboards, no competition
 
-|               Challenges               |                                                                                                              Solutions                                                                                                               |
-| :------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [2023](./daily-targets/2023/README.md) |                     [Aug](./daily-targets/2023/aug.md) \| [Sep](./daily-targets/2023/sep.md) <br>[Oct](./daily-targets/2023/oct.md) \| [Nov](./daily-targets/2023/nov.md) \| [Dec](./daily-targets/2023/dec.md)                      |
-| [2024](./daily-targets/2024/README.md) | [Jan](./daily-targets/2024/jan.md) \| [Feb](./daily-targets/2024/feb.md) \| [Mar](./daily-targets/2024/mar.md) \| [Apr](./daily-targets/2024/apr.md) \| [May](./daily-targets/2024/may.md) \| **[Jun](./daily-targets/2024/jun.md)** |
+|               Challenges               |                                                                                                                                     Solutions                                                                                                                                     |
+| :------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [2023](./daily-targets/2023/README.md) |                                            [Aug](./daily-targets/2023/aug.md) \| [Sep](./daily-targets/2023/sep.md) <br>[Oct](./daily-targets/2023/oct.md) \| [Nov](./daily-targets/2023/nov.md) \| [Dec](./daily-targets/2023/dec.md)                                            |
+| [2024](./daily-targets/2024/README.md) | [Jan](./daily-targets/2024/jan.md) \| [Feb](./daily-targets/2024/feb.md) \| [Mar](./daily-targets/2024/mar.md) <br> [Apr](./daily-targets/2024/apr.md) \| [May](./daily-targets/2024/may.md) \| [Jun](./daily-targets/2024/jun.md) <br> **[Jul](./daily-targets/2024/jul.md)** \| |
 
 ### Local Setup
 
