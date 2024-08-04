@@ -26,6 +26,10 @@
 
 ## [July](./jun.md)
 
-![Jun 2024](../../assets/daily-targets/2024/jul.jpg)
+![July 2024](../../assets/daily-targets/2024/jul.jpg)
+
+## [August](./aug.md)
+
+![Aug 2024](../../assets/daily-targets/2024/aug.jpg)
 
 [\[↑ Scroll to top\]](#2024)
