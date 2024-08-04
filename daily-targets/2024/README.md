@@ -24,7 +24,7 @@
 
 ![Jun 2024](../../assets/daily-targets/2024/jun.jpg)
 
-## [July](./jun.md)
+## [July](./jul.md)
 
 ![July 2024](../../assets/daily-targets/2024/jul.jpg)
 
